@@ -1,0 +1,367 @@
+2023-06-02 14:38:58,158 [restartedMain] INFO  c.m.MoviebookingApplication Starting MoviebookingApplication using Java 18.0.1.1 with PID 16952 (C:\Users\2050610\eclipse-workspace\moviebookingapp\target\classes started by 2050610 in C:\Users\2050610\eclipse-workspace\moviebookingapp)
+2023-06-02 14:38:58,159 [restartedMain] DEBUG c.m.MoviebookingApplication Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-02 14:38:58,161 [restartedMain] INFO  c.m.MoviebookingApplication No active profile set, falling back to 1 default profile: "default"
+2023-06-02 14:39:02,352 [restartedMain] DEBUG c.m.tools.AuthTokenFilter Filter 'authTokenFilter' configured for use
+2023-06-02 14:39:04,326 [restartedMain] INFO  c.m.MoviebookingApplication Started MoviebookingApplication in 6.851 seconds (process running for 7.786)
+2023-06-02 14:39:16,256 [http-nio-8088-exec-1] WARN  c.m.tools.AuthTokenFilter MARKER, Couldn't find bearer string, header will be ignored
+2023-06-02 14:39:16,584 [http-nio-8088-exec-1] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad credentials
+2023-06-02 14:39:26,241 [restartedMain] INFO  c.m.MoviebookingApplication Starting MoviebookingApplication using Java 18.0.1.1 with PID 11196 (C:\Users\2050610\eclipse-workspace\moviebookingapp\target\classes started by 2050610 in C:\Users\2050610\eclipse-workspace\moviebookingapp)
+2023-06-02 14:39:26,243 [restartedMain] DEBUG c.m.MoviebookingApplication Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-02 14:39:26,244 [restartedMain] INFO  c.m.MoviebookingApplication No active profile set, falling back to 1 default profile: "default"
+2023-06-02 14:39:31,137 [restartedMain] DEBUG c.m.tools.AuthTokenFilter Filter 'authTokenFilter' configured for use
+2023-06-02 14:45:51,555 [restartedMain] INFO  c.m.MoviebookingApplication Starting MoviebookingApplication using Java 18.0.1.1 with PID 51544 (C:\Users\2050610\eclipse-workspace\moviebookingapp\target\classes started by 2050610 in C:\Users\2050610\eclipse-workspace\moviebookingapp)
+2023-06-02 14:45:51,556 [restartedMain] DEBUG c.m.MoviebookingApplication Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-02 14:45:51,557 [restartedMain] INFO  c.m.MoviebookingApplication No active profile set, falling back to 1 default profile: "default"
+2023-06-02 14:45:55,571 [restartedMain] DEBUG c.m.tools.AuthTokenFilter Filter 'authTokenFilter' configured for use
+2023-06-02 14:45:57,360 [restartedMain] INFO  c.m.MoviebookingApplication Started MoviebookingApplication in 6.409 seconds (process running for 7.614)
+2023-06-02 14:46:32,094 [http-nio-8088-exec-3] WARN  c.m.tools.AuthTokenFilter MARKER, Couldn't find bearer string, header will be ignored
+2023-06-02 14:46:34,451 [http-nio-8088-exec-3] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad credentials
+2023-06-02 14:49:29,094 [restartedMain] INFO  c.m.MoviebookingApplication Starting MoviebookingApplication using Java 18.0.1.1 with PID 45088 (C:\Users\2050610\eclipse-workspace\moviebookingapp\target\classes started by 2050610 in C:\Users\2050610\eclipse-workspace\moviebookingapp)
+2023-06-02 14:49:29,094 [restartedMain] DEBUG c.m.MoviebookingApplication Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-02 14:49:29,095 [restartedMain] INFO  c.m.MoviebookingApplication No active profile set, falling back to 1 default profile: "default"
+2023-06-02 14:49:32,765 [restartedMain] DEBUG c.m.tools.AuthTokenFilter Filter 'authTokenFilter' configured for use
+2023-06-02 14:50:15,730 [restartedMain] INFO  c.m.MoviebookingApplication Started MoviebookingApplication in 47.112 seconds (process running for 48.254)
+2023-06-02 14:50:22,779 [http-nio-8088-exec-1] WARN  c.m.tools.AuthTokenFilter MARKER, Couldn't find bearer string, header will be ignored
+2023-06-02 14:54:27,398 [restartedMain] INFO  c.m.MoviebookingApplication Starting MoviebookingApplication using Java 18.0.1.1 with PID 20352 (C:\Users\2050610\eclipse-workspace\moviebookingapp\target\classes started by 2050610 in C:\Users\2050610\eclipse-workspace\moviebookingapp)
+2023-06-02 14:54:27,399 [restartedMain] DEBUG c.m.MoviebookingApplication Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-02 14:54:27,400 [restartedMain] INFO  c.m.MoviebookingApplication No active profile set, falling back to 1 default profile: "default"
+2023-06-02 14:54:30,398 [restartedMain] DEBUG c.m.tools.AuthTokenFilter Filter 'authTokenFilter' configured for use
+2023-06-02 14:54:32,213 [restartedMain] INFO  c.m.MoviebookingApplication Started MoviebookingApplication in 5.239 seconds (process running for 6.042)
+2023-06-02 14:54:35,371 [http-nio-8088-exec-2] WARN  c.m.tools.AuthTokenFilter MARKER, Couldn't find bearer string, header will be ignored
+2023-06-02 14:54:35,988 [http-nio-8088-exec-2] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad credentials
+2023-06-02 14:54:57,842 [restartedMain] INFO  c.m.MoviebookingApplication Starting MoviebookingApplication using Java 18.0.1.1 with PID 4552 (C:\Users\2050610\eclipse-workspace\moviebookingapp\target\classes started by 2050610 in C:\Users\2050610\eclipse-workspace\moviebookingapp)
+2023-06-02 14:54:57,843 [restartedMain] DEBUG c.m.MoviebookingApplication Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-02 14:54:57,843 [restartedMain] INFO  c.m.MoviebookingApplication No active profile set, falling back to 1 default profile: "default"
+2023-06-02 14:55:02,044 [restartedMain] DEBUG c.m.tools.AuthTokenFilter Filter 'authTokenFilter' configured for use
+2023-06-02 14:55:03,989 [restartedMain] INFO  c.m.MoviebookingApplication Started MoviebookingApplication in 6.75 seconds (process running for 8.078)
+2023-06-02 14:55:06,807 [http-nio-8088-exec-2] WARN  c.m.tools.AuthTokenFilter MARKER, Couldn't find bearer string, header will be ignored
+2023-06-02 15:55:45,249 [restartedMain] INFO  c.m.MoviebookingApplication Starting MoviebookingApplication using Java 18.0.1.1 with PID 51852 (C:\Users\2050610\eclipse-workspace\moviebookingapp\target\classes started by 2050610 in C:\Users\2050610\eclipse-workspace\moviebookingapp)
+2023-06-02 15:55:45,250 [restartedMain] DEBUG c.m.MoviebookingApplication Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-02 15:55:45,251 [restartedMain] INFO  c.m.MoviebookingApplication No active profile set, falling back to 1 default profile: "default"
+2023-06-02 15:55:48,955 [restartedMain] DEBUG c.m.tools.AuthTokenFilter Filter 'authTokenFilter' configured for use
+2023-06-02 15:55:50,766 [restartedMain] INFO  c.m.MoviebookingApplication Started MoviebookingApplication in 6.122 seconds (process running for 7.637)
+2023-06-02 15:55:53,915 [http-nio-8088-exec-2] WARN  c.m.tools.AuthTokenFilter MARKER, The token has expired, JWT expired at 2023-06-02T11:23:01Z. Current time: 2023-06-02T13:55:53Z, a difference of 9172914 milliseconds.  Allowed clock skew: 0 milliseconds.
+2023-06-02 15:55:53,935 [http-nio-8088-exec-2] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Full authentication is required to access this resource
+2023-06-02 15:58:46,919 [restartedMain] INFO  c.m.MoviebookingApplication Starting MoviebookingApplication using Java 18.0.1.1 with PID 50108 (C:\Users\2050610\eclipse-workspace\moviebookingapp\target\classes started by 2050610 in C:\Users\2050610\eclipse-workspace\moviebookingapp)
+2023-06-02 15:58:46,920 [restartedMain] DEBUG c.m.MoviebookingApplication Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-02 15:58:46,921 [restartedMain] INFO  c.m.MoviebookingApplication No active profile set, falling back to 1 default profile: "default"
+2023-06-02 15:58:50,360 [restartedMain] DEBUG c.m.tools.AuthTokenFilter Filter 'authTokenFilter' configured for use
+2023-06-02 15:58:51,913 [restartedMain] INFO  c.m.MoviebookingApplication Started MoviebookingApplication in 5.609 seconds (process running for 7.18)
+2023-06-02 15:58:56,010 [http-nio-8088-exec-3] WARN  c.m.tools.AuthTokenFilter MARKER, The token has expired, JWT expired at 2023-06-02T11:23:01Z. Current time: 2023-06-02T13:58:56Z, a difference of 9355007 milliseconds.  Allowed clock skew: 0 milliseconds.
+2023-06-02 15:58:56,029 [http-nio-8088-exec-3] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Full authentication is required to access this resource
+2023-06-02 15:59:01,228 [http-nio-8088-exec-2] WARN  c.m.tools.AuthTokenFilter MARKER, Couldn't find bearer string, header will be ignored
+2023-06-02 15:59:01,644 [http-nio-8088-exec-2] ERROR c.m.contollers.BookingController Refresh token not found!
+2023-06-02 16:02:54,344 [restartedMain] INFO  c.m.MoviebookingApplication Starting MoviebookingApplication using Java 18.0.1.1 with PID 43152 (C:\Users\2050610\eclipse-workspace\moviebookingapp\target\classes started by 2050610 in C:\Users\2050610\eclipse-workspace\moviebookingapp)
+2023-06-02 16:02:54,345 [restartedMain] DEBUG c.m.MoviebookingApplication Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-02 16:02:54,346 [restartedMain] INFO  c.m.MoviebookingApplication No active profile set, falling back to 1 default profile: "default"
+2023-06-02 16:02:57,769 [restartedMain] DEBUG c.m.tools.AuthTokenFilter Filter 'authTokenFilter' configured for use
+2023-06-02 16:02:59,703 [restartedMain] INFO  c.m.MoviebookingApplication Started MoviebookingApplication in 5.898 seconds (process running for 7.156)
+2023-06-02 16:03:08,371 [http-nio-8088-exec-4] WARN  c.m.tools.AuthTokenFilter MARKER, Couldn't find bearer string, header will be ignored
+2023-06-02 16:03:08,516 [http-nio-8088-exec-4] ERROR c.m.contollers.BookingController refresh cookie: [Ljakarta.servlet.http.Cookie;@56ddaa00
+2023-06-02 16:03:08,516 [http-nio-8088-exec-4] ERROR c.m.contollers.BookingController Refresh token not found!
+2023-06-02 16:06:51,239 [restartedMain] INFO  c.m.MoviebookingApplication Starting MoviebookingApplication using Java 18.0.1.1 with PID 52628 (C:\Users\2050610\eclipse-workspace\moviebookingapp\target\classes started by 2050610 in C:\Users\2050610\eclipse-workspace\moviebookingapp)
+2023-06-02 16:06:51,240 [restartedMain] DEBUG c.m.MoviebookingApplication Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-02 16:06:51,241 [restartedMain] INFO  c.m.MoviebookingApplication No active profile set, falling back to 1 default profile: "default"
+2023-06-02 16:06:53,569 [restartedMain] DEBUG c.m.tools.AuthTokenFilter Filter 'authTokenFilter' configured for use
+2023-06-02 16:06:54,711 [restartedMain] INFO  c.m.MoviebookingApplication Started MoviebookingApplication in 3.862 seconds (process running for 4.58)
+2023-06-02 16:06:58,062 [http-nio-8088-exec-3] WARN  c.m.tools.AuthTokenFilter MARKER, Couldn't find bearer string, header will be ignored
+2023-06-02 16:06:58,219 [http-nio-8088-exec-3] ERROR c.m.contollers.BookingController Headers: org.springframework.security.web.firewall.StrictHttpFirewall$StrictFirewalledRequest$2@ee5b248
+2023-06-02 16:06:58,220 [http-nio-8088-exec-3] ERROR c.m.contollers.BookingController Refresh token not found!
+2023-06-02 16:07:51,566 [restartedMain] INFO  c.m.MoviebookingApplication Starting MoviebookingApplication using Java 18.0.1.1 with PID 5892 (C:\Users\2050610\eclipse-workspace\moviebookingapp\target\classes started by 2050610 in C:\Users\2050610\eclipse-workspace\moviebookingapp)
+2023-06-02 16:07:51,567 [restartedMain] DEBUG c.m.MoviebookingApplication Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-02 16:07:51,567 [restartedMain] INFO  c.m.MoviebookingApplication No active profile set, falling back to 1 default profile: "default"
+2023-06-02 16:07:54,220 [restartedMain] DEBUG c.m.tools.AuthTokenFilter Filter 'authTokenFilter' configured for use
+2023-06-02 16:07:55,393 [restartedMain] INFO  c.m.MoviebookingApplication Started MoviebookingApplication in 4.225 seconds (process running for 4.967)
+2023-06-02 16:08:37,460 [http-nio-8088-exec-1] WARN  c.m.tools.AuthTokenFilter MARKER, The token has expired, JWT expired at 2023-06-02T11:23:01Z. Current time: 2023-06-02T14:08:37Z, a difference of 9936459 milliseconds.  Allowed clock skew: 0 milliseconds.
+2023-06-02 16:08:37,475 [http-nio-8088-exec-1] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Full authentication is required to access this resource
+2023-06-02 16:08:45,860 [http-nio-8088-exec-4] WARN  c.m.tools.AuthTokenFilter MARKER, Couldn't find bearer string, header will be ignored
+2023-06-02 16:08:46,040 [http-nio-8088-exec-4] ERROR c.m.contollers.BookingController Headers: org.springframework.security.web.firewall.StrictHttpFirewall$StrictFirewalledRequest$2@306b0c64
+2023-06-02 16:08:46,042 [http-nio-8088-exec-4] ERROR c.m.contollers.BookingController Refresh token not found!
+2023-06-02 16:09:39,462 [restartedMain] INFO  c.m.MoviebookingApplication Starting MoviebookingApplication using Java 18.0.1.1 with PID 4832 (C:\Users\2050610\eclipse-workspace\moviebookingapp\target\classes started by 2050610 in C:\Users\2050610\eclipse-workspace\moviebookingapp)
+2023-06-02 16:09:39,462 [restartedMain] DEBUG c.m.MoviebookingApplication Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-02 16:09:39,463 [restartedMain] INFO  c.m.MoviebookingApplication No active profile set, falling back to 1 default profile: "default"
+2023-06-02 16:09:41,937 [restartedMain] DEBUG c.m.tools.AuthTokenFilter Filter 'authTokenFilter' configured for use
+2023-06-02 16:09:43,098 [restartedMain] INFO  c.m.MoviebookingApplication Started MoviebookingApplication in 4.012 seconds (process running for 4.75)
+2023-06-02 16:09:47,962 [http-nio-8088-exec-1] WARN  c.m.tools.AuthTokenFilter MARKER, Couldn't find bearer string, header will be ignored
+2023-06-02 16:09:48,162 [http-nio-8088-exec-1] ERROR c.m.contollers.BookingController Headers: user-agent
+2023-06-02 16:09:48,162 [http-nio-8088-exec-1] ERROR c.m.contollers.BookingController Refresh token not found!
+2023-06-02 16:12:10,000 [http-nio-8088-exec-5] WARN  c.m.tools.AuthTokenFilter MARKER, Couldn't find bearer string, header will be ignored
+2023-06-02 16:12:10,014 [http-nio-8088-exec-5] ERROR c.m.contollers.BookingController Headers: user-agent
+2023-06-02 16:12:10,014 [http-nio-8088-exec-5] ERROR c.m.contollers.BookingController Refresh token not found!
+2023-06-02 16:12:54,972 [http-nio-8088-exec-3] WARN  c.m.tools.AuthTokenFilter MARKER, Couldn't find bearer string, header will be ignored
+2023-06-02 16:12:54,993 [http-nio-8088-exec-3] ERROR c.m.contollers.BookingController Headers: refresh_token
+2023-06-02 16:12:54,993 [http-nio-8088-exec-3] ERROR c.m.contollers.BookingController Refresh token not found!
+2023-06-02 16:13:51,097 [restartedMain] INFO  c.m.MoviebookingApplication Starting MoviebookingApplication using Java 18.0.1.1 with PID 15984 (C:\Users\2050610\eclipse-workspace\moviebookingapp\target\classes started by 2050610 in C:\Users\2050610\eclipse-workspace\moviebookingapp)
+2023-06-02 16:13:51,098 [restartedMain] DEBUG c.m.MoviebookingApplication Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-02 16:13:51,099 [restartedMain] INFO  c.m.MoviebookingApplication No active profile set, falling back to 1 default profile: "default"
+2023-06-02 16:13:55,245 [restartedMain] DEBUG c.m.tools.AuthTokenFilter Filter 'authTokenFilter' configured for use
+2023-06-02 16:13:56,922 [restartedMain] INFO  c.m.MoviebookingApplication Started MoviebookingApplication in 6.465 seconds (process running for 7.337)
+2023-06-02 16:14:08,798 [http-nio-8088-exec-2] WARN  c.m.tools.AuthTokenFilter MARKER, Couldn't find bearer string, header will be ignored
+2023-06-02 16:14:08,938 [http-nio-8088-exec-2] ERROR c.m.contollers.BookingController Headers: eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJrYXQiLCJyb2xlcyI6ImFkbWluIiwiaWF0IjoxNjg1NzA0OTYzLCJleHAiOjE2ODU3MDQ5ODF9.rFRFtitX8zve941X-L3uwrNlG3aMZ88aK_SXpXnODBWTJ0zyWbm4Hb1AuPg7JKu9Zo2BJjd6A338U3UzyAkmYw
+2023-06-02 16:14:08,938 [http-nio-8088-exec-2] ERROR c.m.contollers.BookingController Refresh token not found!
+2023-06-02 16:15:15,645 [restartedMain] INFO  c.m.MoviebookingApplication Starting MoviebookingApplication using Java 18.0.1.1 with PID 51164 (C:\Users\2050610\eclipse-workspace\moviebookingapp\target\classes started by 2050610 in C:\Users\2050610\eclipse-workspace\moviebookingapp)
+2023-06-02 16:15:15,645 [restartedMain] DEBUG c.m.MoviebookingApplication Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-02 16:15:15,646 [restartedMain] INFO  c.m.MoviebookingApplication No active profile set, falling back to 1 default profile: "default"
+2023-06-02 16:15:17,939 [restartedMain] DEBUG c.m.tools.AuthTokenFilter Filter 'authTokenFilter' configured for use
+2023-06-02 16:15:19,566 [restartedMain] INFO  c.m.MoviebookingApplication Started MoviebookingApplication in 4.309 seconds (process running for 5.01)
+2023-06-02 16:15:23,670 [http-nio-8088-exec-1] WARN  c.m.tools.AuthTokenFilter MARKER, Couldn't find bearer string, header will be ignored
+2023-06-02 16:15:23,818 [http-nio-8088-exec-1] ERROR c.m.contollers.BookingController Headers: eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJrYXQiLCJyb2xlcyI6ImFkbWluIiwiaWF0IjoxNjg1NzA0OTYzLCJleHAiOjE2ODU3MDQ5ODF9.rFRFtitX8zve941X-L3uwrNlG3aMZ88aK_SXpXnODBWTJ0zyWbm4Hb1AuPg7JKu9Zo2BJjd6A338U3UzyAkmYw
+2023-06-02 16:15:23,828 [http-nio-8088-exec-1] INFO  com.moviebookingapp.tools.JwtUtils Start - validateToken
+2023-06-02 16:15:23,930 [http-nio-8088-exec-1] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Full authentication is required to access this resource
+2023-06-02 16:16:24,388 [http-nio-8088-exec-5] WARN  c.m.tools.AuthTokenFilter MARKER, The token has expired, JWT expired at 2023-06-02T11:23:01Z. Current time: 2023-06-02T14:16:24Z, a difference of 10403388 milliseconds.  Allowed clock skew: 0 milliseconds.
+2023-06-02 16:16:24,392 [http-nio-8088-exec-5] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Full authentication is required to access this resource
+2023-06-02 16:16:57,691 [http-nio-8088-exec-6] WARN  c.m.tools.AuthTokenFilter MARKER, Couldn't find bearer string, header will be ignored
+2023-06-02 16:16:58,151 [http-nio-8088-exec-6] INFO  com.moviebookingapp.tools.JwtUtils Start - generateToken
+2023-06-02 16:16:58,152 [http-nio-8088-exec-6] INFO  com.moviebookingapp.tools.JwtUtils End - generateToken
+2023-06-02 16:16:58,167 [http-nio-8088-exec-6] INFO  com.moviebookingapp.tools.JwtUtils Generating cookie
+2023-06-02 16:16:58,169 [http-nio-8088-exec-6] INFO  com.moviebookingapp.tools.JwtUtils Generating refresh cookie
+2023-06-02 16:16:58,169 [http-nio-8088-exec-6] INFO  c.m.contollers.BookingController Sign in user
+2023-06-02 16:18:55,582 [restartedMain] INFO  c.m.MoviebookingApplication Starting MoviebookingApplication using Java 18.0.1.1 with PID 20312 (C:\Users\2050610\eclipse-workspace\moviebookingapp\target\classes started by 2050610 in C:\Users\2050610\eclipse-workspace\moviebookingapp)
+2023-06-02 16:18:55,583 [restartedMain] DEBUG c.m.MoviebookingApplication Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-02 16:18:55,584 [restartedMain] INFO  c.m.MoviebookingApplication No active profile set, falling back to 1 default profile: "default"
+2023-06-02 16:19:00,151 [restartedMain] DEBUG c.m.tools.AuthTokenFilter Filter 'authTokenFilter' configured for use
+2023-06-02 16:19:02,606 [restartedMain] INFO  c.m.MoviebookingApplication Started MoviebookingApplication in 7.892 seconds (process running for 9.726)
+2023-06-02 16:19:12,318 [http-nio-8088-exec-3] WARN  c.m.tools.AuthTokenFilter MARKER, Couldn't find bearer string, header will be ignored
+2023-06-02 16:19:12,905 [http-nio-8088-exec-3] INFO  com.moviebookingapp.tools.JwtUtils Start - generateToken
+2023-06-02 16:19:12,907 [http-nio-8088-exec-3] INFO  com.moviebookingapp.tools.JwtUtils End - generateToken
+2023-06-02 16:19:12,988 [http-nio-8088-exec-3] INFO  com.moviebookingapp.tools.JwtUtils Generating cookie
+2023-06-02 16:19:12,993 [http-nio-8088-exec-3] INFO  com.moviebookingapp.tools.JwtUtils Generating refresh cookie
+2023-06-02 16:19:12,994 [http-nio-8088-exec-3] INFO  c.m.contollers.BookingController Sign in user
+2023-06-02 16:19:48,973 [restartedMain] INFO  c.m.MoviebookingApplication Starting MoviebookingApplication using Java 18.0.1.1 with PID 15676 (C:\Users\2050610\eclipse-workspace\moviebookingapp\target\classes started by 2050610 in C:\Users\2050610\eclipse-workspace\moviebookingapp)
+2023-06-02 16:19:48,974 [restartedMain] DEBUG c.m.MoviebookingApplication Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-02 16:19:48,975 [restartedMain] INFO  c.m.MoviebookingApplication No active profile set, falling back to 1 default profile: "default"
+2023-06-02 16:19:53,048 [restartedMain] DEBUG c.m.tools.AuthTokenFilter Filter 'authTokenFilter' configured for use
+2023-06-02 16:19:55,135 [restartedMain] INFO  c.m.MoviebookingApplication Started MoviebookingApplication in 7.023 seconds (process running for 8.37)
+2023-06-02 16:19:58,813 [http-nio-8088-exec-1] WARN  c.m.tools.AuthTokenFilter MARKER, Couldn't find bearer string, header will be ignored
+2023-06-02 16:19:59,936 [http-nio-8088-exec-1] INFO  com.moviebookingapp.tools.JwtUtils Start - generateToken
+2023-06-02 16:19:59,938 [http-nio-8088-exec-1] INFO  com.moviebookingapp.tools.JwtUtils End - generateToken
+2023-06-02 16:20:00,001 [http-nio-8088-exec-1] INFO  com.moviebookingapp.tools.JwtUtils Generating cookie
+2023-06-02 16:20:00,003 [http-nio-8088-exec-1] INFO  com.moviebookingapp.tools.JwtUtils Generating refresh cookie
+2023-06-02 16:20:00,003 [http-nio-8088-exec-1] INFO  c.m.contollers.BookingController Sign in user
+2023-06-02 16:20:41,513 [restartedMain] INFO  c.m.MoviebookingApplication Starting MoviebookingApplication using Java 18.0.1.1 with PID 36356 (C:\Users\2050610\eclipse-workspace\moviebookingapp\target\classes started by 2050610 in C:\Users\2050610\eclipse-workspace\moviebookingapp)
+2023-06-02 16:20:41,513 [restartedMain] DEBUG c.m.MoviebookingApplication Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-02 16:20:41,514 [restartedMain] INFO  c.m.MoviebookingApplication No active profile set, falling back to 1 default profile: "default"
+2023-06-02 16:20:45,160 [restartedMain] DEBUG c.m.tools.AuthTokenFilter Filter 'authTokenFilter' configured for use
+2023-06-02 16:20:47,146 [restartedMain] INFO  c.m.MoviebookingApplication Started MoviebookingApplication in 6.037 seconds (process running for 6.782)
+2023-06-02 16:21:00,749 [http-nio-8088-exec-1] WARN  c.m.tools.AuthTokenFilter MARKER, Couldn't find bearer string, header will be ignored
+2023-06-02 16:21:01,311 [http-nio-8088-exec-1] INFO  com.moviebookingapp.tools.JwtUtils Start - generateToken
+2023-06-02 16:21:01,312 [http-nio-8088-exec-1] INFO  com.moviebookingapp.tools.JwtUtils End - generateToken
+2023-06-02 16:21:01,350 [http-nio-8088-exec-1] INFO  com.moviebookingapp.tools.JwtUtils Generating cookie
+2023-06-02 16:21:01,351 [http-nio-8088-exec-1] INFO  com.moviebookingapp.tools.JwtUtils Generating refresh cookie
+2023-06-02 16:21:01,351 [http-nio-8088-exec-1] INFO  c.m.contollers.BookingController Sign in user
+2023-06-02 16:21:46,282 [restartedMain] INFO  c.m.MoviebookingApplication Starting MoviebookingApplication using Java 18.0.1.1 with PID 4868 (C:\Users\2050610\eclipse-workspace\moviebookingapp\target\classes started by 2050610 in C:\Users\2050610\eclipse-workspace\moviebookingapp)
+2023-06-02 16:21:46,283 [restartedMain] DEBUG c.m.MoviebookingApplication Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-02 16:21:46,284 [restartedMain] INFO  c.m.MoviebookingApplication No active profile set, falling back to 1 default profile: "default"
+2023-06-02 16:21:49,693 [restartedMain] DEBUG c.m.tools.AuthTokenFilter Filter 'authTokenFilter' configured for use
+2023-06-02 16:21:51,632 [restartedMain] INFO  c.m.MoviebookingApplication Started MoviebookingApplication in 5.785 seconds (process running for 6.555)
+2023-06-02 16:21:56,039 [http-nio-8088-exec-3] WARN  c.m.tools.AuthTokenFilter MARKER, Couldn't find bearer string, header will be ignored
+2023-06-02 16:21:56,657 [http-nio-8088-exec-3] INFO  com.moviebookingapp.tools.JwtUtils Start - generateToken
+2023-06-02 16:21:56,659 [http-nio-8088-exec-3] INFO  com.moviebookingapp.tools.JwtUtils End - generateToken
+2023-06-02 16:21:56,702 [http-nio-8088-exec-3] INFO  com.moviebookingapp.tools.JwtUtils Generating cookie
+2023-06-02 16:21:56,704 [http-nio-8088-exec-3] INFO  com.moviebookingapp.tools.JwtUtils Generating refresh cookie
+2023-06-02 16:21:56,704 [http-nio-8088-exec-3] INFO  c.m.contollers.BookingController Sign in user
+2023-06-02 16:22:47,837 [restartedMain] INFO  c.m.MoviebookingApplication Starting MoviebookingApplication using Java 18.0.1.1 with PID 52232 (C:\Users\2050610\eclipse-workspace\moviebookingapp\target\classes started by 2050610 in C:\Users\2050610\eclipse-workspace\moviebookingapp)
+2023-06-02 16:22:47,838 [restartedMain] DEBUG c.m.MoviebookingApplication Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-02 16:22:47,839 [restartedMain] INFO  c.m.MoviebookingApplication No active profile set, falling back to 1 default profile: "default"
+2023-06-02 16:22:50,157 [restartedMain] DEBUG c.m.tools.AuthTokenFilter Filter 'authTokenFilter' configured for use
+2023-06-02 16:22:51,331 [restartedMain] INFO  c.m.MoviebookingApplication Started MoviebookingApplication in 3.884 seconds (process running for 4.618)
+2023-06-02 16:22:56,478 [http-nio-8088-exec-1] WARN  c.m.tools.AuthTokenFilter MARKER, Couldn't find bearer string, header will be ignored
+2023-06-02 16:22:56,918 [http-nio-8088-exec-1] INFO  com.moviebookingapp.tools.JwtUtils Start - generateToken
+2023-06-02 16:22:56,919 [http-nio-8088-exec-1] INFO  com.moviebookingapp.tools.JwtUtils End - generateToken
+2023-06-02 16:22:56,952 [http-nio-8088-exec-1] INFO  com.moviebookingapp.tools.JwtUtils Generating cookie
+2023-06-02 16:22:56,954 [http-nio-8088-exec-1] INFO  com.moviebookingapp.tools.JwtUtils Generating refresh cookie
+2023-06-02 16:22:56,954 [http-nio-8088-exec-1] INFO  c.m.contollers.BookingController Sign in user
+2023-06-02 16:23:54,320 [http-nio-8088-exec-3] WARN  c.m.tools.AuthTokenFilter MARKER, Couldn't find bearer string, header will be ignored
+2023-06-02 16:23:54,351 [http-nio-8088-exec-3] ERROR c.m.contollers.BookingController Headers: eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJrYXQiLCJyb2xlcyI6ImFkbWluIiwiaWF0IjoxNjg1NzE1Nzc2LCJleHAiOjE2ODU3MTU3OTR9._BR8cUHu-A95sezL8vGP2Qjxpm38nZhzuocfGCUP5uV6TUbfKPfT7ZzwPRN3mgDNqwCLV26iGTUjJMnKivr2AA
+2023-06-02 16:23:54,361 [http-nio-8088-exec-3] INFO  com.moviebookingapp.tools.JwtUtils Start - validateToken
+2023-06-02 16:23:54,441 [http-nio-8088-exec-3] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Full authentication is required to access this resource
+2023-06-02 16:25:57,338 [http-nio-8088-exec-5] WARN  c.m.tools.AuthTokenFilter MARKER, Couldn't find bearer string, header will be ignored
+2023-06-02 16:25:57,351 [http-nio-8088-exec-5] ERROR c.m.contollers.BookingController Headers: eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJrYXQiLCJyb2xlcyI6ImFkbWluIiwiaWF0IjoxNjg1NzE1Nzc2LCJleHAiOjE2ODU3MTU3OTR9._BR8cUHu-A95sezL8vGP2Qjxpm38nZhzuocfGCUP5uV6TUbfKPfT7ZzwPRN3mgDNqwCLV26iGTUjJMnKivr2AA
+2023-06-02 16:25:57,360 [http-nio-8088-exec-5] INFO  com.moviebookingapp.tools.JwtUtils Start - validateToken
+2023-06-02 16:25:57,376 [http-nio-8088-exec-5] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Full authentication is required to access this resource
+2023-06-02 16:26:55,117 [http-nio-8088-exec-7] WARN  c.m.tools.AuthTokenFilter MARKER, Couldn't find bearer string, header will be ignored
+2023-06-02 16:26:55,129 [http-nio-8088-exec-7] ERROR c.m.contollers.BookingController Headers: eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJrYXQiLCJyb2xlcyI6ImFkbWluIiwiaWF0IjoxNjg1NzE1Nzc2LCJleHAiOjE2ODU3MTU3OTR9._BR8cUHu-A95sezL8vGP2Qjxpm38nZhzuocfGCUP5uV6TUbfKPfT7ZzwPRN3mgDNqwCLV26iGTUjJMnKivr2AA
+2023-06-02 16:26:55,134 [http-nio-8088-exec-7] INFO  com.moviebookingapp.tools.JwtUtils Start - validateToken
+2023-06-02 16:26:55,142 [http-nio-8088-exec-7] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Full authentication is required to access this resource
+2023-06-02 16:27:37,701 [http-nio-8088-exec-8] WARN  c.m.tools.AuthTokenFilter MARKER, The token has expired, JWT expired at 2023-06-02T14:23:14Z. Current time: 2023-06-02T14:27:37Z, a difference of 263701 milliseconds.  Allowed clock skew: 0 milliseconds.
+2023-06-02 16:27:37,705 [http-nio-8088-exec-8] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Full authentication is required to access this resource
+2023-06-02 16:28:07,559 [http-nio-8088-exec-9] WARN  c.m.tools.AuthTokenFilter MARKER, Couldn't find bearer string, header will be ignored
+2023-06-02 16:28:07,661 [http-nio-8088-exec-9] INFO  com.moviebookingapp.tools.JwtUtils Start - generateToken
+2023-06-02 16:28:07,662 [http-nio-8088-exec-9] INFO  com.moviebookingapp.tools.JwtUtils End - generateToken
+2023-06-02 16:28:07,663 [http-nio-8088-exec-9] INFO  com.moviebookingapp.tools.JwtUtils Generating cookie
+2023-06-02 16:28:07,663 [http-nio-8088-exec-9] INFO  com.moviebookingapp.tools.JwtUtils Generating refresh cookie
+2023-06-02 16:28:07,663 [http-nio-8088-exec-9] INFO  c.m.contollers.BookingController Sign in user
+2023-06-02 16:28:50,902 [http-nio-8088-exec-10] WARN  c.m.tools.AuthTokenFilter MARKER, Couldn't find bearer string, header will be ignored
+2023-06-02 16:28:50,915 [http-nio-8088-exec-10] ERROR c.m.contollers.BookingController Headers: eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJrYXQiLCJyb2xlcyI6ImFkbWluIiwiaWF0IjoxNjg1NzE2MDg3LCJleHAiOjE2ODU3MTYxMDV9.hAVKNgC8QjTQkZoiHjS3STOcjvVscAEeB1yJII69w6NwpmRECQ70t3PdpHmLAKlUHYdAz-MUjkEJjMp_pDntIQ
+2023-06-02 16:28:50,919 [http-nio-8088-exec-10] INFO  com.moviebookingapp.tools.JwtUtils Start - validateToken
+2023-06-02 16:28:50,926 [http-nio-8088-exec-10] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Full authentication is required to access this resource
+2023-06-02 16:31:40,228 [restartedMain] INFO  c.m.MoviebookingApplication Starting MoviebookingApplication using Java 18.0.1.1 with PID 20320 (C:\Users\2050610\eclipse-workspace\moviebookingapp\target\classes started by 2050610 in C:\Users\2050610\eclipse-workspace\moviebookingapp)
+2023-06-02 16:31:40,229 [restartedMain] DEBUG c.m.MoviebookingApplication Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-02 16:31:40,229 [restartedMain] INFO  c.m.MoviebookingApplication No active profile set, falling back to 1 default profile: "default"
+2023-06-02 16:31:42,764 [restartedMain] DEBUG c.m.tools.AuthTokenFilter Filter 'authTokenFilter' configured for use
+2023-06-02 16:31:44,033 [restartedMain] INFO  c.m.MoviebookingApplication Started MoviebookingApplication in 4.208 seconds (process running for 5.136)
+2023-06-02 16:31:48,134 [http-nio-8088-exec-1] WARN  c.m.tools.AuthTokenFilter MARKER, Couldn't find bearer string, header will be ignored
+2023-06-02 16:31:48,295 [http-nio-8088-exec-1] ERROR c.m.contollers.BookingController Cookie: eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJrYXQiLCJyb2xlcyI6ImFkbWluIiwiaWF0IjoxNjg1NzE2MDg3LCJleHAiOjE2ODU3MTYxMDV9.hAVKNgC8QjTQkZoiHjS3STOcjvVscAEeB1yJII69w6NwpmRECQ70t3PdpHmLAKlUHYdAz-MUjkEJjMp_pDntIQ
+2023-06-02 16:31:48,307 [http-nio-8088-exec-1] INFO  com.moviebookingapp.tools.JwtUtils Start - validateToken
+2023-06-02 16:31:48,407 [http-nio-8088-exec-1] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Full authentication is required to access this resource
+2023-06-02 16:33:17,314 [restartedMain] INFO  c.m.MoviebookingApplication Starting MoviebookingApplication using Java 18.0.1.1 with PID 8140 (C:\Users\2050610\eclipse-workspace\moviebookingapp\target\classes started by 2050610 in C:\Users\2050610\eclipse-workspace\moviebookingapp)
+2023-06-02 16:33:17,314 [restartedMain] DEBUG c.m.MoviebookingApplication Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-02 16:33:17,315 [restartedMain] INFO  c.m.MoviebookingApplication No active profile set, falling back to 1 default profile: "default"
+2023-06-02 16:33:20,320 [restartedMain] DEBUG c.m.tools.AuthTokenFilter Filter 'authTokenFilter' configured for use
+2023-06-02 16:33:21,842 [restartedMain] INFO  c.m.MoviebookingApplication Started MoviebookingApplication in 4.993 seconds (process running for 5.991)
+2023-06-02 16:33:23,971 [http-nio-8088-exec-1] WARN  c.m.tools.AuthTokenFilter MARKER, Couldn't find bearer string, header will be ignored
+2023-06-02 16:33:24,230 [http-nio-8088-exec-1] ERROR c.m.contollers.BookingController Cookie: eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJrYXQiLCJyb2xlcyI6ImFkbWluIiwiaWF0IjoxNjg1NzE2MDg3LCJleHAiOjE2ODU3MTYxMDV9.hAVKNgC8QjTQkZoiHjS3STOcjvVscAEeB1yJII69w6NwpmRECQ70t3PdpHmLAKlUHYdAz-MUjkEJjMp_pDntIQ
+2023-06-02 16:33:29,166 [http-nio-8088-exec-1] INFO  com.moviebookingapp.tools.JwtUtils Start - validateToken
+2023-06-02 16:33:45,733 [http-nio-8088-exec-1] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Full authentication is required to access this resource
+2023-06-02 16:35:04,446 [http-nio-8088-exec-6] WARN  c.m.tools.AuthTokenFilter MARKER, The token has expired, JWT expired at 2023-06-02T14:23:14Z. Current time: 2023-06-02T14:35:04Z, a difference of 710446 milliseconds.  Allowed clock skew: 0 milliseconds.
+2023-06-02 16:35:04,448 [http-nio-8088-exec-6] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Full authentication is required to access this resource
+2023-06-02 16:35:07,137 [http-nio-8088-exec-7] WARN  c.m.tools.AuthTokenFilter MARKER, The token has expired, JWT expired at 2023-06-02T14:23:14Z. Current time: 2023-06-02T14:35:07Z, a difference of 713137 milliseconds.  Allowed clock skew: 0 milliseconds.
+2023-06-02 16:35:07,141 [http-nio-8088-exec-7] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Full authentication is required to access this resource
+2023-06-02 16:35:12,261 [http-nio-8088-exec-5] WARN  c.m.tools.AuthTokenFilter MARKER, Couldn't find bearer string, header will be ignored
+2023-06-02 16:35:12,524 [http-nio-8088-exec-5] INFO  com.moviebookingapp.tools.JwtUtils Start - generateToken
+2023-06-02 16:35:12,527 [http-nio-8088-exec-5] INFO  com.moviebookingapp.tools.JwtUtils End - generateToken
+2023-06-02 16:35:12,538 [http-nio-8088-exec-5] INFO  com.moviebookingapp.tools.JwtUtils Generating cookie
+2023-06-02 16:35:12,541 [http-nio-8088-exec-5] INFO  com.moviebookingapp.tools.JwtUtils Generating refresh cookie
+2023-06-02 16:35:12,541 [http-nio-8088-exec-5] INFO  c.m.contollers.BookingController Sign in user
+2023-06-02 16:35:30,452 [http-nio-8088-exec-8] WARN  c.m.tools.AuthTokenFilter MARKER, The token has expired, JWT expired at 2023-06-02T14:35:30Z. Current time: 2023-06-02T14:35:30Z, a difference of 452 milliseconds.  Allowed clock skew: 0 milliseconds.
+2023-06-02 16:35:30,457 [http-nio-8088-exec-8] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Full authentication is required to access this resource
+2023-06-02 16:36:27,019 [http-nio-8088-exec-9] WARN  c.m.tools.AuthTokenFilter MARKER, The token has expired, JWT expired at 2023-06-02T14:35:30Z. Current time: 2023-06-02T14:36:27Z, a difference of 57019 milliseconds.  Allowed clock skew: 0 milliseconds.
+2023-06-02 16:36:27,023 [http-nio-8088-exec-9] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Full authentication is required to access this resource
+2023-06-02 16:36:39,229 [http-nio-8088-exec-10] WARN  c.m.tools.AuthTokenFilter MARKER, The token has expired, JWT expired at 2023-06-01T13:56:21Z. Current time: 2023-06-02T14:36:39Z, a difference of 88818229 milliseconds.  Allowed clock skew: 0 milliseconds.
+2023-06-02 16:36:39,231 [http-nio-8088-exec-10] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Full authentication is required to access this resource
+2023-06-02 16:36:55,870 [http-nio-8088-exec-2] WARN  c.m.tools.AuthTokenFilter MARKER, The token has expired, JWT expired at 2023-06-02T14:35:30Z. Current time: 2023-06-02T14:36:55Z, a difference of 85870 milliseconds.  Allowed clock skew: 0 milliseconds.
+2023-06-02 16:36:55,873 [http-nio-8088-exec-2] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Full authentication is required to access this resource
+2023-06-02 16:37:26,681 [restartedMain] INFO  c.m.MoviebookingApplication Starting MoviebookingApplication using Java 18.0.1.1 with PID 21944 (C:\Users\2050610\eclipse-workspace\moviebookingapp\target\classes started by 2050610 in C:\Users\2050610\eclipse-workspace\moviebookingapp)
+2023-06-02 16:37:26,682 [restartedMain] DEBUG c.m.MoviebookingApplication Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-02 16:37:26,683 [restartedMain] INFO  c.m.MoviebookingApplication No active profile set, falling back to 1 default profile: "default"
+2023-06-02 16:37:29,234 [restartedMain] DEBUG c.m.tools.AuthTokenFilter Filter 'authTokenFilter' configured for use
+2023-06-02 16:37:30,380 [restartedMain] INFO  c.m.MoviebookingApplication Started MoviebookingApplication in 4.071 seconds (process running for 4.785)
+2023-06-02 16:37:37,316 [http-nio-8088-exec-1] WARN  c.m.tools.AuthTokenFilter MARKER, Couldn't find bearer string, header will be ignored
+2023-06-02 16:37:37,755 [http-nio-8088-exec-1] INFO  com.moviebookingapp.tools.JwtUtils Start - generateToken
+2023-06-02 16:37:37,755 [http-nio-8088-exec-1] INFO  com.moviebookingapp.tools.JwtUtils End - generateToken
+2023-06-02 16:37:37,785 [http-nio-8088-exec-1] INFO  com.moviebookingapp.tools.JwtUtils Generating cookie
+2023-06-02 16:37:37,786 [http-nio-8088-exec-1] INFO  com.moviebookingapp.tools.JwtUtils Generating refresh cookie
+2023-06-02 16:37:37,786 [http-nio-8088-exec-1] INFO  c.m.contollers.BookingController Sign in user
+2023-06-02 16:38:05,037 [http-nio-8088-exec-3] INFO  com.moviebookingapp.tools.JwtUtils Start - validateToken
+2023-06-02 16:38:05,042 [http-nio-8088-exec-3] INFO  com.moviebookingapp.tools.JwtUtils End - validateToken
+2023-06-02 16:38:05,046 [http-nio-8088-exec-3] INFO  c.m.tools.AuthTokenFilter authenticated user: kat, now setting appropriate security context.
+2023-06-02 16:38:05,049 [http-nio-8088-exec-3] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-02 16:38:05,067 [http-nio-8088-exec-3] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-02 16:38:38,514 [http-nio-8088-exec-2] WARN  c.m.tools.AuthTokenFilter MARKER, Couldn't find bearer string, header will be ignored
+2023-06-02 16:38:38,533 [http-nio-8088-exec-2] ERROR c.m.contollers.BookingController Cookie: eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJrYXQiLCJyb2xlcyI6ImFkbWluIiwiaWF0IjoxNjg1NzE2NjU3LCJleHAiOjE2ODU3MTg0NTd9.RPAE_6eOwGBdbYN4jTM5YS7wHbvEeP30AojS7RG4kAtz9Rq413PfKwoQ8ezFyXoM4a129JNYw4YgtdNyorHmUw
+2023-06-02 16:38:38,540 [http-nio-8088-exec-2] INFO  com.moviebookingapp.tools.JwtUtils Start - validateToken
+2023-06-02 16:38:38,544 [http-nio-8088-exec-2] INFO  com.moviebookingapp.tools.JwtUtils End - validateToken
+2023-06-02 16:38:38,646 [http-nio-8088-exec-2] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad credentials
+2023-06-02 16:46:07,010 [restartedMain] INFO  c.m.MoviebookingApplication Starting MoviebookingApplication using Java 18.0.1.1 with PID 13576 (C:\Users\2050610\eclipse-workspace\moviebookingapp\target\classes started by 2050610 in C:\Users\2050610\eclipse-workspace\moviebookingapp)
+2023-06-02 16:46:07,010 [restartedMain] DEBUG c.m.MoviebookingApplication Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-02 16:46:07,011 [restartedMain] INFO  c.m.MoviebookingApplication No active profile set, falling back to 1 default profile: "default"
+2023-06-02 16:46:10,084 [restartedMain] DEBUG c.m.tools.AuthTokenFilter Filter 'authTokenFilter' configured for use
+2023-06-02 16:46:11,525 [restartedMain] INFO  c.m.MoviebookingApplication Started MoviebookingApplication in 4.898 seconds (process running for 5.614)
+2023-06-02 16:46:16,169 [http-nio-8088-exec-2] WARN  c.m.tools.AuthTokenFilter MARKER, Couldn't find bearer string, header will be ignored
+2023-06-02 16:46:16,231 [http-nio-8088-exec-2] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Full authentication is required to access this resource
+2023-06-02 16:46:45,228 [http-nio-8088-exec-4] WARN  c.m.tools.AuthTokenFilter MARKER, Couldn't find bearer string, header will be ignored
+2023-06-02 16:46:45,341 [http-nio-8088-exec-4] ERROR c.m.contollers.BookingController Cookie: eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJrYXQiLCJyb2xlcyI6ImFkbWluIiwiaWF0IjoxNjg1NzE2NjU3LCJleHAiOjE2ODU3MTg0NTd9.RPAE_6eOwGBdbYN4jTM5YS7wHbvEeP30AojS7RG4kAtz9Rq413PfKwoQ8ezFyXoM4a129JNYw4YgtdNyorHmUw
+2023-06-02 16:46:45,348 [http-nio-8088-exec-4] INFO  com.moviebookingapp.tools.JwtUtils Start - validateToken
+2023-06-02 16:46:45,423 [http-nio-8088-exec-4] INFO  com.moviebookingapp.tools.JwtUtils End - validateToken
+2023-06-02 16:46:45,717 [http-nio-8088-exec-4] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad credentials
+2023-06-02 16:47:12,323 [restartedMain] INFO  c.m.MoviebookingApplication Starting MoviebookingApplication using Java 18.0.1.1 with PID 19380 (C:\Users\2050610\eclipse-workspace\moviebookingapp\target\classes started by 2050610 in C:\Users\2050610\eclipse-workspace\moviebookingapp)
+2023-06-02 16:47:12,324 [restartedMain] DEBUG c.m.MoviebookingApplication Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-02 16:47:12,325 [restartedMain] INFO  c.m.MoviebookingApplication No active profile set, falling back to 1 default profile: "default"
+2023-06-02 16:47:14,658 [restartedMain] DEBUG c.m.tools.AuthTokenFilter Filter 'authTokenFilter' configured for use
+2023-06-02 16:47:15,881 [restartedMain] INFO  c.m.MoviebookingApplication Started MoviebookingApplication in 3.936 seconds (process running for 4.65)
+2023-06-02 16:47:20,661 [http-nio-8088-exec-1] WARN  c.m.tools.AuthTokenFilter MARKER, Couldn't find bearer string, header will be ignored
+2023-06-02 16:47:21,059 [http-nio-8088-exec-1] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad credentials
+2023-06-02 16:47:30,795 [http-nio-8088-exec-3] WARN  c.m.tools.AuthTokenFilter MARKER, Couldn't find bearer string, header will be ignored
+2023-06-02 16:47:30,889 [http-nio-8088-exec-3] INFO  com.moviebookingapp.tools.JwtUtils Start - generateToken
+2023-06-02 16:47:30,890 [http-nio-8088-exec-3] INFO  com.moviebookingapp.tools.JwtUtils End - generateToken
+2023-06-02 16:47:30,911 [http-nio-8088-exec-3] INFO  com.moviebookingapp.tools.JwtUtils Generating cookie
+2023-06-02 16:47:30,913 [http-nio-8088-exec-3] INFO  com.moviebookingapp.tools.JwtUtils Generating refresh cookie
+2023-06-02 16:47:30,913 [http-nio-8088-exec-3] INFO  c.m.contollers.BookingController Sign in user
+2023-06-02 16:48:08,771 [http-nio-8088-exec-5] WARN  c.m.tools.AuthTokenFilter MARKER, Couldn't find bearer string, header will be ignored
+2023-06-02 16:48:08,793 [http-nio-8088-exec-5] ERROR c.m.contollers.BookingController Cookie: eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJrYXQiLCJyb2xlcyI6ImFkbWluIiwiaWF0IjoxNjg1NzE3MjUwLCJleHAiOjE2ODU3MTkwNTB9.LBd3u0B5PohLz6pEOgJ0hfU9UKgIYS67Oke9uJGqZWt1C_uO-1pF6Spv3XaXbqKjccdXdkQDEiJghK71oaTBdA
+2023-06-02 16:48:08,800 [http-nio-8088-exec-5] INFO  com.moviebookingapp.tools.JwtUtils Start - validateToken
+2023-06-02 16:48:08,825 [http-nio-8088-exec-5] INFO  com.moviebookingapp.tools.JwtUtils End - validateToken
+2023-06-02 16:48:09,014 [http-nio-8088-exec-5] INFO  com.moviebookingapp.tools.JwtUtils Start - generateToken
+2023-06-02 16:48:09,014 [http-nio-8088-exec-5] INFO  com.moviebookingapp.tools.JwtUtils End - generateToken
+2023-06-02 16:48:09,015 [http-nio-8088-exec-5] INFO  com.moviebookingapp.tools.JwtUtils Generating cookie
+2023-06-02 16:48:09,015 [http-nio-8088-exec-5] INFO  com.moviebookingapp.tools.JwtUtils Generating refresh cookie
+2023-06-02 16:48:09,015 [http-nio-8088-exec-5] INFO  c.m.contollers.BookingController Sign in user
+2023-06-02 16:48:09,016 [http-nio-8088-exec-5] ERROR c.m.contollers.BookingController User logged in with refresh token
+2023-06-02 16:48:09,102 [http-nio-8088-exec-5] INFO  com.moviebookingapp.tools.JwtUtils Start - generateToken
+2023-06-02 16:48:09,102 [http-nio-8088-exec-5] INFO  com.moviebookingapp.tools.JwtUtils End - generateToken
+2023-06-02 16:48:09,103 [http-nio-8088-exec-5] INFO  com.moviebookingapp.tools.JwtUtils Generating cookie
+2023-06-02 16:48:09,103 [http-nio-8088-exec-5] INFO  com.moviebookingapp.tools.JwtUtils Generating refresh cookie
+2023-06-02 16:48:09,103 [http-nio-8088-exec-5] INFO  c.m.contollers.BookingController Sign in user
+2023-06-02 16:48:28,201 [http-nio-8088-exec-6] WARN  c.m.tools.AuthTokenFilter MARKER, Couldn't find bearer string, header will be ignored
+2023-06-02 16:48:28,309 [http-nio-8088-exec-6] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad credentials
+2023-06-02 16:48:34,031 [http-nio-8088-exec-2] WARN  c.m.tools.AuthTokenFilter MARKER, Couldn't find bearer string, header will be ignored
+2023-06-02 16:48:34,130 [http-nio-8088-exec-2] INFO  com.moviebookingapp.tools.JwtUtils Start - generateToken
+2023-06-02 16:48:34,130 [http-nio-8088-exec-2] INFO  com.moviebookingapp.tools.JwtUtils End - generateToken
+2023-06-02 16:48:34,131 [http-nio-8088-exec-2] INFO  com.moviebookingapp.tools.JwtUtils Generating cookie
+2023-06-02 16:48:34,131 [http-nio-8088-exec-2] INFO  com.moviebookingapp.tools.JwtUtils Generating refresh cookie
+2023-06-02 16:48:34,131 [http-nio-8088-exec-2] INFO  c.m.contollers.BookingController Sign in user
+2023-06-02 16:56:42,821 [restartedMain] INFO  c.m.MoviebookingApplication Starting MoviebookingApplication using Java 18.0.1.1 with PID 4688 (C:\Users\2050610\eclipse-workspace\moviebookingapp\target\classes started by 2050610 in C:\Users\2050610\eclipse-workspace\moviebookingapp)
+2023-06-02 16:56:42,822 [restartedMain] DEBUG c.m.MoviebookingApplication Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-02 16:56:42,823 [restartedMain] INFO  c.m.MoviebookingApplication No active profile set, falling back to 1 default profile: "default"
+2023-06-02 16:56:45,318 [restartedMain] DEBUG c.m.tools.AuthTokenFilter Filter 'authTokenFilter' configured for use
+2023-06-02 16:56:46,493 [restartedMain] INFO  c.m.MoviebookingApplication Started MoviebookingApplication in 4.112 seconds (process running for 4.892)
+2023-06-02 16:56:51,191 [http-nio-8088-exec-3] WARN  c.m.tools.AuthTokenFilter MARKER, Couldn't find bearer string, header will be ignored
+2023-06-02 16:56:51,579 [http-nio-8088-exec-3] INFO  com.moviebookingapp.tools.JwtUtils Start - generateToken
+2023-06-02 16:56:51,580 [http-nio-8088-exec-3] INFO  com.moviebookingapp.tools.JwtUtils End - generateToken
+2023-06-02 16:56:51,613 [http-nio-8088-exec-3] INFO  com.moviebookingapp.tools.JwtUtils Generating cookie
+2023-06-02 16:56:51,631 [http-nio-8088-exec-3] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Full authentication is required to access this resource
+2023-06-02 16:56:59,863 [http-nio-8088-exec-2] WARN  c.m.tools.AuthTokenFilter MARKER, Couldn't find bearer string, header will be ignored
+2023-06-02 16:56:59,964 [http-nio-8088-exec-2] INFO  com.moviebookingapp.tools.JwtUtils Start - generateToken
+2023-06-02 16:56:59,965 [http-nio-8088-exec-2] INFO  com.moviebookingapp.tools.JwtUtils End - generateToken
+2023-06-02 16:56:59,966 [http-nio-8088-exec-2] INFO  com.moviebookingapp.tools.JwtUtils Generating cookie
+2023-06-02 16:56:59,971 [http-nio-8088-exec-2] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Full authentication is required to access this resource
+2023-06-02 16:57:04,712 [http-nio-8088-exec-5] WARN  c.m.tools.AuthTokenFilter MARKER, Couldn't find bearer string, header will be ignored
+2023-06-02 16:57:04,818 [http-nio-8088-exec-5] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad credentials
+2023-06-02 16:57:10,168 [http-nio-8088-exec-4] WARN  c.m.tools.AuthTokenFilter MARKER, Couldn't find bearer string, header will be ignored
+2023-06-02 16:57:10,302 [http-nio-8088-exec-4] INFO  com.moviebookingapp.tools.JwtUtils Start - generateToken
+2023-06-02 16:57:10,303 [http-nio-8088-exec-4] INFO  com.moviebookingapp.tools.JwtUtils End - generateToken
+2023-06-02 16:57:10,306 [http-nio-8088-exec-4] INFO  com.moviebookingapp.tools.JwtUtils Generating cookie
+2023-06-02 16:57:10,314 [http-nio-8088-exec-4] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Full authentication is required to access this resource
+2023-06-02 16:58:16,504 [restartedMain] INFO  c.m.MoviebookingApplication Starting MoviebookingApplication using Java 18.0.1.1 with PID 49828 (C:\Users\2050610\eclipse-workspace\moviebookingapp\target\classes started by 2050610 in C:\Users\2050610\eclipse-workspace\moviebookingapp)
+2023-06-02 16:58:16,505 [restartedMain] DEBUG c.m.MoviebookingApplication Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-02 16:58:16,506 [restartedMain] INFO  c.m.MoviebookingApplication No active profile set, falling back to 1 default profile: "default"
+2023-06-02 16:58:18,993 [restartedMain] DEBUG c.m.tools.AuthTokenFilter Filter 'authTokenFilter' configured for use
+2023-06-02 16:58:20,201 [restartedMain] INFO  c.m.MoviebookingApplication Started MoviebookingApplication in 4.098 seconds (process running for 4.827)
+2023-06-02 16:58:24,882 [http-nio-8088-exec-1] WARN  c.m.tools.AuthTokenFilter MARKER, Couldn't find bearer string, header will be ignored
+2023-06-02 16:58:25,264 [http-nio-8088-exec-1] INFO  com.moviebookingapp.tools.JwtUtils Start - generateToken
+2023-06-02 16:58:25,264 [http-nio-8088-exec-1] INFO  com.moviebookingapp.tools.JwtUtils End - generateToken
+2023-06-02 16:58:25,295 [http-nio-8088-exec-1] INFO  com.moviebookingapp.tools.JwtUtils Generating cookie
+2023-06-02 16:58:25,310 [http-nio-8088-exec-1] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Full authentication is required to access this resource
+2023-06-02 17:00:48,862 [restartedMain] INFO  c.m.MoviebookingApplication Starting MoviebookingApplication using Java 18.0.1.1 with PID 5048 (C:\Users\2050610\eclipse-workspace\moviebookingapp\target\classes started by 2050610 in C:\Users\2050610\eclipse-workspace\moviebookingapp)
+2023-06-02 17:00:48,863 [restartedMain] DEBUG c.m.MoviebookingApplication Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-02 17:00:48,864 [restartedMain] INFO  c.m.MoviebookingApplication No active profile set, falling back to 1 default profile: "default"
+2023-06-02 17:00:52,453 [restartedMain] DEBUG c.m.tools.AuthTokenFilter Filter 'authTokenFilter' configured for use
+2023-06-02 17:00:54,426 [restartedMain] INFO  c.m.MoviebookingApplication Started MoviebookingApplication in 6.0 seconds (process running for 6.793)
+2023-06-02 17:00:57,501 [http-nio-8088-exec-1] WARN  c.m.tools.AuthTokenFilter MARKER, Couldn't find bearer string, header will be ignored
+2023-06-02 17:00:58,114 [http-nio-8088-exec-1] INFO  com.moviebookingapp.tools.JwtUtils Start - generateToken
+2023-06-02 17:00:58,115 [http-nio-8088-exec-1] INFO  com.moviebookingapp.tools.JwtUtils End - generateToken
+2023-06-02 17:00:58,161 [http-nio-8088-exec-1] INFO  com.moviebookingapp.tools.JwtUtils Generating cookie
+2023-06-02 17:00:58,163 [http-nio-8088-exec-1] INFO  com.moviebookingapp.tools.JwtUtils Generating refresh cookie
+2023-06-02 17:00:58,163 [http-nio-8088-exec-1] INFO  c.m.contollers.BookingController Sign in user
+2023-06-02 17:01:51,193 [http-nio-8088-exec-3] WARN  c.m.tools.AuthTokenFilter MARKER, Couldn't find bearer string, header will be ignored
+2023-06-02 17:01:51,236 [http-nio-8088-exec-3] INFO  com.moviebookingapp.tools.JwtUtils Start - validateToken
+2023-06-02 17:01:51,263 [http-nio-8088-exec-3] INFO  com.moviebookingapp.tools.JwtUtils End - validateToken
+2023-06-02 17:01:51,462 [http-nio-8088-exec-3] INFO  com.moviebookingapp.tools.JwtUtils Start - generateToken
+2023-06-02 17:01:51,463 [http-nio-8088-exec-3] INFO  com.moviebookingapp.tools.JwtUtils End - generateToken
+2023-06-02 17:01:51,464 [http-nio-8088-exec-3] INFO  com.moviebookingapp.tools.JwtUtils Generating cookie
+2023-06-02 17:01:51,464 [http-nio-8088-exec-3] INFO  com.moviebookingapp.tools.JwtUtils Generating refresh cookie
+2023-06-02 17:01:51,464 [http-nio-8088-exec-3] INFO  c.m.contollers.BookingController Sign in user
+2023-06-02 17:01:51,464 [http-nio-8088-exec-3] ERROR c.m.contollers.BookingController User logged in with refresh token
+2023-06-02 17:01:51,550 [http-nio-8088-exec-3] INFO  com.moviebookingapp.tools.JwtUtils Start - generateToken
+2023-06-02 17:01:51,551 [http-nio-8088-exec-3] INFO  com.moviebookingapp.tools.JwtUtils End - generateToken
+2023-06-02 17:01:51,552 [http-nio-8088-exec-3] INFO  com.moviebookingapp.tools.JwtUtils Generating cookie
+2023-06-02 17:01:51,552 [http-nio-8088-exec-3] INFO  com.moviebookingapp.tools.JwtUtils Generating refresh cookie
+2023-06-02 17:01:51,552 [http-nio-8088-exec-3] INFO  c.m.contollers.BookingController Sign in user
+2023-06-02 17:01:59,464 [http-nio-8088-exec-4] WARN  c.m.tools.AuthTokenFilter MARKER, Couldn't find bearer string, header will be ignored
+2023-06-02 17:01:59,566 [http-nio-8088-exec-4] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad credentials
+2023-06-02 17:02:03,365 [http-nio-8088-exec-5] WARN  c.m.tools.AuthTokenFilter MARKER, Couldn't find bearer string, header will be ignored
+2023-06-02 17:02:03,473 [http-nio-8088-exec-5] INFO  com.moviebookingapp.tools.JwtUtils Start - generateToken
+2023-06-02 17:02:03,473 [http-nio-8088-exec-5] INFO  com.moviebookingapp.tools.JwtUtils End - generateToken
+2023-06-02 17:02:03,475 [http-nio-8088-exec-5] INFO  com.moviebookingapp.tools.JwtUtils Generating cookie
+2023-06-02 17:02:03,475 [http-nio-8088-exec-5] INFO  com.moviebookingapp.tools.JwtUtils Generating refresh cookie
+2023-06-02 17:02:03,475 [http-nio-8088-exec-5] INFO  c.m.contollers.BookingController Sign in user

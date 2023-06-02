@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration scan="true">
+    <property name="MovieBookingAppLOGS" value="./logs" />
+
+    <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <pattern class="ch.qos.logback.classic.PatternLayout">
+                %d [%t] %-5level %logger{50}: %msg%n%throwable
+            </pattern>
+        </encoder>
+    </appender>
+
+    <appender name="RollingFile" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <file>${MovieBookingAppLOGS}/movie-booking-app-logger.log</file>
+        <encoder class="ch.qos.logback.classic.encoder.PatternLayoutEncoder">
+            <pattern>%d [%thread] %-5level %logger{36} %msg%n</pattern>
+        </encoder>
+        <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+            <fileNamePattern>${MovieBookingAppLOGS}/archived/movie-booking-app-logger-%d{yyyy-MM-dd}.%i.log</fileNamePattern>
+            <timeBasedFileNamingAndTriggeringPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP">
+                <maxFileSize>10MB</maxFileSize>
+            </timeBasedFileNamingAndTriggeringPolicy>
+        </rollingPolicy>
+    </appender>
+    
+    <!-- LOG "com.moviebookingapp" at TRACE level -->
+    <logger name="com.moviebookingapp" level="TRACE" additivity="false">
+        <appender-ref ref="RollingFile" />
+        <appender-ref ref="STDOUT" />
+    </logger>
+      
+    <!-- LOG everything else at INFO level -->
+    <root level="INFO">
+        <appender-ref ref="STDOUT" /> 
+    </root>
+
+</configuration>
