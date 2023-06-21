@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import io.swagger.v3.oas.annotations.OpenAPIDefinition;
 import io.swagger.v3.oas.annotations.info.Info;
 
-@SpringBootApplication
+@SpringBootApplication(scanBasePackages = {"com.moviebookingapp"})
 @OpenAPIDefinition(info = @Info(title = "Movie booking Application", version = "1.0",
 description = "This application acts as the ticketting service of a theater."))
 public class MoviebookingApplication {

@@ -1,0 +1,1447 @@
+2023-06-20 10:50:52,375 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 14640 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 10:50:52,388 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 10:50:52,390 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 10:51:11,778 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 20.562 seconds (process running for 24.737)
+2023-06-20 10:51:12,923 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 10:51:13,216 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 10:51:13,850 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 10:51:14,038 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 10:51:14,430 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 11:07:50,342 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 18412 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 11:07:50,343 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 11:07:50,345 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 11:08:08,326 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 19.163 seconds (process running for 22.887)
+2023-06-20 11:08:09,536 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 11:08:09,826 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 11:08:10,268 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 11:08:10,594 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 11:12:16,590 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 14660 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 11:12:16,592 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 11:12:16,594 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 11:12:34,979 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 19.366 seconds (process running for 22.476)
+2023-06-20 11:12:36,123 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 11:12:36,612 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 11:13:29,951 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 12440 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 11:13:29,953 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 11:13:29,955 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 11:13:47,580 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 18.664 seconds (process running for 23.524)
+2023-06-20 11:13:48,373 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 11:13:48,575 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 11:13:49,059 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 11:13:49,154 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 11:13:49,354 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 11:19:00,933 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 7636 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 11:19:00,934 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 11:19:00,938 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 11:19:17,368 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 17.444 seconds (process running for 20.704)
+2023-06-20 11:19:18,263 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 11:19:18,487 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 11:19:19,018 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 11:19:19,094 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Full authentication is required to access this resource
+2023-06-20 11:19:19,233 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 11:19:19,467 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 11:20:34,514 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 19284 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 11:20:34,517 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 11:20:34,520 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 11:20:51,895 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 18.343 seconds (process running for 21.026)
+2023-06-20 11:20:53,135 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 11:20:53,366 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 11:20:53,982 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 11:20:54,260 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 11:20:54,564 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 11:21:45,878 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 8820 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 11:21:45,880 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 11:21:45,882 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 11:22:03,119 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 18.358 seconds (process running for 22.359)
+2023-06-20 11:22:04,218 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 11:22:04,594 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 11:22:05,235 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 11:22:05,490 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 11:22:05,555 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 11:22:05,770 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 11:26:18,058 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 16892 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 11:26:18,061 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 11:26:18,064 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 11:26:31,874 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 14.816 seconds (process running for 18.1)
+2023-06-20 11:26:32,640 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 11:26:32,931 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 11:26:33,584 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 11:26:33,882 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 11:26:33,978 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 11:26:34,218 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 11:28:09,008 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 13384 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 11:28:09,010 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 11:28:09,011 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 11:28:24,831 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 16.615 seconds (process running for 18.534)
+2023-06-20 11:28:25,518 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 11:28:25,713 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 11:28:26,107 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 11:28:26,376 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 11:28:26,456 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 11:28:26,696 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 11:28:48,112 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 12992 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 11:28:48,114 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 11:28:48,117 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 11:29:02,106 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 15.212 seconds (process running for 17.533)
+2023-06-20 11:29:02,841 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 11:29:03,035 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 11:29:03,564 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 11:30:54,681 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 14252 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 11:30:54,684 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 11:30:54,686 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 11:31:13,633 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 20.386 seconds (process running for 23.807)
+2023-06-20 11:31:14,657 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 11:31:14,917 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 11:31:15,582 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 11:31:20,810 [main] ERROR c.m.contollers.BookingController Invalid refresh token!
+2023-06-20 11:31:20,878 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 11:31:21,111 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 11:34:31,901 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 10092 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 11:34:31,903 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 11:34:31,906 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 11:34:50,163 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 19.453 seconds (process running for 23.417)
+2023-06-20 11:34:51,209 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 11:34:51,648 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 11:34:52,517 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 11:34:52,685 [main] ERROR c.m.contollers.BookingController Invalid refresh token!
+2023-06-20 11:34:52,936 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 11:34:53,315 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 11:36:26,522 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 18684 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 11:36:26,524 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 11:36:26,527 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 11:36:44,234 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 18.691 seconds (process running for 22.716)
+2023-06-20 11:36:45,486 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 11:36:45,724 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 11:36:46,410 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 11:36:46,536 [main] ERROR c.m.contollers.BookingController Invalid refresh token!
+2023-06-20 11:36:46,636 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 11:36:46,972 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 11:47:42,245 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 25032 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 11:47:42,248 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 11:47:42,249 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 11:47:57,098 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 15.922 seconds (process running for 18.518)
+2023-06-20 11:47:57,788 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 11:47:58,024 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 11:47:58,706 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 11:47:58,823 [main] ERROR c.m.contollers.BookingController Invalid refresh token!
+2023-06-20 11:47:58,918 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 11:47:59,143 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 11:48:53,637 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 19284 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 11:48:53,637 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 11:48:53,638 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 11:49:07,441 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 14.439 seconds (process running for 16.455)
+2023-06-20 11:49:08,212 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 11:49:08,437 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 11:49:08,968 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 11:50:23,365 [main] ERROR c.m.contollers.BookingController Invalid refresh token!
+2023-06-20 11:58:33,472 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 16132 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 11:58:33,473 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 11:58:33,474 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 11:58:44,673 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 11.813 seconds (process running for 13.531)
+2023-06-20 11:58:45,319 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 11:58:45,498 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 11:58:45,896 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 11:58:46,049 [main] ERROR c.m.contollers.BookingController Invalid refresh token!
+2023-06-20 11:58:46,139 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 11:58:46,306 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 12:03:14,115 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 10764 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 12:03:14,117 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 12:03:14,119 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 12:03:29,145 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 16.186 seconds (process running for 19.952)
+2023-06-20 12:03:30,080 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 12:03:30,294 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 12:03:30,812 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 12:03:31,042 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 12:03:31,256 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 12:05:06,303 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 20384 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 12:05:06,305 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 12:05:06,307 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 12:05:24,629 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 19.562 seconds (process running for 24.228)
+2023-06-20 12:05:25,902 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 12:05:26,226 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 12:05:27,165 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 12:05:27,416 [main] ERROR c.m.contollers.BookingController Invalid refresh token!
+2023-06-20 12:05:27,654 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 12:05:27,954 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 12:05:59,094 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 20440 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 12:05:59,098 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 12:05:59,100 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 12:06:16,795 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 18.897 seconds (process running for 22.599)
+2023-06-20 12:06:17,867 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 12:06:18,158 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 12:06:18,747 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 12:06:19,015 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 12:06:19,244 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 12:06:39,178 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 20808 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 12:06:39,180 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 12:06:39,183 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 12:06:55,742 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 18.063 seconds (process running for 22.871)
+2023-06-20 12:06:56,679 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 12:06:56,990 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 12:06:57,474 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 12:06:57,810 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 12:06:57,878 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 12:06:58,132 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 12:07:34,614 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 20404 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 12:07:34,616 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 12:07:34,618 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 12:07:49,722 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 16.369 seconds (process running for 20.36)
+2023-06-20 12:07:50,396 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 12:07:50,624 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 12:07:51,149 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 12:07:51,288 [main] ERROR c.m.contollers.BookingController Invalid refresh token!
+2023-06-20 12:07:51,362 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 12:07:51,546 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 12:22:19,650 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 3076 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 12:22:19,653 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 12:22:19,655 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 12:22:36,602 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 18.341 seconds (process running for 21.723)
+2023-06-20 12:22:37,440 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 12:22:37,712 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 12:22:38,217 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 12:22:38,334 [main] ERROR c.m.contollers.BookingController User not found!
+2023-06-20 12:22:38,441 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 12:22:38,640 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 12:24:54,674 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 2896 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 12:24:54,676 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 12:24:54,679 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 12:25:12,684 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 19.362 seconds (process running for 22.804)
+2023-06-20 12:25:13,677 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 12:25:13,941 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 12:25:14,482 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 12:25:14,601 [main] ERROR c.m.contollers.BookingController Refresh token not found!
+2023-06-20 12:25:14,730 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 12:25:14,972 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 12:27:58,453 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 6496 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 12:27:58,455 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 12:27:58,460 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 12:28:12,547 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 15.094 seconds (process running for 18.206)
+2023-06-20 12:28:13,279 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 12:28:13,503 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 12:28:13,978 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 12:28:14,095 [main] ERROR c.m.contollers.BookingController Refresh token not found!
+2023-06-20 12:28:14,174 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 12:28:14,389 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 12:32:46,839 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 2352 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 12:32:46,841 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 12:32:46,844 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 12:33:01,416 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 15.718 seconds (process running for 19.005)
+2023-06-20 12:33:02,276 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 12:33:02,535 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 12:33:03,095 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 12:33:03,202 [main] ERROR c.m.contollers.BookingController Refresh token not found!
+2023-06-20 12:33:03,292 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 12:33:03,523 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 12:34:06,433 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 17248 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 12:34:06,435 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 12:34:06,437 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 12:34:20,891 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 15.437 seconds (process running for 18.683)
+2023-06-20 12:34:21,814 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 12:34:22,074 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 12:34:22,627 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 12:34:22,807 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 12:34:23,033 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 12:35:42,563 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 16388 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 12:35:42,566 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 12:35:42,568 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 12:35:57,687 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 16.362 seconds (process running for 20.122)
+2023-06-20 12:35:58,525 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 12:35:58,765 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 12:35:59,278 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 12:35:59,419 [main] ERROR c.m.contollers.BookingController Refresh token not found!
+2023-06-20 12:35:59,519 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 12:35:59,755 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 12:37:04,741 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 23844 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 12:37:04,742 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 12:37:04,743 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 12:37:19,401 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 15.592 seconds (process running for 18.855)
+2023-06-20 12:37:20,162 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 12:37:20,372 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 12:37:20,846 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 12:37:20,998 [main] ERROR c.m.contollers.BookingController Refresh token not found!
+2023-06-20 12:37:21,091 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 12:37:21,290 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 12:40:55,102 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 5304 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 12:40:55,104 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 12:40:55,106 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 12:41:09,061 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 14.971 seconds (process running for 18.22)
+2023-06-20 12:41:09,868 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 12:41:10,095 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 12:41:10,577 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 12:41:10,732 [main] ERROR c.m.contollers.BookingController Refresh token not found!
+2023-06-20 12:41:10,809 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 12:41:11,023 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 12:43:30,191 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 11104 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 12:43:30,193 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 12:43:30,195 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 12:43:46,001 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 16.854 seconds (process running for 19.971)
+2023-06-20 12:43:46,833 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 12:43:47,091 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 12:43:47,659 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 12:43:47,827 [main] ERROR c.m.contollers.BookingController Refresh token not found!
+2023-06-20 12:43:47,909 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 12:43:48,131 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 12:44:56,498 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 17080 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 12:44:56,500 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 12:44:56,502 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 12:45:11,020 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 15.681 seconds (process running for 18.957)
+2023-06-20 12:45:11,803 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 12:45:12,072 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 12:45:12,537 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 12:45:12,844 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 12:45:12,927 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 12:45:13,155 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 12:46:16,454 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 11204 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 12:46:16,457 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 12:46:16,461 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 12:46:31,805 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 16.469 seconds (process running for 19.926)
+2023-06-20 12:46:32,941 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 12:46:33,240 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 12:46:33,761 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 12:46:34,221 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 12:46:34,298 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 12:46:34,506 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 12:47:06,049 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 11168 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 12:47:06,050 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 12:47:06,052 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 12:47:22,531 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 17.893 seconds (process running for 20.95)
+2023-06-20 12:47:23,451 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 12:47:23,703 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 12:47:24,271 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 12:47:24,676 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 12:47:24,747 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 12:47:24,962 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 12:47:39,856 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 14368 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 12:47:39,858 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 12:47:39,860 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 12:47:56,643 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 17.972 seconds (process running for 22.247)
+2023-06-20 12:47:57,480 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 12:47:57,711 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 12:47:58,262 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 12:47:58,670 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 12:47:58,748 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 12:47:59,012 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 12:48:24,063 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 25140 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 12:48:24,065 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 12:48:24,067 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 12:48:38,946 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 15.879 seconds (process running for 19.042)
+2023-06-20 12:48:39,741 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 12:48:39,973 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 12:48:40,550 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 12:48:53,223 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 12:49:00,881 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 12:49:01,066 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 12:49:30,915 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 21164 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 12:49:30,917 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 12:49:30,919 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 12:49:45,936 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 16.133 seconds (process running for 19.304)
+2023-06-20 12:49:46,784 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 12:49:47,034 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 12:49:47,599 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 12:50:02,133 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 12:50:57,314 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 11168 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 12:50:57,316 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 12:50:57,317 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 12:51:12,243 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 15.885 seconds (process running for 19.041)
+2023-06-20 12:51:13,056 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 12:51:13,311 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 12:51:13,801 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 12:51:13,950 [main] ERROR c.m.contollers.BookingController Refresh token not found!
+2023-06-20 12:51:14,023 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 12:51:14,201 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 12:52:14,823 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 6832 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 12:52:14,825 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 12:52:14,828 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 12:52:28,566 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 14.841 seconds (process running for 18.089)
+2023-06-20 12:52:29,371 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 12:52:29,583 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 12:52:30,074 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 12:52:30,222 [main] ERROR c.m.contollers.BookingController User not found!
+2023-06-20 12:52:30,301 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 12:52:30,526 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 12:53:36,840 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 16608 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 12:53:36,842 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 12:53:36,844 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 12:53:49,878 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 21476 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 12:53:49,880 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 12:53:49,882 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 12:54:06,053 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 17.239 seconds (process running for 20.414)
+2023-06-20 12:54:06,987 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 12:54:07,248 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 12:54:07,731 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 12:55:00,209 [main] ERROR c.m.contollers.BookingController User not found!
+2023-06-20 12:55:15,842 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 12:55:15,973 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 12:57:15,089 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 10720 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 12:57:15,091 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 12:57:15,094 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 12:57:29,754 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 15.809 seconds (process running for 19.355)
+2023-06-20 12:57:30,533 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 12:57:30,759 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 12:57:31,229 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 12:57:51,760 [main] ERROR c.m.contollers.BookingController Refresh token not found!
+2023-06-20 12:58:26,259 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 19536 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 12:58:26,261 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 12:58:26,263 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 12:58:39,944 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 14.84 seconds (process running for 18.163)
+2023-06-20 12:58:40,697 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 12:58:40,932 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 12:58:41,415 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 12:58:41,637 [main] ERROR c.m.contollers.BookingController Refresh token not found!
+2023-06-20 12:58:41,736 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 12:58:41,979 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 12:58:50,978 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 23768 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 12:58:50,980 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 12:58:50,982 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 12:59:06,878 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 16.897 seconds (process running for 20.173)
+2023-06-20 12:59:07,685 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 12:59:07,933 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 12:59:08,423 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 12:59:08,550 [main] ERROR c.m.contollers.BookingController Refresh token not found!
+2023-06-20 12:59:08,655 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 12:59:08,863 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 13:13:21,554 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 5968 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 13:13:21,556 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 13:13:21,560 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 13:13:38,571 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 18.237 seconds (process running for 21.864)
+2023-06-20 13:13:39,567 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 13:13:39,884 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 13:13:40,598 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 13:13:40,774 [main] ERROR c.m.contollers.BookingController Refresh token not found!
+2023-06-20 13:13:40,879 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 13:13:41,158 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 13:13:51,722 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 16788 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 13:13:51,724 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 13:13:51,726 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 13:14:06,671 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 16.083 seconds (process running for 19.782)
+2023-06-20 13:14:07,454 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 13:14:07,678 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 13:14:08,171 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 13:14:08,320 [main] ERROR c.m.contollers.BookingController Refresh token not found!
+2023-06-20 13:14:08,400 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 13:14:08,607 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 13:16:53,447 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 17236 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 13:16:53,448 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 13:16:53,450 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 13:17:07,695 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 15.31 seconds (process running for 18.549)
+2023-06-20 13:17:08,383 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 13:17:08,633 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 13:17:09,262 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 13:17:09,581 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 13:17:09,829 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 13:19:52,277 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 20460 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 13:19:52,278 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 13:19:52,280 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 13:20:06,338 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 15.141 seconds (process running for 18.145)
+2023-06-20 13:20:07,194 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 13:20:07,445 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 13:20:07,906 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 13:20:08,111 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 13:20:08,285 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 13:22:03,821 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 2016 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 13:22:03,823 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 13:22:03,825 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 13:22:21,749 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 19.128 seconds (process running for 21.774)
+2023-06-20 13:22:22,829 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 13:22:23,132 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 13:22:23,735 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 13:22:24,299 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 13:22:24,542 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 13:31:35,544 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 12828 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 13:31:35,545 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 13:31:35,547 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 13:31:49,368 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 14.865 seconds (process running for 17.992)
+2023-06-20 13:31:50,149 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 13:31:50,380 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 13:31:51,032 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 13:31:51,413 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 13:31:51,569 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 13:33:13,765 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 7428 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 13:33:13,767 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 13:33:13,769 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 13:33:27,655 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 14.865 seconds (process running for 17.758)
+2023-06-20 13:33:28,416 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 13:33:28,617 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 13:33:29,156 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 13:33:29,594 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 13:33:29,784 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 13:33:47,658 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 23292 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 13:33:47,659 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 13:33:47,661 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 13:34:04,580 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 18.057 seconds (process running for 21.527)
+2023-06-20 13:34:05,411 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 13:34:05,647 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 13:34:06,201 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 13:34:06,617 [main] ERROR c.m.contollers.BookingController Refresh token not found!
+2023-06-20 13:34:06,717 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 13:34:06,923 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 13:34:17,624 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 21820 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 13:34:17,626 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 13:34:17,628 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 13:34:34,060 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 17.503 seconds (process running for 20.832)
+2023-06-20 13:34:35,339 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 13:34:35,575 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 13:34:36,117 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 13:34:36,436 [main] ERROR c.m.contollers.BookingController Refresh token not found!
+2023-06-20 13:34:36,653 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 13:34:37,840 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 13:34:51,971 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 23716 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 13:34:51,973 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 13:34:51,975 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 13:35:09,612 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 18.644 seconds (process running for 22.313)
+2023-06-20 13:35:10,395 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 13:35:10,623 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 13:35:11,279 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 13:35:11,600 [main] ERROR c.m.contollers.BookingController Refresh token not found!
+2023-06-20 13:35:11,699 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 13:35:12,031 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 13:35:27,387 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 19648 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 13:35:27,389 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 13:35:27,392 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 13:35:44,861 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 18.767 seconds (process running for 23.101)
+2023-06-20 13:35:46,267 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 13:35:46,558 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 13:35:47,540 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 13:35:48,086 [main] ERROR c.m.contollers.BookingController Refresh token not found!
+2023-06-20 13:35:48,268 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 13:35:48,942 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 13:35:59,324 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 5968 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 13:35:59,327 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 13:35:59,329 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 13:36:16,854 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 18.806 seconds (process running for 23.284)
+2023-06-20 13:36:17,755 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 13:36:18,032 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 13:36:18,506 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 13:36:18,952 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 13:36:19,221 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 13:44:01,608 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 6924 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 13:44:01,609 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 13:44:01,611 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 13:44:16,620 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 16.051 seconds (process running for 19.03)
+2023-06-20 13:44:17,443 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 13:44:17,634 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 13:44:18,179 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 13:44:18,609 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 13:44:18,900 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 13:46:17,381 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 5488 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 13:46:17,383 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 13:46:17,387 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 13:46:29,217 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 12.715 seconds (process running for 15.932)
+2023-06-20 13:46:29,943 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 13:47:22,913 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 20812 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 13:47:22,915 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 13:47:22,917 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 13:47:35,079 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 12.838 seconds (process running for 15.082)
+2023-06-20 13:47:35,788 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 13:48:26,614 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 22848 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 13:48:26,615 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 13:48:26,616 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 13:48:39,453 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 13.513 seconds (process running for 15.887)
+2023-06-20 13:48:40,099 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 13:48:40,275 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 13:48:40,789 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 13:48:41,218 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 13:48:41,455 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 13:56:34,521 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 24412 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 13:56:34,522 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 13:56:34,524 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 13:56:49,198 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 15.54 seconds (process running for 17.168)
+2023-06-20 13:56:49,878 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 13:56:50,037 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 13:56:50,507 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 13:56:50,917 [main] ERROR c.m.contollers.BookingController User not found!
+2023-06-20 13:56:51,002 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 13:56:51,206 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 13:58:50,835 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 22212 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 13:58:50,836 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 13:58:50,837 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 13:59:03,797 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 13.643 seconds (process running for 15.889)
+2023-06-20 13:59:04,567 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 13:59:04,779 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 13:59:05,253 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 13:59:05,651 [main] ERROR c.m.contollers.BookingController User not found!
+2023-06-20 13:59:05,743 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 13:59:05,935 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 14:00:14,009 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 16504 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 14:00:14,011 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 14:00:14,014 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 14:00:29,024 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 16.129 seconds (process running for 17.999)
+2023-06-20 14:00:29,806 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 14:00:30,008 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 14:00:30,464 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 14:00:30,829 [main] ERROR c.m.contollers.BookingController User not found!
+2023-06-20 14:00:30,958 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 14:00:31,189 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 14:02:05,381 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 7536 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 14:02:05,382 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 14:02:05,384 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 14:02:18,255 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 13.692 seconds (process running for 16.283)
+2023-06-20 14:02:18,956 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 14:02:19,121 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 14:02:19,654 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 14:02:19,995 [main] ERROR c.m.contollers.BookingController Refresh token not found!
+2023-06-20 14:02:20,057 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 14:02:20,248 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 14:03:36,555 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 24848 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 14:03:36,556 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 14:03:36,559 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 14:03:49,170 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 13.597 seconds (process running for 16.041)
+2023-06-20 14:03:49,864 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 14:03:50,040 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 14:03:50,441 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 14:03:50,553 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 14:03:50,714 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 14:06:12,263 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 20984 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 14:06:12,265 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 14:06:12,266 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 14:06:26,196 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 14.455 seconds (process running for 15.763)
+2023-06-20 14:06:27,146 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 14:06:27,509 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 14:06:27,976 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 14:06:28,782 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 14:06:28,783 [main] ERROR c.m.contollers.BookingController User logged in with refresh token
+2023-06-20 14:06:28,785 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 14:06:28,872 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 14:06:29,114 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 14:09:20,136 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 25372 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 14:09:20,138 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 14:09:20,140 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 14:09:32,499 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 13.104 seconds (process running for 15.056)
+2023-06-20 14:09:33,109 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 14:09:33,276 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 14:09:33,755 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 14:09:34,190 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 14:09:34,191 [main] ERROR c.m.contollers.BookingController User logged in with refresh token
+2023-06-20 14:09:34,192 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 14:09:34,392 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 14:09:34,553 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 14:11:03,278 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 12116 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 14:11:03,280 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 14:11:03,281 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 14:11:15,169 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 12.519 seconds (process running for 14.996)
+2023-06-20 14:11:15,743 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 14:11:15,917 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 14:11:16,249 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 14:11:16,488 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 14:11:16,489 [main] ERROR c.m.contollers.BookingController User logged in with refresh token
+2023-06-20 14:11:16,491 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 14:11:16,676 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 14:11:16,817 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 14:12:09,876 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 13324 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 14:12:09,878 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 14:12:09,879 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 14:12:23,298 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 14.193 seconds (process running for 16.687)
+2023-06-20 14:12:24,139 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 14:12:24,386 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 14:12:24,915 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 14:12:25,474 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 14:12:25,475 [main] ERROR c.m.contollers.BookingController User logged in with refresh token
+2023-06-20 14:12:25,477 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 14:12:25,736 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 14:12:25,924 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 14:12:59,618 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 21068 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 14:12:59,620 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 14:12:59,621 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 14:13:13,765 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 14.963 seconds (process running for 16.994)
+2023-06-20 14:13:14,532 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 14:13:14,735 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 14:13:15,241 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 14:13:15,530 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 14:13:15,531 [main] ERROR c.m.contollers.BookingController User logged in with refresh token
+2023-06-20 14:13:15,532 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 14:13:15,741 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 14:13:15,888 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 14:14:58,604 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 20796 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 14:14:58,605 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 14:14:58,608 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 14:15:10,465 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 12.518 seconds (process running for 14.455)
+2023-06-20 14:15:11,098 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 14:15:11,317 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 14:15:11,762 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 14:15:12,068 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 14:15:12,069 [main] ERROR c.m.contollers.BookingController User logged in with refresh token
+2023-06-20 14:15:12,070 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 14:15:12,159 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 14:15:12,311 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 14:15:57,619 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 3176 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 14:15:57,620 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 14:15:57,621 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 14:16:09,428 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 12.546 seconds (process running for 15.368)
+2023-06-20 14:16:10,055 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 14:16:10,202 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 14:16:10,579 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 14:16:10,867 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 14:16:10,868 [main] ERROR c.m.contollers.BookingController User logged in with refresh token
+2023-06-20 14:16:10,869 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 14:16:10,922 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 14:16:11,040 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 14:22:38,557 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 20936 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 14:22:38,558 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 14:22:38,560 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 14:22:50,574 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 12.648 seconds (process running for 14.101)
+2023-06-20 14:22:50,985 [main] INFO  c.m.contollers.BookingController Start - viewAllMoviesPerPage
+2023-06-20 14:22:51,333 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 14:22:51,501 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 14:22:51,887 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 14:22:52,242 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 14:22:52,244 [main] ERROR c.m.contollers.BookingController User logged in with refresh token
+2023-06-20 14:22:52,246 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 14:22:52,328 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 14:22:52,517 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 14:23:20,397 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 22224 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 14:23:20,399 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 14:23:20,401 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 14:23:32,324 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 12.64 seconds (process running for 14.469)
+2023-06-20 14:23:32,757 [main] INFO  c.m.contollers.BookingController Start - viewAllMoviesPerPage
+2023-06-20 14:23:33,039 [main] INFO  c.m.contollers.BookingController End - viewAllMoviesPerPage
+2023-06-20 14:23:33,616 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 14:23:33,740 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 14:23:34,002 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 14:23:34,269 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 14:23:34,269 [main] ERROR c.m.contollers.BookingController User logged in with refresh token
+2023-06-20 14:23:34,270 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 14:23:34,318 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 14:23:34,327 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 14:23:47,118 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 19212 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 14:23:47,120 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 14:23:47,121 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 14:24:00,569 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 14.169 seconds (process running for 16.618)
+2023-06-20 14:24:01,050 [main] INFO  c.m.contollers.BookingController Start - viewAllMoviesPerPage
+2023-06-20 14:24:01,392 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 14:24:01,613 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 14:24:02,037 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 14:24:02,334 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 14:24:02,336 [main] ERROR c.m.contollers.BookingController User logged in with refresh token
+2023-06-20 14:24:02,338 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 14:24:02,396 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 14:24:02,582 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 14:24:10,740 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 20892 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 14:24:10,742 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 14:24:10,744 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 14:24:22,978 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 12.959 seconds (process running for 15.657)
+2023-06-20 14:24:23,350 [main] INFO  c.m.contollers.BookingController Start - viewAllMoviesPerPage
+2023-06-20 14:24:23,550 [main] INFO  c.m.contollers.BookingController End - viewAllMoviesPerPage
+2023-06-20 14:24:24,102 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 14:24:24,232 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 14:24:24,482 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 14:24:24,738 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 14:24:24,739 [main] ERROR c.m.contollers.BookingController User logged in with refresh token
+2023-06-20 14:24:24,741 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 14:24:24,796 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 14:24:24,806 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 14:25:17,738 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 20860 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 14:25:17,740 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 14:25:17,741 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 14:25:35,496 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 18.454 seconds (process running for 20.166)
+2023-06-20 14:25:35,979 [main] INFO  c.m.contollers.BookingController Start - viewAllMoviesPerPage
+2023-06-20 14:25:36,184 [main] INFO  c.m.contollers.BookingController End - viewAllMoviesPerPage
+2023-06-20 14:25:36,602 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 14:25:36,703 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 14:25:36,957 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 14:25:37,241 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 14:25:37,242 [main] ERROR c.m.contollers.BookingController User logged in with refresh token
+2023-06-20 14:25:37,243 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 14:25:37,293 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 14:25:37,302 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 14:34:53,467 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 11196 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 14:34:53,468 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 14:34:53,470 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 14:35:11,130 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 18.531 seconds (process running for 20.717)
+2023-06-20 14:35:11,646 [main] INFO  c.m.contollers.BookingController Start - viewAllMoviesPerPage
+2023-06-20 14:35:11,867 [main] INFO  c.m.contollers.BookingController End - viewAllMoviesPerPage
+2023-06-20 14:35:12,439 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 14:35:12,611 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 14:35:12,940 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 14:35:13,228 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 14:35:13,228 [main] ERROR c.m.contollers.BookingController User logged in with refresh token
+2023-06-20 14:35:13,230 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 14:35:13,281 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 14:35:13,290 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 14:35:13,323 [main] INFO  c.m.contollers.BookingController Start - findCountOfTicketsForMovie
+2023-06-20 14:35:13,612 [main] INFO  c.m.contollers.BookingController End - findCountOfTicketsForMovie
+2023-06-20 14:35:37,465 [restartedMain] INFO  c.m.MoviebookingApplication Starting MoviebookingApplication using Java 18.0.1.1 with PID 21892 (C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp\target\classes started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 14:35:37,466 [restartedMain] DEBUG c.m.MoviebookingApplication Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 14:35:37,467 [restartedMain] INFO  c.m.MoviebookingApplication No active profile set, falling back to 1 default profile: "default"
+2023-06-20 14:35:41,620 [restartedMain] DEBUG c.m.tools.AuthTokenFilter Filter 'authTokenFilter' configured for use
+2023-06-20 14:35:44,471 [restartedMain] INFO  c.m.MoviebookingApplication Started MoviebookingApplication in 7.629 seconds (process running for 9.045)
+2023-06-20 14:35:48,530 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  c.m.kafka.consumer.MessageConsumer Received message from number_of_tickets_booked_for_movie_topic: 949
+2023-06-20 14:36:12,792 [http-nio-8088-exec-10] ERROR c.m.contollers.BookingController Username is already taken!
+2023-06-20 14:36:19,435 [http-nio-8088-exec-3] INFO  com.moviebookingapp.tools.JwtUtils Start - generateToken
+2023-06-20 14:36:19,438 [http-nio-8088-exec-3] INFO  com.moviebookingapp.tools.JwtUtils End - generateToken
+2023-06-20 14:36:19,514 [http-nio-8088-exec-3] INFO  com.moviebookingapp.tools.JwtUtils Generating cookie
+2023-06-20 14:36:19,518 [http-nio-8088-exec-3] INFO  com.moviebookingapp.tools.JwtUtils Generating refresh cookie
+2023-06-20 14:36:19,519 [http-nio-8088-exec-3] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 14:36:33,735 [http-nio-8088-exec-5] INFO  com.moviebookingapp.tools.JwtUtils Start - validateToken
+2023-06-20 14:36:33,739 [http-nio-8088-exec-5] INFO  com.moviebookingapp.tools.JwtUtils End - validateToken
+2023-06-20 14:36:33,743 [http-nio-8088-exec-5] INFO  c.m.tools.AuthTokenFilter authenticated user: joel, now setting appropriate security context.
+2023-06-20 14:36:33,750 [http-nio-8088-exec-5] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 14:36:33,758 [http-nio-8088-exec-5] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 14:37:37,720 [http-nio-8088-exec-8] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: User Not Found with username: kat
+2023-06-20 14:37:48,149 [http-nio-8088-exec-6] INFO  com.moviebookingapp.tools.JwtUtils Start - validateToken
+2023-06-20 14:37:48,152 [http-nio-8088-exec-6] INFO  com.moviebookingapp.tools.JwtUtils End - validateToken
+2023-06-20 14:37:48,442 [http-nio-8088-exec-6] INFO  com.moviebookingapp.tools.JwtUtils Start - generateToken
+2023-06-20 14:37:48,443 [http-nio-8088-exec-6] INFO  com.moviebookingapp.tools.JwtUtils End - generateToken
+2023-06-20 14:37:48,446 [http-nio-8088-exec-6] INFO  com.moviebookingapp.tools.JwtUtils Generating cookie
+2023-06-20 14:37:48,447 [http-nio-8088-exec-6] INFO  com.moviebookingapp.tools.JwtUtils Generating refresh cookie
+2023-06-20 14:37:48,447 [http-nio-8088-exec-6] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 14:37:48,447 [http-nio-8088-exec-6] ERROR c.m.contollers.BookingController User logged in with refresh token
+2023-06-20 14:37:48,582 [http-nio-8088-exec-6] INFO  com.moviebookingapp.tools.JwtUtils Start - generateToken
+2023-06-20 14:37:48,583 [http-nio-8088-exec-6] INFO  com.moviebookingapp.tools.JwtUtils End - generateToken
+2023-06-20 14:37:48,584 [http-nio-8088-exec-6] INFO  com.moviebookingapp.tools.JwtUtils Generating cookie
+2023-06-20 14:37:48,584 [http-nio-8088-exec-6] INFO  com.moviebookingapp.tools.JwtUtils Generating refresh cookie
+2023-06-20 14:37:48,584 [http-nio-8088-exec-6] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 14:37:56,649 [http-nio-8088-exec-4] INFO  com.moviebookingapp.tools.JwtUtils Start - generateToken
+2023-06-20 14:37:56,650 [http-nio-8088-exec-4] INFO  com.moviebookingapp.tools.JwtUtils End - generateToken
+2023-06-20 14:37:56,651 [http-nio-8088-exec-4] INFO  com.moviebookingapp.tools.JwtUtils Generating cookie
+2023-06-20 14:37:56,651 [http-nio-8088-exec-4] INFO  com.moviebookingapp.tools.JwtUtils Generating refresh cookie
+2023-06-20 14:37:56,652 [http-nio-8088-exec-4] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 14:38:10,353 [http-nio-8088-exec-3] WARN  c.m.tools.AuthTokenFilter MARKER, The token has expired, JWT expired at 2023-06-14T15:05:14Z. Current time: 2023-06-20T12:38:10Z, a difference of 509576349 milliseconds.  Allowed clock skew: 0 milliseconds.
+2023-06-20 14:38:10,359 [http-nio-8088-exec-3] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Full authentication is required to access this resource
+2023-06-20 14:38:19,872 [http-nio-8088-exec-1] INFO  com.moviebookingapp.tools.JwtUtils Start - validateToken
+2023-06-20 14:38:19,877 [http-nio-8088-exec-1] INFO  com.moviebookingapp.tools.JwtUtils End - validateToken
+2023-06-20 14:38:19,886 [http-nio-8088-exec-1] INFO  c.m.tools.AuthTokenFilter authenticated user: joel, now setting appropriate security context.
+2023-06-20 14:38:19,892 [http-nio-8088-exec-1] INFO  c.m.contollers.BookingController Start - findCountOfTicketsForMovie
+2023-06-20 14:38:20,138 [http-nio-8088-exec-1] INFO  c.m.contollers.BookingController End - findCountOfTicketsForMovie
+2023-06-20 14:38:20,302 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  c.m.kafka.consumer.MessageConsumer Received message from number_of_tickets_booked_for_movie_topic: 187
+2023-06-20 14:40:15,720 [restartedMain] INFO  c.m.MoviebookingApplication Starting MoviebookingApplication using Java 18.0.1.1 with PID 17376 (C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp\target\classes started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 14:40:15,721 [restartedMain] DEBUG c.m.MoviebookingApplication Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 14:40:15,724 [restartedMain] INFO  c.m.MoviebookingApplication No active profile set, falling back to 1 default profile: "default"
+2023-06-20 14:40:28,040 [restartedMain] DEBUG c.m.tools.AuthTokenFilter Filter 'authTokenFilter' configured for use
+2023-06-20 14:40:33,168 [restartedMain] INFO  c.m.MoviebookingApplication Started MoviebookingApplication in 20.716 seconds (process running for 23.486)
+2023-06-20 14:41:14,646 [restartedMain] INFO  c.m.MoviebookingApplication Starting MoviebookingApplication using Java 18.0.1.1 with PID 6116 (C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp\target\classes started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 14:41:14,650 [restartedMain] DEBUG c.m.MoviebookingApplication Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 14:41:14,655 [restartedMain] INFO  c.m.MoviebookingApplication No active profile set, falling back to 1 default profile: "default"
+2023-06-20 14:41:26,994 [restartedMain] DEBUG c.m.tools.AuthTokenFilter Filter 'authTokenFilter' configured for use
+2023-06-20 14:42:34,318 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 14840 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 14:42:34,320 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 14:42:34,323 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 14:42:46,809 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 13.485 seconds (process running for 15.804)
+2023-06-20 14:42:47,278 [main] INFO  c.m.contollers.BookingController Start - viewAllMoviesPerPage
+2023-06-20 14:42:47,529 [main] INFO  c.m.contollers.BookingController End - viewAllMoviesPerPage
+2023-06-20 14:42:48,134 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 14:42:48,273 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 14:42:48,544 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 14:42:48,912 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 14:42:48,914 [main] ERROR c.m.contollers.BookingController User logged in with refresh token
+2023-06-20 14:42:48,916 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 14:42:48,994 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 14:42:49,038 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 14:42:49,073 [main] INFO  c.m.contollers.BookingController Start - findCountOfTicketsForMovie
+2023-06-20 14:42:49,432 [main] INFO  c.m.contollers.BookingController End - findCountOfTicketsForMovie
+2023-06-20 14:42:49,954 [org.springframework.kafka.KafkaListenerEndpointContainer#1-0-C-1] INFO  c.m.kafka.consumer.MessageConsumer Received message from number_of_tickets_booked_for_movie_topic: 949
+2023-06-20 14:43:08,977 [restartedMain] INFO  c.m.MoviebookingApplication Starting MoviebookingApplication using Java 18.0.1.1 with PID 21932 (C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp\target\classes started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 14:43:08,978 [restartedMain] DEBUG c.m.MoviebookingApplication Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 14:43:08,981 [restartedMain] INFO  c.m.MoviebookingApplication No active profile set, falling back to 1 default profile: "default"
+2023-06-20 14:43:18,721 [restartedMain] DEBUG c.m.tools.AuthTokenFilter Filter 'authTokenFilter' configured for use
+2023-06-20 14:44:03,103 [restartedMain] INFO  c.m.MoviebookingApplication Starting MoviebookingApplication using Java 18.0.1.1 with PID 12148 (C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp\target\classes started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 14:44:03,107 [restartedMain] DEBUG c.m.MoviebookingApplication Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 14:44:03,111 [restartedMain] INFO  c.m.MoviebookingApplication No active profile set, falling back to 1 default profile: "default"
+2023-06-20 14:44:13,938 [restartedMain] DEBUG c.m.tools.AuthTokenFilter Filter 'authTokenFilter' configured for use
+2023-06-20 14:44:19,217 [restartedMain] INFO  c.m.MoviebookingApplication Started MoviebookingApplication in 19.397 seconds (process running for 21.56)
+2023-06-20 14:45:47,497 [restartedMain] INFO  c.m.MoviebookingApplication Starting MoviebookingApplication using Java 18.0.1.1 with PID 20148 (C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp\target\classes started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 14:45:47,498 [restartedMain] DEBUG c.m.MoviebookingApplication Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 14:45:47,499 [restartedMain] INFO  c.m.MoviebookingApplication No active profile set, falling back to 1 default profile: "default"
+2023-06-20 14:45:54,442 [restartedMain] DEBUG c.m.tools.AuthTokenFilter Filter 'authTokenFilter' configured for use
+2023-06-20 14:46:45,473 [restartedMain] INFO  c.m.MoviebookingApplication Starting MoviebookingApplication using Java 18.0.1.1 with PID 10640 (C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp\target\classes started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 14:46:45,475 [restartedMain] DEBUG c.m.MoviebookingApplication Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 14:46:45,477 [restartedMain] INFO  c.m.MoviebookingApplication No active profile set, falling back to 1 default profile: "default"
+2023-06-20 14:46:57,061 [restartedMain] DEBUG c.m.tools.AuthTokenFilter Filter 'authTokenFilter' configured for use
+2023-06-20 14:47:04,446 [restartedMain] INFO  c.m.MoviebookingApplication Started MoviebookingApplication in 21.173 seconds (process running for 23.13)
+2023-06-20 14:54:49,639 [restartedMain] INFO  c.m.MoviebookingApplication Starting MoviebookingApplication using Java 18.0.1.1 with PID 15800 (C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp\target\classes started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 14:54:49,641 [restartedMain] DEBUG c.m.MoviebookingApplication Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 14:54:49,644 [restartedMain] INFO  c.m.MoviebookingApplication No active profile set, falling back to 1 default profile: "default"
+2023-06-20 14:54:58,426 [restartedMain] DEBUG c.m.tools.AuthTokenFilter Filter 'authTokenFilter' configured for use
+2023-06-20 14:55:02,404 [restartedMain] INFO  c.m.MoviebookingApplication Started MoviebookingApplication in 15.066 seconds (process running for 17.86)
+2023-06-20 15:06:54,944 [restartedMain] INFO  c.m.MoviebookingApplication Starting MoviebookingApplication using Java 18.0.1.1 with PID 22076 (C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp\target\classes started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 15:06:54,947 [restartedMain] DEBUG c.m.MoviebookingApplication Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 15:06:54,949 [restartedMain] INFO  c.m.MoviebookingApplication No active profile set, falling back to 1 default profile: "default"
+2023-06-20 15:07:15,157 [restartedMain] DEBUG c.m.tools.AuthTokenFilter Filter 'authTokenFilter' configured for use
+2023-06-20 15:07:23,057 [restartedMain] INFO  c.m.MoviebookingApplication Started MoviebookingApplication in 31.257 seconds (process running for 35.776)
+2023-06-20 15:10:04,224 [restartedMain] INFO  c.m.MoviebookingApplication Starting MoviebookingApplication using Java 18.0.1.1 with PID 21084 (C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp\target\classes started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 15:10:04,228 [restartedMain] DEBUG c.m.MoviebookingApplication Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 15:10:04,232 [restartedMain] INFO  c.m.MoviebookingApplication No active profile set, falling back to 1 default profile: "default"
+2023-06-20 15:10:18,051 [restartedMain] DEBUG c.m.tools.AuthTokenFilter Filter 'authTokenFilter' configured for use
+2023-06-20 15:10:26,178 [restartedMain] INFO  c.m.MoviebookingApplication Started MoviebookingApplication in 26.127 seconds (process running for 29.93)
+2023-06-20 15:11:14,436 [restartedMain] INFO  c.m.MoviebookingApplication Starting MoviebookingApplication using Java 18.0.1.1 with PID 21084 (C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp\target\classes started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 15:11:14,438 [restartedMain] DEBUG c.m.MoviebookingApplication Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 15:11:14,438 [restartedMain] INFO  c.m.MoviebookingApplication No active profile set, falling back to 1 default profile: "default"
+2023-06-20 15:11:17,474 [restartedMain] DEBUG c.m.tools.AuthTokenFilter Filter 'authTokenFilter' configured for use
+2023-06-20 15:11:19,001 [restartedMain] INFO  c.m.MoviebookingApplication Started MoviebookingApplication in 4.71 seconds (process running for 82.753)
+2023-06-20 15:11:30,014 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 8792 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 15:11:30,018 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 15:11:30,020 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 15:11:48,265 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 19.427 seconds (process running for 23.677)
+2023-06-20 15:11:48,673 [main] INFO  c.m.contollers.BookingController Start - viewAllMoviesPerPage
+2023-06-20 15:11:48,959 [main] INFO  c.m.contollers.BookingController End - viewAllMoviesPerPage
+2023-06-20 15:11:49,542 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 15:11:49,685 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 15:11:49,969 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 15:11:50,273 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 15:11:50,274 [main] ERROR c.m.contollers.BookingController User logged in with refresh token
+2023-06-20 15:11:50,275 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 15:11:50,323 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 15:11:50,331 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 15:11:50,361 [main] INFO  c.m.contollers.BookingController Start - findCountOfTicketsForMovie
+2023-06-20 15:11:50,567 [main] INFO  c.m.contollers.BookingController End - findCountOfTicketsForMovie
+2023-06-20 15:11:50,763 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 8792 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 15:11:50,764 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 15:11:50,764 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 15:11:51,237 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  c.m.kafka.consumer.MessageConsumer Received message from number_of_tickets_booked_for_movie_topic: 949
+2023-06-20 15:11:53,245 [main] INFO  c.m.interfaces.MovieServiceTest Started MovieServiceTest in 2.584 seconds (process running for 28.657)
+2023-06-20 15:12:34,969 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 20904 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 15:12:34,971 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 15:12:34,973 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 15:12:51,419 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 17.368 seconds (process running for 19.677)
+2023-06-20 15:12:52,139 [main] INFO  c.m.contollers.BookingController Start - viewAllMoviesPerPage
+2023-06-20 15:12:52,402 [main] INFO  c.m.contollers.BookingController End - viewAllMoviesPerPage
+2023-06-20 15:12:52,991 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 15:12:53,157 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 15:12:53,490 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 15:12:53,794 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 15:12:53,796 [main] ERROR c.m.contollers.BookingController User logged in with refresh token
+2023-06-20 15:12:53,799 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 15:12:53,867 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 15:12:53,877 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 15:12:53,906 [main] INFO  c.m.contollers.BookingController Start - findCountOfTicketsForMovie
+2023-06-20 15:12:54,128 [main] INFO  c.m.contollers.BookingController End - findCountOfTicketsForMovie
+2023-06-20 15:13:27,878 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 20976 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 15:13:27,879 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 15:13:27,880 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 15:13:57,273 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 32.67 seconds (process running for 38.902)
+2023-06-20 15:13:57,945 [main] INFO  c.m.contollers.BookingController Start - viewAllMoviesPerPage
+2023-06-20 15:13:58,273 [main] INFO  c.m.contollers.BookingController End - viewAllMoviesPerPage
+2023-06-20 15:13:59,220 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 15:13:59,562 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 15:13:59,940 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 15:14:00,397 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 15:14:00,399 [main] ERROR c.m.contollers.BookingController User logged in with refresh token
+2023-06-20 15:14:00,401 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 15:14:00,477 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 15:14:00,488 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 15:14:00,523 [main] INFO  c.m.contollers.BookingController Start - findCountOfTicketsForMovie
+2023-06-20 15:14:00,939 [main] INFO  c.m.contollers.BookingController End - findCountOfTicketsForMovie
+2023-06-20 15:16:53,081 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 25524 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 15:16:53,083 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 15:16:53,086 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 15:17:12,712 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 21.291 seconds (process running for 26.161)
+2023-06-20 15:17:13,200 [main] INFO  c.m.contollers.BookingController Start - viewAllMoviesPerPage
+2023-06-20 15:17:13,433 [main] INFO  c.m.contollers.BookingController End - viewAllMoviesPerPage
+2023-06-20 15:17:14,123 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 15:17:14,313 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 15:17:14,610 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 15:17:14,911 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 15:17:14,912 [main] ERROR c.m.contollers.BookingController User logged in with refresh token
+2023-06-20 15:17:14,913 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 15:17:14,952 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 15:17:14,960 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 15:17:14,987 [main] INFO  c.m.contollers.BookingController Start - findCountOfTicketsForMovie
+2023-06-20 15:17:15,214 [main] INFO  c.m.contollers.BookingController End - findCountOfTicketsForMovie
+2023-06-20 15:19:12,716 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 18516 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 15:19:12,717 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 15:19:12,720 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 15:19:26,341 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 14.546 seconds (process running for 18.04)
+2023-06-20 15:19:26,782 [main] INFO  c.m.contollers.BookingController Start - viewAllMoviesPerPage
+2023-06-20 15:19:27,037 [main] INFO  c.m.contollers.BookingController End - viewAllMoviesPerPage
+2023-06-20 15:19:27,612 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 15:19:27,758 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 15:19:28,013 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 15:19:28,248 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 15:19:28,250 [main] ERROR c.m.contollers.BookingController User logged in with refresh token
+2023-06-20 15:19:28,251 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 15:19:28,290 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 15:19:28,297 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 15:19:28,317 [main] INFO  c.m.contollers.BookingController Start - findCountOfTicketsForMovie
+2023-06-20 15:19:28,494 [main] INFO  c.m.contollers.BookingController End - findCountOfTicketsForMovie
+2023-06-20 15:20:11,212 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 6024 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 15:20:11,214 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 15:20:11,216 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 15:20:23,409 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 12.938 seconds (process running for 15.436)
+2023-06-20 15:20:23,815 [main] INFO  c.m.contollers.BookingController Start - viewAllMoviesPerPage
+2023-06-20 15:20:24,117 [main] INFO  c.m.contollers.BookingController End - viewAllMoviesPerPage
+2023-06-20 15:20:24,740 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 15:20:24,884 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 15:20:25,145 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 15:20:25,392 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 15:20:25,393 [main] ERROR c.m.contollers.BookingController User logged in with refresh token
+2023-06-20 15:20:25,394 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 15:20:25,440 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 15:20:25,449 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 15:20:25,476 [main] INFO  c.m.contollers.BookingController Start - findCountOfTicketsForMovie
+2023-06-20 15:20:25,668 [main] INFO  c.m.contollers.BookingController End - findCountOfTicketsForMovie
+2023-06-20 15:20:52,848 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 22924 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 15:20:52,850 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 15:20:52,852 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 15:21:11,914 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 20.84 seconds (process running for 25.334)
+2023-06-20 15:21:12,543 [main] INFO  c.m.contollers.BookingController Start - viewAllMoviesPerPage
+2023-06-20 15:21:12,790 [main] INFO  c.m.contollers.BookingController End - viewAllMoviesPerPage
+2023-06-20 15:21:13,552 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 15:21:13,753 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 15:21:14,137 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 15:21:14,598 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 15:21:14,602 [main] ERROR c.m.contollers.BookingController User logged in with refresh token
+2023-06-20 15:21:14,604 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 15:21:14,679 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 15:21:14,690 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 15:21:14,723 [main] INFO  c.m.contollers.BookingController Start - findCountOfTicketsForMovie
+2023-06-20 15:21:15,052 [main] INFO  c.m.contollers.BookingController End - findCountOfTicketsForMovie
+2023-06-20 15:27:48,628 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 20760 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 15:27:48,631 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 15:27:48,633 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 15:28:10,265 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 23.37 seconds (process running for 28.257)
+2023-06-20 15:28:10,860 [main] INFO  c.m.contollers.BookingController Start - viewAllMoviesPerPage
+2023-06-20 15:28:11,112 [main] INFO  c.m.contollers.BookingController End - viewAllMoviesPerPage
+2023-06-20 15:28:11,853 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 15:28:12,092 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 15:28:12,541 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 15:28:12,955 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 15:28:12,957 [main] ERROR c.m.contollers.BookingController User logged in with refresh token
+2023-06-20 15:28:12,961 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 15:28:13,037 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 15:28:13,050 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 15:28:13,098 [main] INFO  c.m.contollers.BookingController Start - findCountOfTicketsForMovie
+2023-06-20 15:28:13,533 [main] INFO  c.m.contollers.BookingController End - findCountOfTicketsForMovie
+2023-06-20 15:28:13,578 [main] INFO  c.m.contollers.BookingController Start - findMovie
+2023-06-20 15:28:13,591 [main] INFO  c.m.contollers.BookingController End - findMovie
+2023-06-20 15:34:52,948 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 676 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 15:34:52,951 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 15:34:52,953 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 15:35:18,942 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 27.828 seconds (process running for 33.222)
+2023-06-20 15:35:19,619 [main] INFO  c.m.contollers.BookingController Start - viewAllMoviesPerPage
+2023-06-20 15:35:19,889 [main] INFO  c.m.contollers.BookingController End - viewAllMoviesPerPage
+2023-06-20 15:35:20,685 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 15:35:20,879 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 15:35:21,188 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 15:35:21,467 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 15:35:21,468 [main] ERROR c.m.contollers.BookingController User logged in with refresh token
+2023-06-20 15:35:21,469 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 15:35:21,526 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 15:35:21,538 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 15:35:21,578 [main] INFO  c.m.contollers.BookingController Start - findCountOfTicketsForMovie
+2023-06-20 15:35:21,855 [main] INFO  c.m.contollers.BookingController End - findCountOfTicketsForMovie
+2023-06-20 15:35:21,915 [main] INFO  c.m.contollers.BookingController Start - findMovie
+2023-06-20 15:35:21,930 [main] INFO  c.m.contollers.BookingController End - findMovie
+2023-06-20 15:35:21,967 [main] INFO  c.m.contollers.BookingController Start - bookTicket
+2023-06-20 15:35:22,125 [main] INFO  c.m.contollers.BookingController End - bookTicket
+2023-06-20 15:38:10,086 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 11268 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 15:38:10,089 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 15:38:10,090 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 15:38:31,352 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 23.128 seconds (process running for 27.477)
+2023-06-20 15:38:31,980 [main] INFO  c.m.contollers.BookingController Start - viewAllMoviesPerPage
+2023-06-20 15:38:32,273 [main] INFO  c.m.contollers.BookingController End - viewAllMoviesPerPage
+2023-06-20 15:38:33,143 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 15:38:33,376 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 15:38:33,747 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 15:38:34,128 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 15:38:34,129 [main] ERROR c.m.contollers.BookingController User logged in with refresh token
+2023-06-20 15:38:34,130 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 15:38:34,193 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 15:38:34,211 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 15:38:34,245 [main] INFO  c.m.contollers.BookingController Start - findCountOfTicketsForMovie
+2023-06-20 15:38:34,506 [main] INFO  c.m.contollers.BookingController End - findCountOfTicketsForMovie
+2023-06-20 15:38:34,549 [main] INFO  c.m.contollers.BookingController Start - findMovie
+2023-06-20 15:38:34,558 [main] INFO  c.m.contollers.BookingController End - findMovie
+2023-06-20 15:38:34,592 [main] INFO  c.m.contollers.BookingController Start - bookTicket
+2023-06-20 15:38:34,704 [main] INFO  c.m.contollers.BookingController End - bookTicket
+2023-06-20 15:39:03,479 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 3748 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 15:39:03,481 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 15:39:03,484 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 15:39:25,123 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 21684 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 15:39:25,125 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 15:39:25,126 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 15:39:38,358 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 14.186 seconds (process running for 17.173)
+2023-06-20 15:39:38,887 [main] INFO  c.m.contollers.BookingController Start - viewAllMoviesPerPage
+2023-06-20 15:39:39,101 [main] INFO  c.m.contollers.BookingController End - viewAllMoviesPerPage
+2023-06-20 15:39:39,702 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 15:39:39,825 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 15:39:40,061 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 15:39:40,311 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 15:39:40,312 [main] ERROR c.m.contollers.BookingController User logged in with refresh token
+2023-06-20 15:39:40,314 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 15:39:40,379 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 15:39:40,386 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 15:39:40,415 [main] INFO  c.m.contollers.BookingController Start - findCountOfTicketsForMovie
+2023-06-20 15:39:40,657 [main] INFO  c.m.contollers.BookingController End - findCountOfTicketsForMovie
+2023-06-20 15:39:40,700 [main] INFO  c.m.contollers.BookingController Start - findMovie
+2023-06-20 15:39:40,713 [main] INFO  c.m.contollers.BookingController End - findMovie
+2023-06-20 15:39:40,742 [main] INFO  c.m.contollers.BookingController Start - bookTicket
+2023-06-20 15:39:40,830 [main] INFO  c.m.contollers.BookingController End - bookTicket
+2023-06-20 15:40:29,782 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 22664 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 15:40:29,783 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 15:40:29,784 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 15:40:42,508 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 13.4 seconds (process running for 15.752)
+2023-06-20 15:40:42,899 [main] INFO  c.m.contollers.BookingController Start - viewAllMoviesPerPage
+2023-06-20 15:40:43,068 [main] INFO  c.m.contollers.BookingController End - viewAllMoviesPerPage
+2023-06-20 15:40:43,502 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 15:40:43,615 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 15:40:43,856 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 15:40:44,113 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 15:40:44,115 [main] ERROR c.m.contollers.BookingController User logged in with refresh token
+2023-06-20 15:40:44,116 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 15:40:44,168 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 15:40:44,176 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 15:40:44,205 [main] INFO  c.m.contollers.BookingController Start - findCountOfTicketsForMovie
+2023-06-20 15:40:44,473 [main] INFO  c.m.contollers.BookingController End - findCountOfTicketsForMovie
+2023-06-20 15:40:44,509 [main] INFO  c.m.contollers.BookingController Start - findMovie
+2023-06-20 15:40:44,517 [main] INFO  c.m.contollers.BookingController End - findMovie
+2023-06-20 15:40:44,545 [main] INFO  c.m.contollers.BookingController Start - bookTicket
+2023-06-20 15:40:44,634 [main] INFO  c.m.contollers.BookingController End - bookTicket
+2023-06-20 15:41:50,562 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 16712 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 15:41:50,564 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 15:41:50,565 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 15:42:02,242 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 12.331 seconds (process running for 14.878)
+2023-06-20 15:42:02,592 [main] INFO  c.m.contollers.BookingController Start - viewAllMoviesPerPage
+2023-06-20 15:42:02,744 [main] INFO  c.m.contollers.BookingController End - viewAllMoviesPerPage
+2023-06-20 15:42:03,192 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 15:42:03,292 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 15:42:03,506 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 15:42:03,724 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 15:42:03,725 [main] ERROR c.m.contollers.BookingController User logged in with refresh token
+2023-06-20 15:42:03,727 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 15:42:03,766 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 15:42:03,776 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 15:42:03,802 [main] INFO  c.m.contollers.BookingController Start - findCountOfTicketsForMovie
+2023-06-20 15:42:04,009 [main] INFO  c.m.contollers.BookingController End - findCountOfTicketsForMovie
+2023-06-20 15:42:04,043 [main] INFO  c.m.contollers.BookingController Start - findMovie
+2023-06-20 15:42:04,051 [main] INFO  c.m.contollers.BookingController End - findMovie
+2023-06-20 15:42:04,080 [main] INFO  c.m.contollers.BookingController Start - bookTicket
+2023-06-20 15:42:04,166 [main] INFO  c.m.contollers.BookingController End - bookTicket
+2023-06-20 15:42:17,819 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 8340 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 15:42:17,821 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 15:42:17,824 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 15:42:35,339 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 19.09 seconds (process running for 23.536)
+2023-06-20 15:42:35,806 [main] INFO  c.m.contollers.BookingController Start - viewAllMoviesPerPage
+2023-06-20 15:42:36,044 [main] INFO  c.m.contollers.BookingController End - viewAllMoviesPerPage
+2023-06-20 15:42:36,720 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 15:42:36,851 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 15:42:37,114 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 15:42:37,371 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 15:42:37,371 [main] ERROR c.m.contollers.BookingController User logged in with refresh token
+2023-06-20 15:42:37,373 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 15:42:37,423 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 15:42:37,432 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 15:42:37,462 [main] INFO  c.m.contollers.BookingController Start - findCountOfTicketsForMovie
+2023-06-20 15:42:37,714 [main] INFO  c.m.contollers.BookingController End - findCountOfTicketsForMovie
+2023-06-20 15:42:37,755 [main] INFO  c.m.contollers.BookingController Start - findMovie
+2023-06-20 15:42:37,764 [main] INFO  c.m.contollers.BookingController End - findMovie
+2023-06-20 15:42:37,790 [main] INFO  c.m.contollers.BookingController Start - bookTicket
+2023-06-20 15:42:37,876 [main] INFO  c.m.contollers.BookingController End - bookTicket
+2023-06-20 15:44:58,551 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 7712 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 15:44:58,554 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 15:44:58,557 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 15:45:16,302 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 19.248 seconds (process running for 24.048)
+2023-06-20 15:45:16,798 [main] INFO  c.m.contollers.BookingController Start - viewAllMoviesPerPage
+2023-06-20 15:45:17,026 [main] INFO  c.m.contollers.BookingController End - viewAllMoviesPerPage
+2023-06-20 15:45:17,651 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 15:45:17,815 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 15:45:18,108 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 15:45:18,411 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 15:45:18,412 [main] ERROR c.m.contollers.BookingController User logged in with refresh token
+2023-06-20 15:45:18,413 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 15:45:18,465 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 15:45:18,474 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 15:45:18,501 [main] INFO  c.m.contollers.BookingController Start - findCountOfTicketsForMovie
+2023-06-20 15:45:18,758 [main] INFO  c.m.contollers.BookingController End - findCountOfTicketsForMovie
+2023-06-20 15:45:18,801 [main] INFO  c.m.contollers.BookingController Start - findMovie
+2023-06-20 15:45:18,812 [main] INFO  c.m.contollers.BookingController End - findMovie
+2023-06-20 15:45:18,855 [main] INFO  c.m.contollers.BookingController Start - bookTicket
+2023-06-20 15:45:18,948 [main] INFO  c.m.contollers.BookingController End - bookTicket
+2023-06-20 15:55:16,199 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 21660 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 15:55:16,201 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 15:55:16,204 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 15:55:35,651 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 21.072 seconds (process running for 25.913)
+2023-06-20 15:55:36,064 [main] INFO  c.m.contollers.BookingController Start - viewAllMoviesPerPage
+2023-06-20 15:55:36,264 [main] INFO  c.m.contollers.BookingController End - viewAllMoviesPerPage
+2023-06-20 15:55:36,617 [main] INFO  c.m.contollers.BookingController Start - deleteMovie
+2023-06-20 15:55:36,729 [main] INFO  c.m.contollers.BookingController End - deleteMovie
+2023-06-20 15:55:37,004 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 15:55:37,152 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 15:55:37,417 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 15:55:37,688 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 15:55:37,689 [main] ERROR c.m.contollers.BookingController User logged in with refresh token
+2023-06-20 15:55:37,690 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 15:55:37,740 [main] INFO  c.m.contollers.BookingController Start - updateTicketStatus
+2023-06-20 15:55:37,741 [main] INFO  c.m.contollers.BookingController find ticket by movie name.
+2023-06-20 15:55:37,957 [main] INFO  c.m.contollers.BookingController End - updateTicketStatus
+2023-06-20 15:55:38,047 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 15:55:38,057 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 15:55:38,085 [main] INFO  c.m.contollers.BookingController Start - findCountOfTicketsForMovie
+2023-06-20 15:55:38,122 [main] INFO  c.m.contollers.BookingController End - findCountOfTicketsForMovie
+2023-06-20 15:55:38,156 [main] INFO  c.m.contollers.BookingController Start - findMovie
+2023-06-20 15:55:38,164 [main] INFO  c.m.contollers.BookingController End - findMovie
+2023-06-20 15:55:38,196 [main] INFO  c.m.contollers.BookingController Start - bookTicket
+2023-06-20 15:55:38,218 [main] INFO  c.m.contollers.BookingController End - bookTicket
+2023-06-20 15:56:17,040 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 6076 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 15:56:17,042 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 15:56:17,043 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 15:56:28,921 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 12.601 seconds (process running for 14.809)
+2023-06-20 15:56:29,344 [main] INFO  c.m.contollers.BookingController Start - viewAllMoviesPerPage
+2023-06-20 15:56:29,543 [main] INFO  c.m.contollers.BookingController End - viewAllMoviesPerPage
+2023-06-20 15:56:29,798 [main] INFO  c.m.contollers.BookingController Start - deleteMovie
+2023-06-20 15:56:29,845 [main] INFO  c.m.contollers.BookingController End - deleteMovie
+2023-06-20 15:56:30,189 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 15:56:30,345 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 15:56:30,610 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 15:56:30,842 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 15:56:30,843 [main] ERROR c.m.contollers.BookingController User logged in with refresh token
+2023-06-20 15:56:30,844 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 15:56:30,876 [main] INFO  c.m.contollers.BookingController Start - updateTicketStatus
+2023-06-20 15:56:30,878 [main] INFO  c.m.contollers.BookingController find ticket by movie name.
+2023-06-20 15:56:31,127 [main] INFO  c.m.contollers.BookingController End - updateTicketStatus
+2023-06-20 15:56:31,253 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 15:56:31,269 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 15:56:31,300 [main] INFO  c.m.contollers.BookingController Start - findCountOfTicketsForMovie
+2023-06-20 15:56:31,341 [main] INFO  c.m.contollers.BookingController End - findCountOfTicketsForMovie
+2023-06-20 15:56:31,370 [main] INFO  c.m.contollers.BookingController Start - findMovie
+2023-06-20 15:56:31,377 [main] INFO  c.m.contollers.BookingController End - findMovie
+2023-06-20 15:56:31,404 [main] INFO  c.m.contollers.BookingController Start - bookTicket
+2023-06-20 15:56:31,423 [main] INFO  c.m.contollers.BookingController End - bookTicket
+2023-06-20 15:56:45,918 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 16156 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 15:56:45,919 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 15:56:45,921 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 15:56:58,093 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 12.848 seconds (process running for 14.922)
+2023-06-20 15:56:58,552 [main] INFO  c.m.contollers.BookingController Start - viewAllMoviesPerPage
+2023-06-20 15:56:58,776 [main] INFO  c.m.contollers.BookingController End - viewAllMoviesPerPage
+2023-06-20 15:56:59,162 [main] INFO  c.m.contollers.BookingController Start - deleteMovie
+2023-06-20 15:56:59,221 [main] INFO  c.m.contollers.BookingController End - deleteMovie
+2023-06-20 15:56:59,481 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 15:56:59,619 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 15:56:59,874 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 15:57:00,109 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 15:57:00,109 [main] ERROR c.m.contollers.BookingController User logged in with refresh token
+2023-06-20 15:57:00,111 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 15:57:00,154 [main] INFO  c.m.contollers.BookingController Start - updateTicketStatus
+2023-06-20 15:57:00,155 [main] INFO  c.m.contollers.BookingController find ticket by movie name.
+2023-06-20 15:57:00,378 [main] INFO  c.m.contollers.BookingController End - updateTicketStatus
+2023-06-20 15:57:00,432 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 15:57:00,446 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 15:57:00,476 [main] INFO  c.m.contollers.BookingController Start - findCountOfTicketsForMovie
+2023-06-20 15:57:00,503 [main] INFO  c.m.contollers.BookingController End - findCountOfTicketsForMovie
+2023-06-20 15:57:00,533 [main] INFO  c.m.contollers.BookingController Start - findMovie
+2023-06-20 15:57:00,540 [main] INFO  c.m.contollers.BookingController End - findMovie
+2023-06-20 15:57:00,567 [main] INFO  c.m.contollers.BookingController Start - bookTicket
+2023-06-20 15:57:00,581 [main] INFO  c.m.contollers.BookingController End - bookTicket
+2023-06-20 16:03:15,147 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 1860 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 16:03:15,149 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 16:03:15,154 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 16:03:37,259 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 23.841 seconds (process running for 29.198)
+2023-06-20 16:03:58,514 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 24976 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 16:03:58,516 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 16:03:58,518 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 16:04:13,685 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 16.214 seconds (process running for 19.242)
+2023-06-20 16:08:07,098 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 24108 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 16:08:07,099 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 16:08:07,101 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 16:08:19,583 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 12.883 seconds (process running for 14.174)
+2023-06-20 16:11:27,959 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 3144 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 16:11:27,961 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 16:11:27,962 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 16:11:41,820 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 14.88 seconds (process running for 18.091)
+2023-06-20 16:11:42,213 [main] INFO  c.m.contollers.BookingController Start - viewAllMoviesPerPage
+2023-06-20 16:11:42,413 [main] INFO  c.m.contollers.BookingController End - viewAllMoviesPerPage
+2023-06-20 16:11:42,700 [main] INFO  c.m.contollers.BookingController Start - deleteMovie
+2023-06-20 16:11:42,764 [main] INFO  c.m.contollers.BookingController End - deleteMovie
+2023-06-20 16:11:42,952 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 16:11:43,050 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 16:11:43,289 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 16:11:43,505 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 16:11:43,506 [main] ERROR c.m.contollers.BookingController User logged in with refresh token
+2023-06-20 16:11:43,508 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 16:11:43,550 [main] INFO  c.m.contollers.BookingController Start - updateTicketStatus
+2023-06-20 16:11:43,551 [main] INFO  c.m.contollers.BookingController find ticket by movie name.
+2023-06-20 16:11:43,797 [main] INFO  c.m.contollers.BookingController End - updateTicketStatus
+2023-06-20 16:11:43,879 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 16:11:43,891 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 16:11:43,919 [main] INFO  c.m.contollers.BookingController Start - findCountOfTicketsForMovie
+2023-06-20 16:11:43,988 [main] INFO  c.m.contollers.BookingController End - findCountOfTicketsForMovie
+2023-06-20 16:11:44,018 [main] INFO  c.m.contollers.BookingController Start - findMovie
+2023-06-20 16:11:44,027 [main] INFO  c.m.contollers.BookingController End - findMovie
+2023-06-20 16:11:44,053 [main] INFO  c.m.contollers.BookingController Start - bookTicket
+2023-06-20 16:11:44,070 [main] INFO  c.m.contollers.BookingController End - bookTicket
+2023-06-20 16:16:31,595 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 22024 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 16:16:31,596 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 16:16:31,597 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 16:16:43,219 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 12.234 seconds (process running for 13.693)
+2023-06-20 16:16:43,591 [main] INFO  c.m.contollers.BookingController Start - viewAllMoviesPerPage
+2023-06-20 16:16:43,768 [main] INFO  c.m.contollers.BookingController End - viewAllMoviesPerPage
+2023-06-20 16:16:44,117 [main] INFO  c.m.contollers.BookingController Start - deleteMovie
+2023-06-20 16:16:44,178 [main] INFO  c.m.contollers.BookingController End - deleteMovie
+2023-06-20 16:16:44,397 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 16:16:44,522 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 16:16:44,790 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 16:16:45,006 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 16:16:45,006 [main] ERROR c.m.contollers.BookingController User logged in with refresh token
+2023-06-20 16:16:45,007 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 16:16:45,037 [main] INFO  c.m.contollers.BookingController Start - updateTicketStatus
+2023-06-20 16:16:45,037 [main] INFO  c.m.contollers.BookingController find ticket by movie name.
+2023-06-20 16:16:45,253 [main] INFO  c.m.contollers.BookingController End - updateTicketStatus
+2023-06-20 16:16:45,368 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 16:16:45,377 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 16:16:45,409 [main] INFO  c.m.contollers.BookingController Start - findCountOfTicketsForMovie
+2023-06-20 16:16:45,441 [main] INFO  c.m.contollers.BookingController End - findCountOfTicketsForMovie
+2023-06-20 16:16:45,476 [main] INFO  c.m.contollers.BookingController Start - findMovie
+2023-06-20 16:16:45,489 [main] INFO  c.m.contollers.BookingController End - findMovie
+2023-06-20 16:16:45,519 [main] INFO  c.m.contollers.BookingController Start - bookTicket
+2023-06-20 16:16:45,540 [main] INFO  c.m.contollers.BookingController End - bookTicket
+2023-06-20 16:17:14,686 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 7652 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 16:17:14,687 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 16:17:14,688 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 16:17:25,514 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 11.234 seconds (process running for 12.567)
+2023-06-20 16:17:25,904 [main] INFO  c.m.contollers.BookingController Start - viewAllMoviesPerPage
+2023-06-20 16:17:26,112 [main] INFO  c.m.contollers.BookingController End - viewAllMoviesPerPage
+2023-06-20 16:17:26,415 [main] INFO  c.m.contollers.BookingController Start - deleteMovie
+2023-06-20 16:17:26,474 [main] INFO  c.m.contollers.BookingController End - deleteMovie
+2023-06-20 16:17:26,697 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 16:17:26,822 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 16:17:27,101 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 16:17:27,355 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 16:17:27,356 [main] ERROR c.m.contollers.BookingController User logged in with refresh token
+2023-06-20 16:17:27,357 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 16:17:27,402 [main] INFO  c.m.contollers.BookingController Start - updateTicketStatus
+2023-06-20 16:17:27,403 [main] INFO  c.m.contollers.BookingController find ticket by movie name.
+2023-06-20 16:17:27,618 [main] INFO  c.m.contollers.BookingController End - updateTicketStatus
+2023-06-20 16:17:27,678 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 16:17:27,699 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 16:17:27,729 [main] INFO  c.m.contollers.BookingController Start - findCountOfTicketsForMovie
+2023-06-20 16:17:27,769 [main] INFO  c.m.contollers.BookingController End - findCountOfTicketsForMovie
+2023-06-20 16:17:27,808 [main] INFO  c.m.contollers.BookingController Start - findMovie
+2023-06-20 16:17:27,821 [main] INFO  c.m.contollers.BookingController End - findMovie
+2023-06-20 16:17:27,868 [main] INFO  c.m.contollers.BookingController Start - bookTicket
+2023-06-20 16:17:27,892 [main] INFO  c.m.contollers.BookingController End - bookTicket
+2023-06-20 16:17:35,697 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 2556 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 16:17:35,699 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 16:17:35,701 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 16:17:52,697 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 18.509 seconds (process running for 22.286)
+2023-06-20 16:17:53,240 [main] INFO  c.m.contollers.BookingController Start - viewAllMoviesPerPage
+2023-06-20 16:17:53,500 [main] INFO  c.m.contollers.BookingController End - viewAllMoviesPerPage
+2023-06-20 16:17:53,945 [main] INFO  c.m.contollers.BookingController Start - deleteMovie
+2023-06-20 16:17:54,059 [main] INFO  c.m.contollers.BookingController End - deleteMovie
+2023-06-20 16:17:54,376 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 16:17:54,510 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 16:17:54,754 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 16:17:55,014 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 16:17:55,015 [main] ERROR c.m.contollers.BookingController User logged in with refresh token
+2023-06-20 16:17:55,016 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 16:17:55,054 [main] INFO  c.m.contollers.BookingController Start - updateTicketStatus
+2023-06-20 16:17:55,054 [main] INFO  c.m.contollers.BookingController find ticket by movie name.
+2023-06-20 16:17:55,271 [main] INFO  c.m.contollers.BookingController End - updateTicketStatus
+2023-06-20 16:17:55,326 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 16:17:55,334 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 16:17:55,356 [main] INFO  c.m.contollers.BookingController Start - findCountOfTicketsForMovie
+2023-06-20 16:17:55,386 [main] INFO  c.m.contollers.BookingController End - findCountOfTicketsForMovie
+2023-06-20 16:17:55,414 [main] INFO  c.m.contollers.BookingController Start - findMovie
+2023-06-20 16:17:55,420 [main] INFO  c.m.contollers.BookingController End - findMovie
+2023-06-20 16:17:55,450 [main] INFO  c.m.contollers.BookingController Start - bookTicket
+2023-06-20 16:17:55,470 [main] INFO  c.m.contollers.BookingController End - bookTicket
+2023-06-20 16:32:47,683 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 18696 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 16:32:47,686 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 16:32:47,689 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 16:32:48,823 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 18696 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 16:32:48,824 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 16:32:48,825 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 16:32:49,041 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 18696 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 16:32:49,042 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 16:32:49,045 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 16:32:49,196 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 18696 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 16:32:49,197 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 16:32:49,197 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 16:32:49,369 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 18696 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 16:32:49,370 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 16:32:49,371 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 16:32:49,542 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 18696 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 16:32:49,544 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 16:32:49,545 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 16:32:49,734 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 18696 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 16:32:49,735 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 16:32:49,736 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 16:32:49,914 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 18696 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 16:32:49,915 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 16:32:49,916 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 16:32:50,104 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 18696 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 16:32:50,107 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 16:32:50,107 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 16:32:50,295 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 18696 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 16:32:50,296 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 16:32:50,297 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 16:32:50,463 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 18696 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 16:32:50,464 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 16:32:50,465 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 16:32:50,611 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 18696 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 16:32:50,612 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 16:32:50,613 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 16:33:47,207 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 12328 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 16:33:47,209 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 16:33:47,219 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 16:33:48,575 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 12328 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 16:33:48,576 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 16:33:48,577 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 16:33:48,872 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 12328 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 16:33:48,874 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 16:33:48,874 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 16:33:49,110 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 12328 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 16:33:49,113 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 16:33:49,114 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 16:33:49,312 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 12328 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 16:33:49,314 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 16:33:49,315 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 16:33:49,566 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 12328 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 16:33:49,567 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 16:33:49,568 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 16:33:49,771 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 12328 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 16:33:49,773 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 16:33:49,774 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 16:33:49,952 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 12328 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 16:33:49,953 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 16:33:49,954 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 16:33:50,159 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 12328 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 16:33:50,161 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 16:33:50,162 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 16:33:50,442 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 12328 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 16:33:50,443 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 16:33:50,444 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 16:33:50,659 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 12328 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 16:33:50,660 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 16:33:50,661 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 16:33:50,842 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 12328 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 16:33:50,842 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 16:33:50,843 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 16:34:38,492 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 19104 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 16:34:38,494 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 16:34:38,496 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 16:34:52,829 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 15.191 seconds (process running for 17.835)
+2023-06-20 16:34:53,557 [main] INFO  c.m.contollers.BookingController Start - viewAllMoviesPerPage
+2023-06-20 16:34:53,827 [main] INFO  c.m.contollers.BookingController End - viewAllMoviesPerPage
+2023-06-20 16:34:54,163 [main] INFO  c.m.contollers.BookingController Start - deleteMovie
+2023-06-20 16:34:54,264 [main] INFO  c.m.contollers.BookingController End - deleteMovie
+2023-06-20 16:34:54,556 [main] ERROR c.m.tools.AuthEntryPointJwt Unauthorized error: Bad Credentials
+2023-06-20 16:34:54,689 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 16:34:55,061 [main] INFO  c.m.contollers.BookingController New user registered successfully!
+2023-06-20 16:34:55,360 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 16:34:55,360 [main] ERROR c.m.contollers.BookingController User logged in with refresh token
+2023-06-20 16:34:55,362 [main] INFO  c.m.contollers.BookingController Sign in user
+2023-06-20 16:34:55,410 [main] INFO  c.m.contollers.BookingController Start - updateTicketStatus
+2023-06-20 16:34:55,411 [main] INFO  c.m.contollers.BookingController find ticket by movie name.
+2023-06-20 16:34:55,664 [main] INFO  c.m.contollers.BookingController End - updateTicketStatus
+2023-06-20 16:34:55,714 [main] INFO  c.m.contollers.BookingController Start - viewAllMovies
+2023-06-20 16:34:55,730 [main] TRACE c.m.contollers.BookingController End - viewAllMovies
+2023-06-20 16:34:55,759 [main] INFO  c.m.contollers.BookingController Start - findCountOfTicketsForMovie
+2023-06-20 16:34:55,853 [main] INFO  c.m.contollers.BookingController End - findCountOfTicketsForMovie
+2023-06-20 16:34:55,884 [main] INFO  c.m.contollers.BookingController Start - findMovie
+2023-06-20 16:34:55,898 [main] INFO  c.m.contollers.BookingController End - findMovie
+2023-06-20 16:34:55,926 [main] INFO  c.m.contollers.BookingController Start - bookTicket
+2023-06-20 16:34:55,943 [main] INFO  c.m.contollers.BookingController End - bookTicket
+2023-06-20 16:58:57,318 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 24340 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 16:58:57,320 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 16:58:57,322 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 16:59:00,140 [main] INFO  c.m.interfaces.MovieServiceTest Started MovieServiceTest in 4.404 seconds (process running for 9.011)
+2023-06-20 16:59:51,292 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 14904 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 16:59:51,295 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 16:59:51,297 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 16:59:54,810 [main] INFO  c.m.interfaces.MovieServiceTest Started MovieServiceTest in 5.194 seconds (process running for 11.602)
+2023-06-20 17:01:00,225 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 19468 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 17:01:00,227 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 17:01:00,228 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 17:01:02,477 [main] INFO  c.m.interfaces.MovieServiceTest Started MovieServiceTest in 3.536 seconds (process running for 8.293)
+2023-06-20 17:01:40,885 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 10980 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-20 17:01:40,890 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-20 17:01:40,893 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-20 17:01:45,135 [main] INFO  c.m.interfaces.MovieServiceTest Started MovieServiceTest in 6.004 seconds (process running for 17.099)

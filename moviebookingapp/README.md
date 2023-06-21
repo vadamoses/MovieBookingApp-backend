@@ -40,3 +40,19 @@ The service will perform the tasks of ceating a new customer profile based on th
 2. Swagger docs: http://localhost:8088/v3/api-docs
 3. Swagger docs Json: /moviebookingapp/target/moviebookingappApiDocumentation.json
 
+## ElasticSearch password generation/reset
+# Current details:
+*	username : elastic
+*	password : elasticUser
+
+*	To generate enrolment token for elasticsearch, open the terminal for elasticsearch container in docker, cd to bin and run this command: elasticsearch-create-enrollment-token -s kibana
+*	.
+*	To set a new ElasticSearch password, open the terminal for elasticsearch container in docker, cd to bin and run this command: "elasticsearch-reset-password -u elastic". this will generate a password for the user "elastic", this can be any other user of course.
+
+## Grafana login details
+*	username: moviebooking
+*	password: moviebooking
+
+### Unique identifier (UID) for Movie booking Application Dashboard
+*	X034JGT7Gz
+

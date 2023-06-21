@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<configuration scan="true">
+<Configuration scan="true">
     <property name="MovieBookingAppLOGS" value="./logs" />
 
-    <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
-        <encoder>
-            <pattern class="ch.qos.logback.classic.PatternLayout">
-                %d [%t] %-5level %logger{50}: %msg%n%throwable
-            </pattern>
-        </encoder>
-    </appender>
-
-    <appender name="RollingFile" class="ch.qos.logback.core.rolling.RollingFileAppender">
+	<appender name="STDOUT"
+		class="ch.qos.logback.core.ConsoleAppender">
+		<encoder>
+			<pattern class="ch.qos.logback.classic.PatternLayout">
+				%d{HH:mm:ss.SSS} %-5p [%-7t] %F:%L - %m%n
+			</pattern>
+		</encoder>
+	</appender>
+	
+	<appender name="RollingFile" class="ch.qos.logback.core.rolling.RollingFileAppender">
         <file>${MovieBookingAppLOGS}/movie-booking-app-logger.log</file>
         <encoder class="ch.qos.logback.classic.encoder.PatternLayoutEncoder">
             <pattern>%d [%thread] %-5level %logger{36} %msg%n</pattern>
@@ -22,16 +23,28 @@
             </timeBasedFileNamingAndTriggeringPolicy>
         </rollingPolicy>
     </appender>
-    
-    <!-- LOG "com.moviebookingapp" at TRACE level -->
-    <logger name="com.moviebookingapp" level="TRACE" additivity="false">
-        <appender-ref ref="RollingFile" />
-        <appender-ref ref="STDOUT" />
-    </logger>
-      
-    <!-- LOG everything else at INFO level -->
-    <root level="INFO">
-        <appender-ref ref="STDOUT" /> 
-    </root>
 
-</configuration>
+	<Kafka name="kafka" topic="moviebookingapplogs">
+		<PatternLayout pattern="%date %message" />
+		<Property name="bootstrap.servers">kafka:29093</Property>
+	</Kafka>
+	<Async name="Async">
+		<AppenderRef ref="kafka" />
+	</Async>
+
+	<!-- LOG "com.moviebookingapp" at TRACE level -->
+	<Logger name="com.moviebookingapp" level="TRACE"
+		additivity="false">
+		<AppenderRef ref="kafka" />
+		<Appender-ref ref="STDOUT" />
+		<appender-ref ref="RollingFile" />
+	</Logger>
+
+	<!-- LOG everything else at INFO level -->
+	<Root level="INFO">
+		<appender-ref ref="STDOUT" />
+	</Root>
+
+	<Logger name="org.apache.kafka" level="WARN" />
+
+</Configuration>

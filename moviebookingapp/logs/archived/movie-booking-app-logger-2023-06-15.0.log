@@ -1,0 +1,4 @@
+2023-06-15 12:01:22,139 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 39000 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-15 12:01:22,192 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-15 12:01:22,196 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-15 12:01:41,424 [main] INFO  c.m.c.BookingControllerIntegrationTest Started BookingControllerIntegrationTest in 21.361 seconds (process running for 27.444)

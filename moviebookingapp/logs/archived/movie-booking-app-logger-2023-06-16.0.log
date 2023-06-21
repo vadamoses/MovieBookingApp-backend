@@ -1,0 +1,652 @@
+2023-06-16 11:58:49,991 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 24980 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 11:58:50,008 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 11:58:50,010 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 11:58:51,524 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 24980 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 11:58:51,525 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 11:58:51,526 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 11:58:51,733 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 24980 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 11:58:51,735 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 11:58:51,736 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 11:58:51,892 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 24980 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 11:58:51,894 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 11:58:51,895 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 11:58:52,033 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 24980 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 11:58:52,034 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 11:58:52,035 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 11:58:52,201 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 24980 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 11:58:52,202 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 11:58:52,204 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 11:58:52,343 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 24980 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 11:58:52,347 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 11:58:52,348 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 11:58:52,462 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 24980 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 11:58:52,463 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 11:58:52,465 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 11:58:52,608 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 24980 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 11:58:52,609 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 11:58:52,611 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 11:58:52,735 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 24980 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 11:58:52,737 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 11:58:52,737 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:03:22,035 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 28992 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:03:22,037 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:03:22,040 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:03:23,686 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 28992 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:03:23,688 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:03:23,690 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:03:23,899 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 28992 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:03:23,900 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:03:23,901 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:03:24,080 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 28992 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:03:24,081 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:03:24,082 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:03:24,259 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 28992 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:03:24,261 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:03:24,262 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:03:24,453 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 28992 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:03:24,455 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:03:24,457 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:03:24,689 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 28992 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:03:24,690 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:03:24,691 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:03:24,860 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 28992 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:03:24,861 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:03:24,862 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:03:25,069 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 28992 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:03:25,073 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:03:25,074 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:03:25,307 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 28992 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:03:25,308 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:03:25,309 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:20:56,478 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 39360 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:20:56,480 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:20:56,481 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:20:57,452 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 39360 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:20:57,453 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:20:57,454 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:20:57,590 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 39360 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:20:57,591 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:20:57,592 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:20:57,703 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 39360 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:20:57,703 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:20:57,704 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:20:57,808 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 39360 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:20:57,809 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:20:57,810 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:20:57,928 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 39360 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:20:57,929 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:20:57,929 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:20:58,049 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 39360 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:20:58,050 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:20:58,050 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:20:58,141 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 39360 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:20:58,142 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:20:58,142 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:20:58,232 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 39360 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:20:58,232 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:20:58,233 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:20:58,313 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 39360 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:20:58,313 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:20:58,314 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:23:48,041 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 50556 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:23:48,043 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:23:48,045 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:23:49,313 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 50556 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:23:49,314 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:23:49,315 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:23:49,543 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 50556 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:23:49,545 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:23:49,547 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:23:49,810 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 50556 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:23:49,812 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:23:49,813 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:23:50,004 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 50556 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:23:50,005 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:23:50,006 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:23:50,144 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 50556 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:23:50,146 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:23:50,147 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:23:50,294 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 50556 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:23:50,296 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:23:50,297 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:23:50,449 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 50556 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:23:50,450 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:23:50,451 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:23:50,608 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 50556 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:23:50,611 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:23:50,612 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:23:50,760 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 50556 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:23:50,761 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:23:50,762 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:23:50,936 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 50556 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:23:50,939 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:23:50,939 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:23:51,107 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 50556 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:23:51,111 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:23:51,112 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:23:51,318 [main] INFO  c.m.c.BookingControllerIntegrationTest Starting BookingControllerIntegrationTest using Java 18.0.1.1 with PID 50556 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:23:51,320 [main] DEBUG c.m.c.BookingControllerIntegrationTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:23:51,320 [main] INFO  c.m.c.BookingControllerIntegrationTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:51:45,798 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 18028 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:51:45,800 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:51:45,802 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:51:51,680 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 18028 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:51:51,681 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:51:51,682 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:51:53,080 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 18028 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:51:53,081 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:51:53,082 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:51:54,264 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 18028 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:51:54,265 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:51:54,266 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:51:55,334 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 18028 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:51:55,336 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:51:55,336 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:51:56,288 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 18028 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:51:56,288 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:51:56,289 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:51:57,718 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 18028 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:51:57,718 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:51:57,719 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:51:58,982 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 18028 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:51:58,983 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:51:58,984 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:52:00,724 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 18028 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:52:00,725 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:52:00,726 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:52:01,974 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 18028 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:52:01,977 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:52:01,978 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:52:02,887 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 18028 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:52:02,888 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:52:02,889 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:52:44,904 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 48824 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:52:44,906 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:52:44,908 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:52:50,202 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 48824 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:52:50,203 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:52:50,204 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:52:52,544 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 48824 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:52:52,546 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:52:52,547 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:52:54,446 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 48824 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:52:54,448 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:52:54,450 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:52:55,807 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 48824 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:52:55,808 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:52:55,809 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:52:56,958 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 48824 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:52:56,959 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:52:56,960 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:52:58,192 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 48824 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:52:58,193 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:52:58,194 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:52:59,230 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 48824 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:52:59,231 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:52:59,232 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:53:00,303 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 48824 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:53:00,304 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:53:00,305 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:53:01,184 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 48824 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:53:01,185 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:53:01,185 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:53:02,102 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 48824 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:53:02,103 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:53:02,104 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:55:21,573 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 45816 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:55:21,574 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:55:21,576 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:55:22,966 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 45816 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:55:22,968 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:55:22,969 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:55:23,182 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 45816 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:55:23,184 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:55:23,186 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:55:23,376 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 45816 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:55:23,378 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:55:23,379 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:55:23,533 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 45816 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:55:23,534 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:55:23,535 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:55:23,715 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 45816 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:55:23,717 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:55:23,717 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:55:23,887 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 45816 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:55:23,888 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:55:23,889 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:55:24,051 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 45816 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:55:24,054 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:55:24,054 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:55:24,199 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 45816 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:55:24,200 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:55:24,201 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:55:24,354 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 45816 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:55:24,355 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:55:24,356 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:55:24,525 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 45816 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:55:24,526 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:55:24,527 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:55:45,958 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 24932 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:55:45,960 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:55:45,968 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:55:47,516 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 24932 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:55:47,517 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:55:47,519 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:55:47,828 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 24932 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:55:47,829 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:55:47,830 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:55:48,129 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 24932 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:55:48,130 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:55:48,131 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:55:48,513 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 24932 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:55:48,514 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:55:48,515 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:55:48,808 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 24932 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:55:48,810 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:55:48,811 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:55:49,106 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 24932 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:55:49,106 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:55:49,106 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:55:49,363 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 24932 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:55:49,364 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:55:49,365 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:55:49,622 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 24932 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:55:49,624 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:55:49,625 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:55:49,863 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 24932 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:55:49,864 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:55:49,865 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:55:50,096 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 24932 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:55:50,097 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:55:50,098 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:56:09,174 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 47116 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:56:09,176 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:56:09,179 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:56:11,733 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 47116 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:56:11,734 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:56:11,735 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:56:12,221 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 47116 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:56:12,233 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:56:12,238 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:56:12,639 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 47116 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:56:12,641 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:56:12,644 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:56:12,994 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 47116 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:56:12,994 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:56:12,996 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:56:13,257 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 47116 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:56:13,258 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:56:13,259 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:56:13,513 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 47116 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:56:13,514 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:56:13,514 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:56:13,840 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 47116 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:56:13,842 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:56:13,842 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:56:14,084 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 47116 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:56:14,085 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:56:14,085 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:56:14,301 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 47116 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:56:14,302 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:56:14,303 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:56:14,510 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 47116 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:56:14,511 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:56:14,512 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:56:51,997 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 40956 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:56:52,000 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:56:52,003 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:56:53,261 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 40956 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:56:53,262 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:56:53,263 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:56:53,421 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 40956 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:56:53,422 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:56:53,423 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:56:53,598 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 40956 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:56:53,599 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:56:53,600 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:56:53,740 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 40956 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:56:53,742 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:56:53,742 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:56:53,937 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 40956 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:56:53,938 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:56:53,940 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:56:54,191 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 40956 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:56:54,193 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:56:54,196 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:56:54,354 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 40956 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:56:54,355 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:56:54,356 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:56:54,511 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 40956 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:56:54,513 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:56:54,514 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:56:54,678 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 40956 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:56:54,679 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:56:54,680 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 12:56:54,797 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 40956 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 12:56:54,798 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 12:56:54,799 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 13:32:59,511 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 8112 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 13:32:59,513 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 13:32:59,515 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 13:33:00,662 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 8112 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 13:33:00,663 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 13:33:00,682 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 13:33:00,866 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 8112 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 13:33:00,867 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 13:33:00,868 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 13:33:01,081 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 8112 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 13:33:01,082 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 13:33:01,083 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 13:33:01,255 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 8112 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 13:33:01,258 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 13:33:01,259 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 13:33:01,471 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 8112 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 13:33:01,472 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 13:33:01,473 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 13:33:01,624 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 8112 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 13:33:01,626 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 13:33:01,626 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 13:33:01,760 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 8112 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 13:33:01,762 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 13:33:01,764 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 13:33:01,890 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 8112 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 13:33:01,892 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 13:33:01,893 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 13:33:01,994 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 8112 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 13:33:01,995 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 13:33:01,996 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 13:33:02,098 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 8112 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 13:33:02,099 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 13:33:02,099 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:06:19,850 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 26820 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:06:19,853 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:06:19,855 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:06:21,262 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 26820 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:06:21,263 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:06:21,265 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:06:21,462 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 26820 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:06:21,463 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:06:21,464 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:06:21,650 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 26820 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:06:21,651 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:06:21,652 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:06:21,856 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 26820 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:06:21,857 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:06:21,859 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:06:22,049 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 26820 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:06:22,050 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:06:22,051 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:06:22,227 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 26820 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:06:22,231 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:06:22,232 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:06:22,422 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 26820 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:06:22,423 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:06:22,424 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:06:22,548 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 26820 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:06:22,549 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:06:22,550 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:06:22,687 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 26820 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:06:22,688 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:06:22,690 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:07:16,640 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 4452 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:07:16,642 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:07:16,645 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:07:18,607 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 4452 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:07:18,608 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:07:18,609 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:07:18,835 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 4452 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:07:18,836 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:07:18,837 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:07:19,065 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 4452 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:07:19,066 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:07:19,067 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:07:19,225 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 4452 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:07:19,226 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:07:19,226 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:07:20,480 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 4452 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:07:20,481 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:07:20,481 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:07:20,659 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 4452 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:07:20,660 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:07:20,668 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:07:20,883 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 4452 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:07:20,884 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:07:20,884 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:07:21,042 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 4452 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:07:21,043 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:07:21,044 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:07:21,215 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 4452 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:07:21,216 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:07:21,218 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:09:01,514 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 20312 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:09:01,517 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:09:01,524 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:09:03,052 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 20312 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:09:03,053 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:09:03,054 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:09:03,253 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 20312 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:09:03,255 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:09:03,255 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:09:03,468 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 20312 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:09:03,469 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:09:03,469 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:09:03,608 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 20312 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:09:03,611 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:09:03,613 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:09:03,755 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 20312 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:09:03,755 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:09:03,756 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:09:03,908 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 20312 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:09:03,910 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:09:03,911 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:09:04,100 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 20312 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:09:04,102 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:09:04,103 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:09:04,301 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 20312 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:09:04,302 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:09:04,302 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:09:04,471 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 20312 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:09:04,473 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:09:04,474 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:09:38,989 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 27128 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:09:38,992 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:09:38,994 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:09:40,907 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 27128 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:09:40,916 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:09:40,917 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:09:41,123 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 27128 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:09:41,126 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:09:41,129 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:09:41,356 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 27128 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:09:41,366 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:09:41,367 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:09:41,550 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 27128 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:09:41,553 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:09:41,554 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:09:41,811 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 27128 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:09:41,812 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:09:41,814 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:09:42,049 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 27128 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:09:42,050 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:09:42,051 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:09:42,212 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 27128 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:09:42,214 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:09:42,215 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:09:42,371 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 27128 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:09:42,372 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:09:42,380 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:09:42,570 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 27128 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:09:42,571 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:09:42,572 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:10:36,054 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 19428 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:10:36,056 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:10:36,059 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:10:38,295 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 19428 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:10:38,301 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:10:38,302 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:10:38,673 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 19428 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:10:38,677 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:10:38,681 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:10:38,991 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 19428 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:10:38,992 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:10:38,993 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:10:39,326 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 19428 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:10:39,327 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:10:39,328 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:10:39,596 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 19428 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:10:39,597 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:10:39,598 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:10:39,847 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 19428 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:10:39,850 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:10:39,851 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:10:40,079 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 19428 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:10:40,080 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:10:40,081 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:10:40,361 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 19428 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:10:40,362 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:10:40,363 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:10:40,614 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 19428 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:10:40,615 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:10:40,616 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:10:55,128 [restartedMain] INFO  c.m.MoviebookingApplication Starting MoviebookingApplication using Java 18.0.1.1 with PID 46332 (C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp\target\classes started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:10:55,158 [restartedMain] DEBUG c.m.MoviebookingApplication Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:10:55,161 [restartedMain] INFO  c.m.MoviebookingApplication No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:11:07,647 [restartedMain] DEBUG c.m.tools.AuthTokenFilter Filter 'authTokenFilter' configured for use
+2023-06-16 14:11:16,120 [restartedMain] INFO  c.m.MoviebookingApplication Started MoviebookingApplication in 23.097 seconds (process running for 27.561)
+2023-06-16 14:12:49,208 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 49376 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:12:49,210 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:12:49,211 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:12:50,950 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 49376 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:12:50,951 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:12:50,952 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:12:51,220 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 49376 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:12:51,220 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:12:51,222 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:12:51,461 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 49376 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:12:51,463 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:12:51,464 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:12:51,704 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 49376 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:12:51,705 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:12:51,706 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:12:51,909 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 49376 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:12:51,909 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:12:51,911 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:12:52,096 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 49376 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:12:52,097 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:12:52,098 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:12:52,287 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 49376 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:12:52,288 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:12:52,288 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:12:52,485 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 49376 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:12:52,486 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:12:52,486 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:12:52,671 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 49376 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:12:52,676 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:12:52,677 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:13:21,131 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 18008 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:13:21,133 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:13:21,138 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:13:22,545 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 18008 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:13:22,546 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:13:22,547 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:13:22,784 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 18008 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:13:22,786 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:13:22,787 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:13:23,114 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 18008 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:13:23,115 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:13:23,116 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:13:23,318 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 18008 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:13:23,319 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:13:23,321 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:13:23,519 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 18008 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:13:23,524 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:13:23,525 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:13:23,718 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 18008 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:13:23,722 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:13:23,727 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:13:23,944 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 18008 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:13:23,945 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:13:23,956 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:13:24,136 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 18008 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:13:24,137 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:13:24,139 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:13:24,356 [main] INFO  c.m.interfaces.MovieServiceTest Starting MovieServiceTest using Java 18.0.1.1 with PID 18008 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:13:24,358 [main] DEBUG c.m.interfaces.MovieServiceTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:13:24,359 [main] INFO  c.m.interfaces.MovieServiceTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:40:06,345 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 22472 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:40:06,347 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:40:06,349 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:40:07,367 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 22472 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:40:07,368 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:40:07,368 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:40:07,532 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 22472 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:40:07,533 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:40:07,535 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:40:07,670 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 22472 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:40:07,671 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:40:07,672 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:40:07,780 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 22472 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:40:07,781 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:40:07,782 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:40:07,890 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 22472 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:40:07,891 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:40:07,893 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:40:08,003 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 22472 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:40:08,004 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:40:08,005 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:40:08,102 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 22472 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:40:08,103 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:40:08,104 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:40:08,213 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 22472 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:40:08,214 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:40:08,214 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:40:08,330 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 22472 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:40:08,331 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:40:08,331 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:40:08,464 [main] INFO  c.m.contollers.BookingControllerTest Starting BookingControllerTest using Java 18.0.1.1 with PID 22472 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:40:08,466 [main] DEBUG c.m.contollers.BookingControllerTest Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:40:08,467 [main] INFO  c.m.contollers.BookingControllerTest No active profile set, falling back to 1 default profile: "default"
+2023-06-16 14:59:21,471 [main] INFO  c.m.c.BookingControllerTestIT Starting BookingControllerTestIT using Java 18.0.1.1 with PID 40808 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 14:59:21,474 [main] DEBUG c.m.c.BookingControllerTestIT Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 14:59:21,476 [main] INFO  c.m.c.BookingControllerTestIT No active profile set, falling back to 1 default profile: "default"
+2023-06-16 15:01:11,084 [main] INFO  c.m.c.BookingControllerTestIT Starting BookingControllerTestIT using Java 18.0.1.1 with PID 50528 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 15:01:11,086 [main] DEBUG c.m.c.BookingControllerTestIT Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 15:01:11,088 [main] INFO  c.m.c.BookingControllerTestIT No active profile set, falling back to 1 default profile: "default"
+2023-06-16 15:01:36,381 [restartedMain] INFO  c.m.MoviebookingApplication Starting MoviebookingApplication using Java 18.0.1.1 with PID 27284 (C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp\target\classes started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 15:01:36,383 [restartedMain] DEBUG c.m.MoviebookingApplication Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 15:01:36,384 [restartedMain] INFO  c.m.MoviebookingApplication No active profile set, falling back to 1 default profile: "default"
+2023-06-16 15:01:42,456 [restartedMain] DEBUG c.m.tools.AuthTokenFilter Filter 'authTokenFilter' configured for use
+2023-06-16 15:01:46,192 [restartedMain] INFO  c.m.MoviebookingApplication Started MoviebookingApplication in 10.764 seconds (process running for 12.869)
+2023-06-16 15:02:05,864 [main] INFO  c.m.c.BookingControllerTestIT Starting BookingControllerTestIT using Java 18.0.1.1 with PID 27812 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 15:02:05,866 [main] DEBUG c.m.c.BookingControllerTestIT Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 15:02:05,870 [main] INFO  c.m.c.BookingControllerTestIT No active profile set, falling back to 1 default profile: "default"
+2023-06-16 15:03:05,981 [main] INFO  c.m.c.BookingControllerTestIT Starting BookingControllerTestIT using Java 18.0.1.1 with PID 20840 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 15:03:05,982 [main] DEBUG c.m.c.BookingControllerTestIT Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 15:03:05,985 [main] INFO  c.m.c.BookingControllerTestIT No active profile set, falling back to 1 default profile: "default"
+2023-06-16 15:03:54,246 [main] INFO  c.m.c.BookingControllerTestIT Starting BookingControllerTestIT using Java 18.0.1.1 with PID 48928 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 15:03:54,248 [main] DEBUG c.m.c.BookingControllerTestIT Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 15:03:54,252 [main] INFO  c.m.c.BookingControllerTestIT No active profile set, falling back to 1 default profile: "default"
+2023-06-16 15:04:34,778 [main] INFO  c.m.c.BookingControllerTestIT Starting BookingControllerTestIT using Java 18.0.1.1 with PID 8792 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 15:04:34,780 [main] DEBUG c.m.c.BookingControllerTestIT Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 15:04:34,782 [main] INFO  c.m.c.BookingControllerTestIT No active profile set, falling back to 1 default profile: "default"
+2023-06-16 15:05:50,329 [main] INFO  c.m.c.BookingControllerTestIT Starting BookingControllerTestIT using Java 18.0.1.1 with PID 4164 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 15:05:50,331 [main] DEBUG c.m.c.BookingControllerTestIT Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 15:05:50,333 [main] INFO  c.m.c.BookingControllerTestIT No active profile set, falling back to 1 default profile: "default"
+2023-06-16 15:15:44,166 [main] INFO  c.m.c.BookingControllerTestIT Starting BookingControllerTestIT using Java 18.0.1.1 with PID 24144 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 15:15:44,169 [main] DEBUG c.m.c.BookingControllerTestIT Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 15:15:44,171 [main] INFO  c.m.c.BookingControllerTestIT No active profile set, falling back to 1 default profile: "default"
+2023-06-16 15:15:46,321 [main] INFO  c.m.c.BookingControllerTestIT Starting BookingControllerTestIT using Java 18.0.1.1 with PID 24144 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 15:15:46,323 [main] DEBUG c.m.c.BookingControllerTestIT Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 15:15:46,324 [main] INFO  c.m.c.BookingControllerTestIT No active profile set, falling back to 1 default profile: "default"
+2023-06-16 15:16:21,102 [main] INFO  c.m.c.BookingControllerTestIT Starting BookingControllerTestIT using Java 18.0.1.1 with PID 11244 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 15:16:21,104 [main] DEBUG c.m.c.BookingControllerTestIT Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 15:16:21,106 [main] INFO  c.m.c.BookingControllerTestIT No active profile set, falling back to 1 default profile: "default"
+2023-06-16 15:16:22,829 [main] INFO  c.m.c.BookingControllerTestIT Starting BookingControllerTestIT using Java 18.0.1.1 with PID 11244 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 15:16:22,831 [main] DEBUG c.m.c.BookingControllerTestIT Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 15:16:22,831 [main] INFO  c.m.c.BookingControllerTestIT No active profile set, falling back to 1 default profile: "default"
+2023-06-16 15:20:16,941 [main] INFO  c.m.c.BookingControllerTestIT Starting BookingControllerTestIT using Java 18.0.1.1 with PID 7504 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 15:20:16,943 [main] DEBUG c.m.c.BookingControllerTestIT Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 15:20:16,945 [main] INFO  c.m.c.BookingControllerTestIT No active profile set, falling back to 1 default profile: "default"
+2023-06-16 15:20:19,314 [main] INFO  c.m.c.BookingControllerTestIT Starting BookingControllerTestIT using Java 18.0.1.1 with PID 7504 (started by 2050610 in C:\Users\2050610\OneDrive - Cognizant\Desktop\MovieBooking\moviebookingapp)
+2023-06-16 15:20:19,315 [main] DEBUG c.m.c.BookingControllerTestIT Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 15:20:19,317 [main] INFO  c.m.c.BookingControllerTestIT No active profile set, falling back to 1 default profile: "default"

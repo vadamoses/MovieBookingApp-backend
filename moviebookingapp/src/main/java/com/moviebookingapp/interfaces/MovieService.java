@@ -24,6 +24,8 @@ public interface MovieService {
 
 	long getBookedTicketsCount(String movieName);
 
-	Ticket updateTicketStatus(String movieName, Ticket ticket);
+	String updateTicketStatus(String movieName, Ticket ticket);
+
+	void deleteAllTickets();
 
 }

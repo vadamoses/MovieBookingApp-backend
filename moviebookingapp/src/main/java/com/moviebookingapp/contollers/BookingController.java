@@ -1,6 +1,6 @@
 package com.moviebookingapp.contollers;
 
-import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
@@ -40,6 +40,7 @@ import com.moviebookingapp.contollers.dto.RegisterRequest;
 import com.moviebookingapp.contollers.dto.TicketDTO;
 import com.moviebookingapp.interfaces.impl.MovieServiceImpl;
 import com.moviebookingapp.interfaces.impl.UserServiceImpl;
+import com.moviebookingapp.kafka.producer.MessageProducer;
 import com.moviebookingapp.models.Movie;
 import com.moviebookingapp.models.Role;
 import com.moviebookingapp.models.Ticket;
@@ -79,6 +80,9 @@ public class BookingController {
 	@Autowired
 	private JwtUtils jwtTokenUtil;
 
+	@Autowired
+	private MessageProducer messageProducer;
+
 	private MovieServiceImpl movieService;
 
 	/**
@@ -89,21 +93,20 @@ public class BookingController {
 		this.movieService = movieService;
 	}
 
-	List<Movie> movies = new ArrayList<>();
+	List<Movie> movies;
 
-	List<Ticket> tickets = new ArrayList<>();
+	List<Ticket> tickets;
 
 	@Operation(description = "Used to add dummy data to the database.")
 	@GetMapping("/init")
-	public void initializeValues() {
+	public ResponseEntity<?> initializeValues() {
 
-		Movie movie1 = new Movie("Independence Day", 43, "Royal Albert");
-		Movie movie2 = new Movie("Jumanji", 91, "Southside");
-		Movie movie3 = new Movie("Jaws", 103, "Reduxx");
-
-		Ticket ticket1 = new Ticket(movie1.getMovieName(), movie1.getTheaterName(), 2, 69, "BOOK ASAP");
-		Ticket ticket2 = new Ticket(movie2.getMovieName(), movie2.getTheaterName(), 5, 109, "BOOK ASAP");
-		Ticket ticket3 = new Ticket(movie3.getMovieName(), movie3.getTheaterName(), 7, 33, "BOOK ASAP");
+		movies = Arrays.asList(new Movie("Independence Day", 43, "Royal Albert"), new Movie("Jumanji", 91, "Southside"),
+				new Movie("Jaws", 103, "Reduxx"));
+		tickets = Arrays.asList(
+				new Ticket(movies.get(0).getMovieName(), movies.get(0).getTheaterName(), 2, 69, "BOOK ASAP"),
+				new Ticket(movies.get(1).getMovieName(), movies.get(1).getTheaterName(), 5, 109, "BOOK ASAP"),
+				new Ticket(movies.get(2).getMovieName(), movies.get(2).getTheaterName(), 7, 33, "BOOK ASAP"));
 
 		User u1 = new User("vas", "asli", "aslivas", "a@li.com", "vas", 1234567890L);
 		User u2 = new User("man", "saw", "sawman", "saw@li.com", "man", 7934937891L);
@@ -119,13 +122,13 @@ public class BookingController {
 		u1.setRoles(roles);
 		u2.setRoles(roles);
 
-		movies.add(movie1);
-		movies.add(movie2);
-		movies.add(movie3);
+		movies.add(movies.get(0));
+		movies.add(movies.get(1));
+		movies.add(movies.get(2));
 
-		tickets.add(ticket1);
-		tickets.add(ticket2);
-		tickets.add(ticket3);
+		tickets.add(tickets.get(0));
+		tickets.add(tickets.get(1));
+		tickets.add(tickets.get(2));
 
 		roleRepository.save(r1);
 		roleRepository.save(r2);
@@ -136,6 +139,9 @@ public class BookingController {
 
 		movieService.saveMovies(movies);
 		movieService.saveTickets(tickets);
+		
+		
+		return ResponseEntity.ok(new MessageResponse("Dummy data added successfully!"));
 
 	}
 
@@ -203,7 +209,7 @@ public class BookingController {
 
 		user.setRoles(roles);
 		userService.saveUser(user);
-		LOGGER.error(MARKER, "New user registered successfully!");
+		LOGGER.info(MARKER, "New user registered successfully!");
 		return ResponseEntity.ok(new MessageResponse("User registered successfully!"));
 	}
 
@@ -239,19 +245,20 @@ public class BookingController {
 			LOGGER.error(MARKER, "Invalid refresh token!");
 			return ResponseEntity.badRequest().body(new MessageResponse("Error: Invalid refresh token!"));
 		}
-		
+
 		user.setPassword(encoder.encode(newPassword));
-		
+
 		userService.saveUser(user);
 
 		LoginRequest loginRequest = new LoginRequest(user.getUsername(), newPassword);
 		this.loginUser(loginRequest);
 
 		LOGGER.error(MARKER, "User logged in with refresh token");
-		return this.loginUser(loginRequest);
+		this.loginUser(loginRequest);
+		return ResponseEntity.ok(new MessageResponse("User logged in with refresh token"));
 	}
 
-	private String getRefreshCookieValue(HttpServletRequest request) {
+	public String getRefreshCookieValue(HttpServletRequest request) {
 		Cookie[] cookies = request.getCookies();
 		if (cookies != null) {
 			for (Cookie cookie : cookies) {
@@ -291,6 +298,7 @@ public class BookingController {
 		LOGGER.info(MARKER, "Start - findCountOfTicketsForMovie");
 		Movie movie = this.movieService.findMovie(name);
 		long ticketsForMovie = this.movieService.getBookedTicketsCount(movie.getMovieName());
+		messageProducer.sendMessage("number_of_tickets_booked_for_movie_topic", String.valueOf(ticketsForMovie));
 		LOGGER.info(MARKER, "End - findCountOfTicketsForMovie");
 		return ResponseEntity.ok().body(ticketsForMovie);
 	}
@@ -335,9 +343,10 @@ public class BookingController {
 		LOGGER.info(MARKER, "Start - updateTicketStatus");
 		Ticket ticket = ticketDto.getTicket();
 		LOGGER.info(MARKER, "find ticket by movie name.");
-		Ticket updatedTicket = this.movieService.updateTicketStatus(movieName, ticket);
+		String updatedTicketStatus = this.movieService.updateTicketStatus(movieName, ticket);
+		messageProducer.sendMessage("ticket_status_for_movie_topic", updatedTicketStatus);
 		LOGGER.info(MARKER, "End - updateTicketStatus");
-		return ResponseEntity.ok().body(updatedTicket.getTicketStatus());
+		return ResponseEntity.ok().body(updatedTicketStatus);
 	}
 
 	@Operation(description = "Used to delete a movie with the given movie title and id.")

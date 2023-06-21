@@ -1,0 +1,210 @@
+version: '3.8'
+services:
+  moviebookingdb:
+    image: mongo
+    container_name: moviebookingdb
+    ports:
+    - 0.0.0.0:27017:27017
+    networks:
+    - MOVIEBOOKING
+    volumes:
+    - type: volume
+      source: MONGO_DATA
+      target: /data/db
+    - type: volume
+      source: MONGO_CONFIG
+      target: /data/configdb
+    environment:
+    - MONGO_INITDB_ROOT_USERNAME=${MONGODB_ROOT_USER}
+    - MONGO_INITDB_ROOT_PASSWORD=${MONGODB_ROOT_PASSWORD}
+  mongo-express:
+    container_name: mongo-express
+    image: mongo-express
+    restart: always
+    networks:
+    - MOVIEBOOKING
+    links:
+    - moviebookingdb:mongo
+    ports:
+    - 0.0.0.0:8081:8081
+    environment:
+      ME_CONFIG_OPTIONS_EDITORTHEME: ambiance
+      ME_CONFIG_MONGODB_ENABLEADMIN: true
+      ME_CONFIG_MONGODB_AUTHDATABASE: ${MONGODB_AUTHENTICATION_DB}
+      ME_CONFIG_BASICAUTH_USERNAME: ${MONGOEXPRESS_LOGIN}
+      ME_CONFIG_BASICAUTH_PASSWORD: ${MONGOEXPRESS_PASSWORD}
+      ME_CONFIG_MONGODB_ADMINUSERNAME: ${MONGODB_ROOT_USER}
+      ME_CONFIG_MONGODB_ADMINPASSWORD: ${MONGODB_ROOT_PASSWORD}
+      ME_CONFIG_MONGODB_SERVER: moviebookingdb
+    depends_on:
+    - moviebookingdb
+  elasticsearch:
+    image: docker.elastic.co/elasticsearch/elasticsearch:8.8.0
+    container_name: elasticsearch
+    environment:
+    - ES_JAVA_OPTS=-Xms512m -Xmx512m
+    - discovery.type=single-node
+    - xpack.security.enabled=false
+    - xpack.security.enrollment.enabled=false
+    - xpack.security.http.ssl.enabled=false
+    - xpack.security.transport.ssl.enabled=false
+    restart: always
+    ports:
+    - 9200:9200
+    - 9300:9300
+    volumes:
+    - ELASTIC_DATA:/usr/share/elasticsearch/data
+    networks:
+    - elastic
+  kibana:
+    image: docker.elastic.co/kibana/kibana:8.8.0
+    container_name: kibana
+    environment:
+    - ELASTICSEARCH_HOSTS=http://elasticsearch:9200
+    restart: always
+    ports:
+    - 5601:5601
+    networks:
+    - elastic
+    depends_on:
+    - elasticsearch
+  zookeeper:
+    image: confluentinc/cp-zookeeper:latest
+    container_name: zookeeper
+    environment:
+    - ZOOKEEPER_CLIENT_PORT= 2181
+    - ZOOKEEPER_TICK_TIME= 2000
+    ports:
+    - 22181:2181
+    networks:
+    - elastic
+  kafka:
+    image: confluentinc/cp-kafka:latest
+    container_name: kafka
+    depends_on:
+    - zookeeper
+    links:
+    - zookeeper
+    ports:
+    - 9093:9093
+    networks:
+    - elastic
+    environment:
+    - KAFKA_BROKER_ID= 1
+    - KAFKA_ZOOKEEPER_CONNECT= zookeeper:2181
+    - KAFKA_LISTENER_SECURITY_PROTOCOL_MAP= PLAINTEXT:PLAINTEXT,PLAINTEXT_HOST:PLAINTEXT
+    - KAFKA_INTER_BROKER_LISTENER_NAME= PLAINTEXT
+    - KAFKA_LISTENERS = PLAINTEXT://0.0.0.0:9093
+    - KAFKA_ADVERTISED_LISTENERS= PLAINTEXT://kafka:29093,PLAINTEXT_HOST://localhost:9093
+    - KAFKA_AUTO_CREATE_TOPICS_ENABLE= true
+    - KAFKA_CREATE_TOPICS= moviebookingapplogs:1:1
+    - KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR= 1
+    - KAFKA_MAX_REQUEST_SIZE=3097152
+    - KAFKA_TRANSACTION_STATE_LOG_MIN_ISR= 1
+    - KAFKA_TRANSACTION_STATE_LOG_REPLICATION_FACTOR= 1
+  logstash:
+    image: docker.elastic.co/logstash/logstash:8.8.0
+    container_name: logstash
+    ulimits:
+      memlock:
+        soft: -1
+        hard: -1
+    volumes:
+    - ./logstash.conf:/usr/share/logstash/pipeline/logstash.conf
+    command: logstash -f /usr/share/logstash/pipeline/logstash.conf
+    restart: always
+    ports:
+    - 5044:5044
+    links:
+    - kafka
+    - elasticsearch
+    depends_on:
+    - elasticsearch
+    stdin_open: true
+    tty: true
+    network_mode: bridge
+    logging:
+      driver: json-file
+      options:
+        max-size: 10m
+        max-file: '50'
+    environment:
+    - LS_JAVA_OPTS= -Xms512m -Xmx512m
+    - NETWORK_HOST=0.0.0.0
+    - ELASTICSEARCH_HOSTS=http://elasticsearch:9200
+    - XPACK_MONITORING_ENABLED=false
+    networks:
+    - elastic
+  filebeat:
+    image: docker.elastic.co/beats/filebeat:8.8.0
+    container_name: filebeat
+    volumes:
+    - /var/run/docker.sock:/host_docker/docker.sock
+    - /var/lib/docker:/host_docker/var/lib/docker
+    - ./filebeat.yml:/usr/share/filebeat/filebeat.yml
+    - ./logs:/usr/share/filebeat/logs
+    command: filebeat -e -strict.perms=false
+    restart: always
+    links:
+    - logstash
+    depends_on:
+    - logstash
+    networks:
+    - elastic
+    ulimits:
+      memlock:
+        soft: -1
+        hard: -1
+    stdin_open: true
+    tty: true
+    network_mode: bridge
+    deploy:
+      mode: global
+    logging:
+      driver: json-file
+      options:
+        max-size: 10m
+        max-file: '50'
+  prometheus:
+    image: prom/prometheus:latest
+    volumes:
+    - ./prometheus.yml:/etc/prometheus/prometheus.yml
+    - prometheus_data:/prometheus
+    command:
+    - --config.file=/etc/prometheus/prometheus.yml
+    - --web.console.libraries=/etc/prometheus/console_libraries
+    - --web.console.templates=/etc/prometheus/consoles
+    ports:
+    - 9090:9090
+    restart: always
+    networks:
+    - elastic
+  grafana:
+    image: grafana/grafana:latest
+    volumes:
+    - ./grafana:/var/lib/grafana
+    ports:
+    - 3000:3000
+    depends_on:
+    - prometheus
+    networks:
+    - elastic
+networks:
+  MOVIEBOOKING:
+    name: MOVIEBOOKING
+  elastic:
+    name: elastic
+    driver: bridge
+volumes:
+  MONGO_DATA:
+    name: MONGO_DATA
+  MONGO_CONFIG:
+    name: MONGO_CONFIG
+  ELASTIC_DATA:
+    name: ELASTIC_DATA
+    driver: local
+  LOGSTASH_DATA:
+    name: LOGSTASH_DATA
+    driver: local
+  prometheus_data: null
+  grafana-data: null

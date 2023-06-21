@@ -47,8 +47,7 @@ public class TicketDTO implements Serializable {
 	}
 	
 	public Ticket getTicket() {
-		Ticket ticket = new Ticket(this.movieName, this.theaterName, this.numberOfTickets,this.seatNumber, this.ticketStatus);
-		return ticket;
+		return new Ticket(this.movieName, this.theaterName, this.numberOfTickets,this.seatNumber, this.ticketStatus);
 	}
 
 }

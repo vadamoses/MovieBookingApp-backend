@@ -69,18 +69,19 @@ public class SecurityConfiguration {
 
 		http.authorizeHttpRequests(authorizeHttpRequests -> authorizeHttpRequests
 		
-				.requestMatchers("/init").permitAll()
 				.requestMatchers("/v3/**").permitAll()
 				.requestMatchers("/swagger-ui/**").permitAll()
 				.requestMatchers("/actuator/**").permitAll()
                 .requestMatchers("/webjars/**").permitAll()
                 .requestMatchers("/swagger-resources/**").permitAll()
                 .requestMatchers("/h2-console/**").permitAll()
+                .requestMatchers("/api/v1.0/moviebooking/init").permitAll()
+                .requestMatchers("/api/v1.0/moviebooking/produce").permitAll()
                 .requestMatchers("/api/v1.0/moviebooking/{username}/forgot").permitAll()
                 .requestMatchers("/api/v1.0/moviebooking/login").permitAll()
                 .requestMatchers("/api/v1.0/moviebooking/register").permitAll()
                 .requestMatchers("/resources/**").permitAll()
-                .anyRequest().authenticated())
+                .anyRequest().authenticated()) 
 		
 				.exceptionHandling(ex -> ex.authenticationEntryPoint(unauthorizedHandler))
 				.addFilterBefore(authTokenFilter(), UsernamePasswordAuthenticationFilter.class)
