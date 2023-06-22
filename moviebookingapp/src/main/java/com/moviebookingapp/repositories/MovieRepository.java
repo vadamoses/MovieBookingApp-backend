@@ -7,5 +7,5 @@ import com.moviebookingapp.models.Movie;
 public interface MovieRepository extends MongoRepository<Movie, Long> {
 	Movie findByMovieName(String movieName);
 
-	Movie findByMovieNameAndId(String movieName, long id);
+	Movie findByMovieNameAndId(String movieName, String id);
 }

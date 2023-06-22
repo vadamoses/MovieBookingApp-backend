@@ -99,7 +99,7 @@ public class BookingController {
 
 	@Operation(description = "Used to add dummy data to the database.")
 	@GetMapping("/init")
-	public ResponseEntity<?> initializeValues() {
+	public void initializeValues() {
 
 		movies = Arrays.asList(new Movie("Independence Day", 43, "Royal Albert"), new Movie("Jumanji", 91, "Southside"),
 				new Movie("Jaws", 103, "Reduxx"));
@@ -122,14 +122,6 @@ public class BookingController {
 		u1.setRoles(roles);
 		u2.setRoles(roles);
 
-		movies.add(movies.get(0));
-		movies.add(movies.get(1));
-		movies.add(movies.get(2));
-
-		tickets.add(tickets.get(0));
-		tickets.add(tickets.get(1));
-		tickets.add(tickets.get(2));
-
 		roleRepository.save(r1);
 		roleRepository.save(r2);
 
@@ -141,8 +133,6 @@ public class BookingController {
 		movieService.saveTickets(tickets);
 		
 		
-		return ResponseEntity.ok(new MessageResponse("Dummy data added successfully!"));
-
 	}
 
 	@Operation(description = "Used to sign in a user.")
@@ -353,7 +343,7 @@ public class BookingController {
 	@PreAuthorize("hasRole('ROLE_ADMIN')")
 	@DeleteMapping("/{movieName}/delete/{id}")
 	public ResponseEntity<?> deleteMovie(@PathVariable(name = "movieName") String movieName,
-			@PathVariable(name = "id") Long id) {
+			@PathVariable(name = "id") String id) {
 		LOGGER.info(MARKER, "Start - deleteMovie");
 		this.movieService.deleteMovie(movieName, id);
 		LOGGER.info(MARKER, "End - deleteMovie");

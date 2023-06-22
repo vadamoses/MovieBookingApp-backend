@@ -8,14 +8,10 @@ import static org.mockito.ArgumentMatchers.anyString;
 import static org.mockito.Mockito.times;
 import static org.mockito.Mockito.verify;
 import static org.mockito.Mockito.when;
-import static org.springframework.security.test.web.servlet.request.SecurityMockMvcRequestPostProcessors.csrf;
-import static org.springframework.security.test.web.servlet.request.SecurityMockMvcRequestPostProcessors.user;
-import static org.springframework.security.test.web.servlet.setup.SecurityMockMvcConfigurers.springSecurity;
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.delete;
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.get;
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.post;
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.put;
-import static org.springframework.test.web.servlet.result.MockMvcResultHandlers.print;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.content;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.header;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.jsonPath;
@@ -28,7 +24,6 @@ import java.util.Optional;
 import java.util.Set;
 
 import org.junit.jupiter.api.AfterEach;
-import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
@@ -61,8 +56,6 @@ import org.springframework.test.context.junit.jupiter.SpringExtension;
 import org.springframework.test.web.servlet.MockMvc;
 import org.springframework.test.web.servlet.MvcResult;
 import org.springframework.test.web.servlet.request.MockMvcRequestBuilders;
-import org.springframework.test.web.servlet.setup.MockMvcBuilders;
-import org.springframework.web.context.WebApplicationContext;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.moviebookingapp.contollers.dto.LoginRequest;
@@ -129,9 +122,6 @@ class BookingControllerIntegrationTest {
 
 	User user;
 
-	@Autowired
-	private WebApplicationContext webApplicationContext;
-
 	@AfterEach
 	public void cleanup() {
 		movies = null;
@@ -141,7 +131,6 @@ class BookingControllerIntegrationTest {
 	@BeforeEach
 	public void setup() {
 		MockitoAnnotations.openMocks(this);
-		mockMvc = MockMvcBuilders.webAppContextSetup(webApplicationContext).apply(springSecurity()).build();
 
 		movies = Arrays.asList(new Movie("Independence Day", 43, "Royal Albert"), new Movie("Jumanji", 91, "Southside"),
 				new Movie("Jaws", 103, "Reduxx"));
@@ -179,25 +168,6 @@ class BookingControllerIntegrationTest {
 		loginRequest.setUsername("testuser");
 		loginRequest.setPassword("password");
 	}
-	
-    @Test
-    void adminCanCreateOrganization() throws Exception {
-
-    	String movieName = "Jumanji";
-		int numberOfTickets = 5;
-		int seatNumber = 49;
-
-		mockMvc.perform(post("/api/v1.0/moviebooking/{movieName}/add", movieName)
-				.param("numberOfTickets", String.valueOf(numberOfTickets))
-				.param("seatNumber", String.valueOf(seatNumber))
-                .with(user("admin1").roles("ADMIN"))
-                .with(csrf())
-                .contentType(MediaType.APPLICATION_JSON)
-                .accept(MediaType.APPLICATION_JSON))
-                .andDo(print())
-                .andExpect(status().isOk());
-
-    }
 
 	@Test
 	@DisplayName("Test register new user with credentials")
@@ -354,38 +324,23 @@ class BookingControllerIntegrationTest {
 	@DisplayName("retrieve the number of tickets booked for a movie with the given movie title test")
 	@WithMockUser(username = "admin", roles = { "ADMIN" })
 	void testFindCountOfTicketsForMovie() throws Exception {
-		Movie movie = new Movie("Jumanji", 91, "Southside");
-		long numberOfTicketsForMovie = 5;
-
-		/*
-		 * mockMvc.perform( get("/api/v1.0/moviebooking/search/{movieName}",
-		 * movieName).contentType(MediaType.APPLICATION_JSON)).andReturn();
-		 */
-		/*
-		 * .andExpect(status().isOk()).andExpect(content().contentType(MediaType.
-		 * APPLICATION_JSON)) .andExpect(jsonPath("$").isNumber());
-		 */
-
-		when(movieService.findMovie(anyString())).thenReturn(movie);
-
-		when(movieService.getBookedTicketsCount(anyString())).thenReturn(numberOfTicketsForMovie);
-
-		ResponseEntity<?> result = bookingController.findCountOfTicketsForMovie(movie.getMovieName());
-
-		assertNotNull(result.getBody());
-		assertEquals(HttpStatus.OK, result.getStatusCode());
+		String movieName = "Jumanji";
+		mockMvc.perform(
+				get("/api/v1.0/moviebooking/search/{movieName}", movieName).contentType(MediaType.APPLICATION_JSON))
+				.andExpect(status().isOk()).andExpect(content().contentType(MediaType.APPLICATION_JSON))
+				.andExpect(jsonPath("$").isNumber());
 	}
 
 	@Test
 	@DisplayName("retrieve a movie with the given title test")
-	@WithMockUser(username = "admin", password = "password", roles = { "USER" })
+	@WithMockUser(username = "admin", roles = { "USER" })
 	void testFindMovie() throws Exception {
-		Movie movie = new Movie("Jumanji", 91, "Southside");
+		String movieName = "Jumanji";
 
-		ResponseEntity<?> result = bookingController.findMovie(movie.getMovieName());
-
-		assertNotNull(result.getBody());
-		assertEquals(HttpStatus.OK, result.getStatusCode());
+		mockMvc.perform(get("/api/v1.0/moviebooking/movies/search/{movieName}", movieName)
+				.contentType(MediaType.APPLICATION_JSON)).andExpect(status().isOk())
+				.andExpect(content().contentType(MediaType.APPLICATION_JSON))
+				.andExpect(jsonPath("$.movieName").value(movieName));
 	}
 
 	@Test
@@ -396,11 +351,9 @@ class BookingControllerIntegrationTest {
 		int numberOfTickets = 5;
 		int seatNumber = 49;
 
-		when(movieService.bookTicket(any(Ticket.class))).thenReturn(tickets.get(1));
-
 		mockMvc.perform(post("/api/v1.0/moviebooking/{movieName}/add", movieName)
 				.param("numberOfTickets", String.valueOf(numberOfTickets))
-				.param("seatNumber", String.valueOf(seatNumber)).accept(MediaType.APPLICATION_JSON))
+				.param("seatNumber", String.valueOf(seatNumber)).contentType(MediaType.APPLICATION_JSON))
 				.andExpect(status().isOk()).andExpect(content().contentType(MediaType.APPLICATION_JSON))
 				.andExpect(jsonPath("$.movieName").value(movieName))
 				.andExpect(jsonPath("$.numberOfTickets").value(numberOfTickets))

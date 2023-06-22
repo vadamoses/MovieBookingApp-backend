@@ -53,6 +53,9 @@ The service will perform the tasks of ceating a new customer profile based on th
 *	username: moviebooking
 *	password: moviebooking
 
+#Reset password if previous details fail
+*	docker exec -it moviebookingapp-grafana-1 grafana-cli admin reset-admin-password admin
+
 ### Unique identifier (UID) for Movie booking Application Dashboard
 *	X034JGT7Gz
 

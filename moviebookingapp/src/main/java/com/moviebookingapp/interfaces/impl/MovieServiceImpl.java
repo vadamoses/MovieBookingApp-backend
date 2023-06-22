@@ -80,7 +80,7 @@ public class MovieServiceImpl implements MovieService {
 
 	@Operation(description = "Used to delete a particular movie from the database.")
 	@Override
-	public void deleteMovie(String movieName, long id) {
+	public void deleteMovie(String movieName, String id) {
 		Movie movie = movieRepository.findByMovieNameAndId(movieName, id);
 		if (movie != null) {
 			movieRepository.delete(movie);

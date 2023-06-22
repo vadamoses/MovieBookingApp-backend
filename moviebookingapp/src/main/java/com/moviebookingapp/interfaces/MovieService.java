@@ -16,7 +16,7 @@ public interface MovieService {
 
 	Movie findMovie(String movieName);
 
-	void deleteMovie(String movieName, long id);
+	void deleteMovie(String movieName, String id);
 
 	void deleteAllMovies();
 
