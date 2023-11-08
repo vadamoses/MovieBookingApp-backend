@@ -153,6 +153,7 @@ public class BookingController {
 
 		return ResponseEntity.ok().header(HttpHeaders.SET_COOKIE, jwtCookie.toString())
 				.header(HttpHeaders.SET_COOKIE, jwtRefreshCookie.toString()).body(new AuthToken(token));
+		/*return Cookies as body instead of raw token?*/
 	}
 
 	@Operation(description = "Used to register a new user.")

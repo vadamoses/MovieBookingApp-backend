@@ -80,18 +80,18 @@ public class JwtUtils implements Serializable {
 
 	public ResponseCookie generateJwtCookie(String token) {
 		LOGGER.info(MARKER, "Generating cookie");
-		return ResponseCookie.from(jwtCookie, token).path("/api").maxAge(jwtValidity * 100L)
+		return ResponseCookie.from(jwtCookie, token).path("/").maxAge(jwtValidity * 100L)
 				.httpOnly(true).build();
 	}
 
 	public ResponseCookie generateRefreshJwtCookie(String token) {
 		LOGGER.info(MARKER, "Generating refresh cookie");
-		return ResponseCookie.from(jwtRefreshCookie, token).path("/api").maxAge(jwtValidity * 400L)
-				.httpOnly(true).build();
+		return ResponseCookie.from(jwtRefreshCookie, token).path("/").maxAge(jwtValidity * 400L)
+				.httpOnly(true).build();		
 	}
 
 	public ResponseCookie getCleanJwtCookie() {
-		return ResponseCookie.from(jwtCookie, null).path("/api").build();
+		return ResponseCookie.from(jwtCookie, null).path("/").build();
 	}
 
 	public String generateToken(Authentication authentication) {

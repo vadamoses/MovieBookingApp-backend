@@ -86,16 +86,21 @@ services:
     links:
     - zookeeper
     ports:
-    - 9093:9093
+    - 9092:9092
+    - 29093:29093
+    expose:
+      - 9092
+      - 29093
     networks:
     - elastic
+    - MOVIEBOOKING
     environment:
     - KAFKA_BROKER_ID= 1
     - KAFKA_ZOOKEEPER_CONNECT= zookeeper:2181
-    - KAFKA_LISTENER_SECURITY_PROTOCOL_MAP= PLAINTEXT:PLAINTEXT,PLAINTEXT_HOST:PLAINTEXT
-    - KAFKA_INTER_BROKER_LISTENER_NAME= PLAINTEXT
-    - KAFKA_LISTENERS = PLAINTEXT://0.0.0.0:9093
-    - KAFKA_ADVERTISED_LISTENERS= PLAINTEXT://kafka:29093,PLAINTEXT_HOST://localhost:9093
+    - KAFKA_LISTENER_SECURITY_PROTOCOL_MAP= LISTENER_INTERNAL:PLAINTEXT,LISTENER_EXTERNAL:PLAINTEXT
+    - KAFKA_INTER_BROKER_LISTENER_NAME= LISTENER_INTERNAL
+    - KAFKA_LISTENERS = LISTENER_INTERNAL://0.0.0.0:29093,LISTENER_EXTERNAL://0.0.0.0:9092
+    - KAFKA_ADVERTISED_LISTENERS= LISTENER_INTERNAL://kafka:29093,LISTENER_EXTERNAL://localhost:9092
     - KAFKA_AUTO_CREATE_TOPICS_ENABLE= true
     - KAFKA_CREATE_TOPICS= moviebookingapplogs:1:1
     - KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR= 1
@@ -184,11 +189,29 @@ services:
     volumes:
     - ./grafana:/var/lib/grafana
     ports:
-    - 3000:3000
+    - 3001:3001
     depends_on:
     - prometheus
     networks:
     - elastic
+  moviebooking-app:
+    build: .
+    container_name: moviebooking-app
+    ports:
+      - "8088:8088"
+    depends_on:
+      - kafka
+      - moviebookingdb
+    networks:
+      - elastic
+      - MOVIEBOOKING
+    restart: unless-stopped
+    environment:
+      - LOGGING_CONFIG=/data/logback_config/logback-spring.xml
+      - SPRING_KAFKA_BOOTSTRAP_SERVERS=kafka:29093
+      - SPRING_DATA_MONGODB_URI=mongodb://devroot:devroot@moviebookingdb:27017/moviebookingdb?authSource=admin
+    volumes:
+      - ./logback-spring.xml:/data/logback_config/logback-spring.xml
 networks:
   MOVIEBOOKING:
     name: MOVIEBOOKING

@@ -16,10 +16,10 @@ WORKDIR /app
 
 COPY --from=build app/target/moviebookingapp-0.0.1-SNAPSHOT.jar ./
 
-COPY /moviebookingapp/src/main/resources/logback-spring.xml /deployments/ 
+COPY ./logback-spring.xml /deployments/ 
 
 EXPOSE 8088
 
-ENTRYPOINT ["java", "-jar", "moviebookingapp-0.0.1-SNAPSHOT.jar"]
+ENTRYPOINT ["java", "-Dspring.profiles.active=prod", "-jar", "moviebookingapp-0.0.1-SNAPSHOT.jar"]
 
 LABEL name = "moviebookingapp"

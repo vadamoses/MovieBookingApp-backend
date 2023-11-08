@@ -151,9 +151,9 @@ class MovieServiceImplTest {
 	void testDeleteMovie() {
 		movies.get(1).setId("12");
 
-		when(movieRepository.findByMovieNameAndId(anyString(), anyLong())).thenReturn(movies.get(1));
+		when(movieRepository.findByMovieNameAndId(anyString(), anyString())).thenReturn(movies.get(1));
 
-		movieService.deleteMovie(movies.get(1).getMovieName(), Long.valueOf(movies.get(1).getId()));
+		movieService.deleteMovie(movies.get(1).getMovieName(), movies.get(1).getId());
 
 		verify(movieRepository).delete(movies.get(1));
 	}

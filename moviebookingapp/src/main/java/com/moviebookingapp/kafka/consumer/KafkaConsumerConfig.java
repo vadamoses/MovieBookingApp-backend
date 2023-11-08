@@ -1,8 +1,10 @@
 package com.moviebookingapp.kafka.consumer;
 import org.apache.kafka.clients.consumer.ConsumerConfig;
 import org.apache.kafka.common.serialization.StringDeserializer;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
+import org.springframework.core.env.Environment;
 import org.springframework.kafka.config.ConcurrentKafkaListenerContainerFactory;
 import org.springframework.kafka.core.ConsumerFactory;
 import org.springframework.kafka.core.DefaultKafkaConsumerFactory;
@@ -12,11 +14,16 @@ import java.util.Map;
 
 @Configuration
 public class KafkaConsumerConfig {
+	
+	@Autowired
+	private Environment env;
+	
 
     @Bean
     public ConsumerFactory<String, String> consumerFactory() {
+    	String serverPort = env.getProperty("spring.kafka.bootstrap-servers");
         Map<String, Object> configProps = new HashMap<>();
-        configProps.put(ConsumerConfig.BOOTSTRAP_SERVERS_CONFIG, "localhost:9093");
+        configProps.put(ConsumerConfig.BOOTSTRAP_SERVERS_CONFIG, serverPort);
         configProps.put(ConsumerConfig.GROUP_ID_CONFIG, "${spring.kafka.consumer.group-id}");
         configProps.put(ConsumerConfig.KEY_DESERIALIZER_CLASS_CONFIG, StringDeserializer.class);
         configProps.put(ConsumerConfig.VALUE_DESERIALIZER_CLASS_CONFIG, StringDeserializer.class);
